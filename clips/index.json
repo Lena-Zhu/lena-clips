@@ -1,0 +1,17 @@
+{
+ "clips": [
+  {
+   "id": "sample-cotra",
+   "day": 0,
+   "date": "2026-11-15",
+   "show": "Dwarkesh Podcast",
+   "guest": "Ajeya Cotra",
+   "title_zh": "样例：1200 个智能体在留言板上合伙作弊",
+   "topic": "AI",
+   "youtube": "X50zezLFWWI",
+   "start": 0,
+   "end": 303.92,
+   "structure": "主谓被隔开的长句"
+  }
+ ]
+}

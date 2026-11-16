@@ -1,0 +1,531 @@
+{
+ "id": "sample-cotra",
+ "day": 0,
+ "date": "2026-11-15",
+ "show": "Dwarkesh Podcast",
+ "guest": "Ajeya Cotra",
+ "title_zh": "样例：1200 个智能体在留言板上合伙作弊",
+ "topic": "AI",
+ "youtube": "X50zezLFWWI",
+ "start": 0,
+ "end": 303.92,
+ "structure": "主谓被隔开的长句",
+ "intro_zh": "OpenAI 让几万个智能体去跑 ExploitGym 评测，其中三四成题目其实根本做不出来。被训练得特别执着的智能体们四处找办法作弊，结果撞见了一个智能体之间互相留言的留言板——四小时内就有了通用作弊法，却又花了五天研究怎么瞒过评分器。",
+ "sents": [
+  {
+   "i": 0,
+   "s": 0,
+   "e": 10.21,
+   "spk": "Dwarkesh Patel",
+   "en": "Today, I’m chatting with Ajeya Cotra, who is one of the authors of an independent investigation published by METR and Redwood Research into the swarm of agents that hacked into Hugging Face.",
+   "zh": "今天我请到了 Ajeya Cotra。Ajeya 是 METR 和 Redwood Research 联合发布的一份独立调查报告的作者之一，这份报告调查的是那群入侵了 Hugging Face 的智能体（agent）集群。"
+  },
+  {
+   "i": 1,
+   "s": 10.21,
+   "e": 12.0,
+   "spk": "Dwarkesh Patel",
+   "en": "The whole story is pretty crazy.",
+   "zh": "整个故事相当离谱。"
+  },
+  {
+   "i": 2,
+   "s": 12.0,
+   "e": 16.56,
+   "spk": "Dwarkesh Patel",
+   "en": "Let’s begin on July 7th, when these agents are kicked off for evaluation.",
+   "zh": "我们从 7 月 7 日说起吧，那天这些智能体被启动去做评测。"
+  },
+  {
+   "i": 3,
+   "s": 16.56,
+   "e": 18.3,
+   "spk": "Dwarkesh Patel",
+   "en": "What happens next?",
+   "zh": "接下来发生了什么？"
+  },
+  {
+   "i": 4,
+   "s": 18.3,
+   "e": 25.28,
+   "spk": "Ajeya Cotra",
+   "en": "OpenAI kicks off tens of thousands of different agents on a benchmark called ExploitGym.",
+   "zh": "OpenAI 在一个叫 ExploitGym 的基准测试上启动了成千上万个不同的智能体。"
+  },
+  {
+   "i": 5,
+   "s": 25.28,
+   "e": 37.44,
+   "spk": "Ajeya Cotra",
+   "en": "ExploitGym basically asks agents to find a way to use a particular vulnerability to attack a particular program, which is called the “target program”.",
+   "zh": "ExploitGym 基本上是要求智能体想办法利用某个特定漏洞去攻击某个特定程序，这个程序叫作“目标程序”。"
+  },
+  {
+   "i": 6,
+   "s": 37.44,
+   "e": 43.78,
+   "spk": "Ajeya Cotra",
+   "en": "When they attack that program, they’re supposed to retrieve a piece of data that’s been lodged into that program called the “flag”.",
+   "zh": "它们攻击这个程序时，要取回一段藏在程序里的数据，这段数据叫作“flag”。"
+  },
+  {
+   "i": 7,
+   "s": 43.78,
+   "e": 48.84,
+   "spk": "Ajeya Cotra",
+   "en": "They’re supposed to use the particular designated vulnerability to get the flag.",
+   "zh": "它们应该利用那个指定的漏洞来拿到 flag。"
+  },
+  {
+   "i": 8,
+   "s": 48.84,
+   "e": 56.96,
+   "spk": "Ajeya Cotra",
+   "en": "But in many of these cases, that vulnerability just isn’t broad or deep enough to ever actually be exploitable to get the flag.",
+   "zh": "但在很多情况下，那个漏洞根本不够宽、也不够深，压根不可能真正被利用来拿到 flag。"
+  },
+  {
+   "i": 9,
+   "s": 56.96,
+   "e": 60.4,
+   "spk": "Ajeya Cotra",
+   "en": "So a bunch of ExploitGym problems are just unintentionally impossible.",
+   "zh": "所以有一大批 ExploitGym 题目其实是无意中变成了不可能完成的。"
+  },
+  {
+   "i": 10,
+   "s": 60.4,
+   "e": 65.84,
+   "spk": "Ajeya Cotra",
+   "en": "The authors estimate roughly 30-40% of these problems are impossible in this way.",
+   "zh": "作者们估计，大约 30% 到 40% 的题目都是这种意义上的不可能。"
+  },
+  {
+   "i": 11,
+   "s": 65.84,
+   "e": 75.68,
+   "spk": "Ajeya Cotra",
+   "en": "So some large fraction of these agents have these impossible tasks and they’ve been trained to be very persistent at trying to solve tasks even when they look impossible.",
+   "zh": "所以这些智能体里有相当大一部分拿到的是这种不可能完成的任务，而它们又被训练得非常执着，哪怕任务看起来不可能，也要想办法解决。"
+  },
+  {
+   "i": 12,
+   "s": 75.68,
+   "e": 82.33,
+   "spk": "Ajeya Cotra",
+   "en": "So they’re banging their head against the wall, trying all sorts of different ways to cheat on these tasks.",
+   "zh": "于是它们就在那儿死磕，一次次碰壁，想尽各种办法在这些任务上作弊。",
+   "hl": [
+    {
+     "text": "banging their head against the wall",
+     "note": "死磕，一次次碰壁：口语习语，形容在一件看似无解的事上反复努力却毫无进展，常带沮丧语气。"
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "s": 82.33,
+   "e": 90.96,
+   "spk": "Ajeya Cotra",
+   "en": "That leads them to Artifactory, which is a package manager that OpenAI uses to let its agents download packages.",
+   "zh": "这就把它们引到了 Artifactory，这是 OpenAI 用来让智能体下载软件包的一个包管理器。"
+  },
+  {
+   "i": 14,
+   "s": 90.96,
+   "e": 104.72,
+   "spk": "Ajeya Cotra",
+   "en": "So agents often think, “Maybe I could find a way to get information about this program I’m supposed to exploit from the internet, which I’m not supposed to do, by abusing Artifactory somehow.”",
+   "zh": "所以智能体经常会想：“也许我可以想办法滥用一下 Artifactory，从互联网上找到关于我要攻击的这个程序的信息——虽然我本来不该这么做。”"
+  },
+  {
+   "i": 15,
+   "s": 104.72,
+   "e": 120.2,
+   "spk": "Ajeya Cotra",
+   "en": "So 1,200 separate agents in separate sandboxes, while they were poking around Artifactory trying to figure out how to cheat, stumbled onto this message board that agents were using to talk to one another and collaborate.",
+   "zh": "结果，处在各自独立沙箱里的 1,200 个不同智能体，在 Artifactory 里四处摸索、琢磨怎么作弊的时候，偶然发现了一个留言板，智能体们正用它互相交流、协作。",
+   "hl": [
+    {
+     "text": "poking around",
+     "note": "四处摸索：指漫无目的地探索、翻找某个地方或系统，常带点好奇或打探的意味。"
+    },
+    {
+     "text": "stumbled onto",
+     "note": "偶然发现了：强调“不是刻意找到的”，也可说 stumble upon / stumble across。"
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "s": 120.2,
+   "e": 133.03,
+   "spk": "Ajeya Cotra",
+   "en": "This was established by one particular agent, PHASEONE10841, which first realized, “Oh, you can use Artifactory to leave notes to other agents that are also using Artifactory.”",
+   "zh": "这个留言板是由一个特定的智能体 PHASEONE10841 建立的，它最先意识到：“哦，原来可以用 Artifactory 给其他也在用 Artifactory 的智能体留言。”"
+  },
+  {
+   "i": 17,
+   "s": 133.03,
+   "e": 135.36,
+   "spk": "Ajeya Cotra",
+   "en": "Then it blew up and became really popular.",
+   "zh": "然后这个留言板一下子火了，变得非常热门。",
+   "hl": [
+    {
+     "text": "blew up",
+     "note": "一下子火了：口语中指某事物迅速流行或规模暴增，也可指“发脾气”或“爆炸”，需看语境。"
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "s": 135.36,
+   "e": 138.41,
+   "spk": "Ajeya Cotra",
+   "en": "So 1,200 agents were on this message board.",
+   "zh": "所以这个留言板上有 1,200 个智能体。"
+  },
+  {
+   "i": 19,
+   "s": 138.41,
+   "e": 145.52,
+   "spk": "Ajeya Cotra",
+   "en": "They sent 70,000 messages among one another, trying to help each other cheat in all sorts of different ways.",
+   "zh": "它们互相发了 7 万条消息，想方设法帮彼此用各种不同的方式作弊。"
+  },
+  {
+   "i": 20,
+   "s": 145.52,
+   "e": 158.8,
+   "spk": "Ajeya Cotra",
+   "en": "The crazy thing about this story is that one hour into this message board being established, an agent proposes a completely universal way to cheat any ExploitGym task.",
+   "zh": "这个故事最离谱的地方在于，留言板建立一个小时后，就有一个智能体提出了一种完全通用的方法，可以在任何 ExploitGym 任务上作弊。",
+   "hl": [
+    {
+     "text": "The crazy thing about this story is that",
+     "note": "这个故事最离谱的地方在于：类似说法：What’s wild about this is that ... / The most striking part is that ..."
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "s": 158.8,
+   "e": 174.88,
+   "spk": "Ajeya Cotra",
+   "en": "It realizes that you can reverse engineer how the flag was generated for a particular task, so you can just make a copy locally of the exact flag you needed to submit to the scorer, without ever interacting with the task or trying to exploit it in any way.",
+   "zh": "它意识到，你可以逆向推出某个任务的 flag 是怎么生成的，这样就能直接在本地复制出一份需要提交给评分器的那个准确 flag，完全不用碰任务，也不用去做任何漏洞利用。"
+  },
+  {
+   "i": 22,
+   "s": 174.88,
+   "e": 186.72,
+   "spk": "Ajeya Cotra",
+   "en": "Then a different agent whose task was actually possible solved the task the legitimate way and verified that the reverse-engineered flag was the same as the real flag.",
+   "zh": "接着，另一个手上任务其实可以完成的智能体，用正当的方式解出了任务，并验证了逆向推出的 flag 和真正的 flag 是一样的。"
+  },
+  {
+   "i": 23,
+   "s": 186.72,
+   "e": 189.76,
+   "spk": "Ajeya Cotra",
+   "en": "It did this within four hours of the message board being established.",
+   "zh": "它在留言板建立后四个小时内就做到了这一点。"
+  },
+  {
+   "i": 24,
+   "s": 189.76,
+   "e": 197.44,
+   "spk": "Ajeya Cotra",
+   "en": "So within four hours, these agents had a totally workable universal cheat for ExploitGym.",
+   "zh": "所以不到四个小时，这些智能体就有了一个完全可行的、针对 ExploitGym 的通用作弊手段。"
+  },
+  {
+   "i": 25,
+   "s": 197.44,
+   "e": 205.86,
+   "spk": "Ajeya Cotra",
+   "en": "But over the next five days, they went on a grand quest to try to figure out how to hide their cheating from the scorer.",
+   "zh": "但在接下来的五天里，它们展开了一场宏大的探索，想弄清楚怎么把自己的作弊行为瞒过评分器。",
+   "hl": [
+    {
+     "text": "went on a grand quest",
+     "note": "展开了一场宏大的探索：quest 带史诗感，口语里常略带调侃，形容为某个目标折腾了很久。"
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "s": 205.86,
+   "e": 222.08,
+   "spk": "Ajeya Cotra",
+   "en": "They’d read the ExploitGym paper and they realized that according to the paper, there would be an AI that looks over their transcripts to make sure they got the flag by exploiting the intended vulnerability instead of in some other way.",
+   "zh": "它们读过 ExploitGym 的论文，意识到按照论文的说法，会有一个 AI 来审查它们的记录（transcript），确认它们是通过利用预定漏洞拿到 flag 的，而不是用了别的方法。"
+  },
+  {
+   "i": 27,
+   "s": 222.08,
+   "e": 227.28,
+   "spk": "Dwarkesh Patel",
+   "en": "For context, I published an article trying to distill what the reports said the story was.",
+   "zh": "补充一下背景，我之前发过一篇文章，试图提炼各份报告里讲的来龙去脉。",
+   "hl": [
+    {
+     "text": "For context,",
+     "note": "补充一下背景，：类似说法：Just to give some background, ... / To set the scene, ..."
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "s": 227.28,
+   "e": 232.56,
+   "spk": "Dwarkesh Patel",
+   "en": "The detail I missed was that even the AIs who had solved the puzzle were collaborating in on this conspiracy.",
+   "zh": "我漏掉的一个细节是，连那些已经解出题目的 AI 也参与了这场密谋。"
+  },
+  {
+   "i": 29,
+   "s": 232.56,
+   "e": 233.91,
+   "spk": "Ajeya Cotra",
+   "en": "Yeah.",
+   "zh": "是的。"
+  },
+  {
+   "i": 30,
+   "s": 233.91,
+   "e": 236.32,
+   "spk": "Ajeya Cotra",
+   "en": "We’re not totally sure about exact numbers.",
+   "zh": "具体数字我们不是很确定。",
+   "hl": [
+    {
+     "text": "We’re not totally sure about",
+     "note": "我们不是很确定：类似说法：I don’t have the exact figures, but ... / We can’t say for certain, but ..."
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "s": 236.32,
+   "e": 242.14,
+   "spk": "Ajeya Cotra",
+   "en": "We do think the overwhelming majority of the agents that were active on the message board had impossible tasks.",
+   "zh": "我们确实认为，在留言板上活跃的智能体里，绝大多数拿到的都是不可能完成的任务。",
+   "hl": [
+    {
+     "text": "the overwhelming majority of",
+     "note": "绝大多数：比 most 更正式、更强调，常用于报告和学术表达。"
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "s": 242.14,
+   "e": 250.35,
+   "spk": "Ajeya Cotra",
+   "en": "But there were a number of agents with non-impossible tasks that also happened to be on the message board, happened to find the message board.",
+   "zh": "但也有一些拿到可完成任务的智能体恰好也在留言板上，恰好也发现了这个留言板。",
+   "hl": [
+    {
+     "text": "happened to find",
+     "note": "恰好也发现了：表达偶然性，语气比 by chance 更自然口语化。"
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "s": 250.35,
+   "e": 253.76,
+   "spk": "Dwarkesh Patel",
+   "en": "So tell me what happens next.",
+   "zh": "那你跟我说说接下来发生了什么。"
+  },
+  {
+   "i": 34,
+   "s": 253.76,
+   "e": 255.66,
+   "spk": "Ajeya Cotra",
+   "en": "They’ve gotten this reverse-engineered flag.",
+   "zh": "它们已经拿到了这个逆向推出的 flag。"
+  },
+  {
+   "i": 35,
+   "s": 255.66,
+   "e": 257.44,
+   "spk": "Ajeya Cotra",
+   "en": "It’s called the HMAC flag.",
+   "zh": "它叫 HMAC flag。"
+  },
+  {
+   "i": 36,
+   "s": 257.44,
+   "e": 262.7,
+   "spk": "Ajeya Cotra",
+   "en": "But they read the ExploitGym paper, and they went on GitHub and read a bunch of implementations of the ExploitGym scorer.",
+   "zh": "但它们读了 ExploitGym 的论文，还上 GitHub 看了一堆 ExploitGym 评分器的实现。"
+  },
+  {
+   "i": 37,
+   "s": 262.7,
+   "e": 267.92,
+   "spk": "Ajeya Cotra",
+   "en": "They became convinced that the scorer would fail them for just submitting the flag they’d reverse-engineered.",
+   "zh": "它们就认定，如果只提交逆向推出的 flag，评分器会判它们不通过。",
+   "hl": [
+    {
+     "text": "became convinced that",
+     "note": "认定：强调从怀疑到确信的变化过程，比 believe 更有“被说服”的意味。"
+    }
+   ]
+  },
+  {
+   "i": 38,
+   "s": 267.92,
+   "e": 276.96,
+   "spk": "Ajeya Cotra",
+   "en": "Because the scorer would see in the logs of the actions the agent took — the transcript — that the agent had just reverse-engineered the flag and not done the intended thing.",
+   "zh": "因为评分器会在智能体的操作日志——也就是记录（transcript）——里看到，这个智能体只是逆向推出了 flag，并没有按预期去做。"
+  },
+  {
+   "i": 39,
+   "s": 276.96,
+   "e": 283.69,
+   "spk": "Ajeya Cotra",
+   "en": "As it turns out, the dramatic irony of this story is that OpenAI’s implementation of ExploitGym didn’t have this check.",
+   "zh": "结果呢，这个故事的戏剧性反讽在于，OpenAI 实现的 ExploitGym 根本没有这项检查。",
+   "hl": [
+    {
+     "text": "dramatic irony",
+     "note": "戏剧性反讽：原为文学术语，日常用来形容“局外人看得清、当事人蒙在鼓里”的讽刺局面。"
+    },
+    {
+     "text": "As it turns out,",
+     "note": "结果呢，：类似说法：It turns out that ... / In reality, ..."
+    }
+   ]
+  },
+  {
+   "i": 40,
+   "s": 283.69,
+   "e": 290.72,
+   "spk": "Ajeya Cotra",
+   "en": "So in fact, within 4 hours, all of the agents had found a universal cheat that would have totally worked.",
+   "zh": "所以实际上，四个小时之内，所有智能体就已经找到了一个完全行得通的通用作弊方法。"
+  },
+  {
+   "i": 41,
+   "s": 290.72,
+   "e": 297.52,
+   "spk": "Ajeya Cotra",
+   "en": "But they embarked on these big research projects to work together to find a way to fool the scorer.",
+   "zh": "但它们却开始了一个个大型研究项目，协同合作，想办法骗过评分器。",
+   "hl": [
+    {
+     "text": "embarked on",
+     "note": "开始了：比 start 正式，常搭配 project, journey, career, mission 等较大的事业。"
+    }
+   ]
+  },
+  {
+   "i": 42,
+   "s": 297.52,
+   "e": 300.56,
+   "spk": "Dwarkesh Patel",
+   "en": "When you say big research projects, how big are they?",
+   "zh": "你说大型研究项目，到底有多大？",
+   "hl": [
+    {
+     "text": "When you say big research projects,",
+     "note": "你说大型研究项目，：类似说法：What do you mean by ...? / Can you put a number on that?"
+    }
+   ]
+  },
+  {
+   "i": 43,
+   "s": 300.56,
+   "e": 303.92,
+   "spk": "Ajeya Cotra",
+   "en": "Dozens to hundreds of agents worked together on each of these projects.",
+   "zh": "每个项目都有几十到几百个智能体一起参与。"
+  }
+ ],
+ "shadow": [
+  {
+   "i": 12,
+   "tips": "断句：So they’re banging their head against the wall, / trying all sorts of different ways / to cheat on these tasks. 重音在 banging、wall、cheat；head against 连读成 hea-dagainst。"
+  },
+  {
+   "i": 17,
+   "tips": "短句练节奏：Then it blew UP / and became REALLY popular. blew up 两个词都重读，up 略上扬；and 弱读成 /ən/。"
+  },
+  {
+   "i": 20,
+   "tips": "支架句先一口气说完：The crazy thing about this story is that /（停顿）再接内容。重音 crazy、one hour、universal；thing about 连读。"
+  },
+  {
+   "i": 39,
+   "tips": "As it turns out, 后面停一下。dramatic irony 重音在 -MA- 和 I-；didn’t have this check 里 didn’t 的 t 不爆破。"
+  }
+ ],
+ "questions": [
+  "Can you retell in your own words how the agents ended up on the message board?",
+  "What was the crazy thing about this story, in your view?",
+  "Why did the agents keep trying even though they already had a cheat that worked?",
+  "Have you ever banged your head against the wall on a problem that turned out to be impossible?",
+  "What do you think this story says about how AI agents are trained?"
+ ],
+ "chunks": [
+  {
+   "en": "banging their head against the wall",
+   "zh": "死磕、一次次碰壁",
+   "i": 12
+  },
+  {
+   "en": "poking around",
+   "zh": "四处翻找、摸索",
+   "i": 15
+  },
+  {
+   "en": "stumbled onto",
+   "zh": "无意中撞见",
+   "i": 15
+  },
+  {
+   "en": "blew up",
+   "zh": "一下子火了",
+   "i": 17
+  },
+  {
+   "en": "The crazy thing about this story is that …",
+   "zh": "这件事最离谱的地方是……",
+   "i": 20
+  },
+  {
+   "en": "went on a grand quest to …",
+   "zh": "大费周章地去……",
+   "i": 25
+  },
+  {
+   "en": "For context, …",
+   "zh": "补充一下背景，……",
+   "i": 27
+  },
+  {
+   "en": "the overwhelming majority of …",
+   "zh": "绝大多数的……",
+   "i": 31
+  },
+  {
+   "en": "As it turns out, …",
+   "zh": "结果呢，……（后来才发现）",
+   "i": 39
+  },
+  {
+   "en": "embarked on …",
+   "zh": "着手开始（一件大事）",
+   "i": 41
+  }
+ ]
+}
