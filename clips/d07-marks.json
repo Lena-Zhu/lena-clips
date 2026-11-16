@@ -1,0 +1,646 @@
+{
+ "id": "d07-marks",
+ "day": 7,
+ "date": "2026-11-21",
+ "show": "Talks at Google",
+ "guest": "Howard Marks",
+ "title_zh": "Howard Marks 三句格言",
+ "topic": "投资",
+ "youtube": "6WroiiaVhGo",
+ "start": 2610.77,
+ "end": 2833.3,
+ "structure": "减省关系从句 + which 指代 + 不定式做定语",
+ "intro_zh": "橡树资本（Oaktree）联合创始人 Howard Marks 2015 年在 Google 做的演讲，讲他那本《The Most Important Thing》的来历。这是演讲的收尾：他留给听众三句他最看重的投资格言，接着回答第一个观众提问——如果人人都在躲输家，是不是反而该去追赢家？",
+ "sents": [
+  {
+   "i": 0,
+   "s": 2610.77,
+   "e": 2615.18,
+   "spk": "Howard Marks",
+   "en": "So lastly, I'll just leave you with what I consider my three greatest adages.",
+   "zh": "最后，我把我心目中最了不起的三句格言留给大家。",
+   "hl": []
+  },
+  {
+   "i": 1,
+   "s": 2615.18,
+   "e": 2620.88,
+   "spk": "Howard Marks",
+   "en": "Not mine but the ones I've encountered over my career and that have been the most helpful.",
+   "zh": "不是我说的，是我这些年碰到的、对我帮助最大的三句。",
+   "hl": [
+    {
+     "text": "the ones I've encountered over my career",
+     "note": "省略关系代词的定语从句：the ones (that) I've encountered。先说 the ones，再补「我碰到的」。"
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "s": 2620.88,
+   "e": 2623.06,
+   "spk": "Howard Marks",
+   "en": "And they're all used in the book.",
+   "zh": "书里都用到了。",
+   "hl": []
+  },
+  {
+   "i": 3,
+   "s": 2623.06,
+   "e": 2626.66,
+   "spk": "Howard Marks",
+   "en": "First of all, what the wise man does in the beginning, the fool does in the end.",
+   "zh": "第一句：智者起初做的事，愚者最后才做。",
+   "hl": []
+  },
+  {
+   "i": 4,
+   "s": 2626.66,
+   "e": 2632.21,
+   "spk": "Howard Marks",
+   "en": "In every trend in investing, it eventually becomes overdone.",
+   "zh": "投资里的每一个趋势，最终都会走过头。",
+   "hl": []
+  },
+  {
+   "i": 5,
+   "s": 2632.21,
+   "e": 2636.6,
+   "spk": "Howard Marks",
+   "en": "If you find an asset which is cheap and buy it, that's great.",
+   "zh": "你发现一项资产便宜，买下来，这很好。",
+   "hl": []
+  },
+  {
+   "i": 6,
+   "s": 2636.6,
+   "e": 2640.05,
+   "spk": "Howard Marks",
+   "en": "If everybody else figures it out that it's cheap, then it will go up.",
+   "zh": "等别人都看明白它便宜了，它就会涨。",
+   "hl": []
+  },
+  {
+   "i": 7,
+   "s": 2640.05,
+   "e": 2642.03,
+   "spk": "Howard Marks",
+   "en": "Then people see that it's rising.",
+   "zh": "然后人们看到它在涨。",
+   "hl": []
+  },
+  {
+   "i": 8,
+   "s": 2642.03,
+   "e": 2644.8,
+   "spk": "Howard Marks",
+   "en": "And more people jump on the band wagon and it goes up, up, up.",
+   "zh": "更多人跟风上车，它就一路涨、涨、涨。",
+   "hl": []
+  },
+  {
+   "i": 9,
+   "s": 2644.8,
+   "e": 2647.83,
+   "spk": "Howard Marks",
+   "en": "And the last person to buy it is a fool.",
+   "zh": "最后一个买进的人是傻子。",
+   "hl": [
+    {
+     "text": "the last person to buy it",
+     "note": "the last person to do：不定式做定语，「最后一个买的人」。"
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "s": 2647.83,
+   "e": 2650.36,
+   "spk": "Howard Marks",
+   "en": "And the first person to buy it is a wise man.",
+   "zh": "第一个买进的人是智者。",
+   "hl": [
+    {
+     "text": "the first person to buy it",
+     "note": "the first person to do：同一个结构，和上一句对照着练。"
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "s": 2650.36,
+   "e": 2651.6,
+   "spk": "Howard Marks",
+   "en": "It's the same asset.",
+   "zh": "资产是同一个。",
+   "hl": []
+  },
+  {
+   "i": 12,
+   "s": 2651.6,
+   "e": 2653.06,
+   "spk": "Howard Marks",
+   "en": "Just at different prices.",
+   "zh": "只是价格不一样。",
+   "hl": []
+  },
+  {
+   "i": 13,
+   "s": 2653.06,
+   "e": 2663.81,
+   "spk": "Howard Marks",
+   "en": "And as people say, first the innovator, then the imitator, then the idiot.",
+   "zh": "就像大家说的：先是创新者，然后是模仿者，最后是傻瓜。",
+   "hl": []
+  },
+  {
+   "i": 14,
+   "s": 2663.81,
+   "e": 2666.85,
+   "spk": "Howard Marks",
+   "en": "So that's another way to look at this adage.",
+   "zh": "这是理解这句格言的另一个角度。",
+   "hl": [
+    {
+     "text": "another way to look at this adage",
+     "note": "another way to look at…：way + to do，「看待…的另一个角度」。"
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "s": 2666.85,
+   "e": 2672.59,
+   "spk": "Howard Marks",
+   "en": "Number two, never forget the six foot tall man who drowned crossing the stream that was five feet deep on average.",
+   "zh": "第二句：永远别忘了那个身高六英尺的人，他过河时淹死了，而那条河平均水深只有五英尺。",
+   "hl": []
+  },
+  {
+   "i": 16,
+   "s": 2672.59,
+   "e": 2677.24,
+   "spk": "Howard Marks",
+   "en": "Kind of like that skydiver who's right 98% of the time.",
+   "zh": "有点像那个 98% 的时候都没出错的跳伞者。",
+   "hl": []
+  },
+  {
+   "i": 17,
+   "s": 2677.24,
+   "e": 2683.81,
+   "spk": "Howard Marks",
+   "en": "It's not sufficient, depending on how you want to live your life, to survive on average.",
+   "zh": "「平均来说能活下来」是不够的——当然这取决于你想怎么过日子。",
+   "hl": []
+  },
+  {
+   "i": 18,
+   "s": 2683.81,
+   "e": 2685.84,
+   "spk": "Howard Marks",
+   "en": "We have to survive on the bad days.",
+   "zh": "我们得在糟糕的日子里也活下来。",
+   "hl": []
+  },
+  {
+   "i": 19,
+   "s": 2685.84,
+   "e": 2689.61,
+   "spk": "Howard Marks",
+   "en": "So we have to be able to survive the low spots in the stream.",
+   "zh": "所以我们得扛得过河里最深的那几段。",
+   "hl": []
+  },
+  {
+   "i": 20,
+   "s": 2689.61,
+   "e": 2697.74,
+   "spk": "Howard Marks",
+   "en": "Your portfolio has to be set up to survive on the bad days so you won't be shaken out of your investments.",
+   "zh": "你的组合必须搭得能扛过坏日子，这样你才不会被震下车。",
+   "hl": []
+  },
+  {
+   "i": 21,
+   "s": 2697.74,
+   "e": 2703.16,
+   "spk": "Howard Marks",
+   "en": "And then finally, being too far ahead of your time is indistinguishable from being wrong.",
+   "zh": "最后一句：领先时代太多，和犯错没有区别。",
+   "hl": []
+  },
+  {
+   "i": 22,
+   "s": 2703.16,
+   "e": 2708.64,
+   "spk": "Howard Marks",
+   "en": "And yet, that's a great challenge because, as I said before, the things that are supposed to happen will not necessarily happen.",
+   "zh": "而这是个很大的挑战，因为我前面说过，该发生的事不一定会发生。",
+   "hl": []
+  },
+  {
+   "i": 23,
+   "s": 2708.64,
+   "e": 2712.34,
+   "spk": "Howard Marks",
+   "en": "And they absolutely will not happen on time.",
+   "zh": "更绝对不会按时发生。",
+   "hl": []
+  },
+  {
+   "i": 24,
+   "s": 2712.34,
+   "e": 2719.51,
+   "spk": "Howard Marks",
+   "en": "So you have to be able to live until the wisdom of your decisions is proved, if at all.",
+   "zh": "所以你得能撑到你的决定被证明是明智的那一天——如果真有那一天的话。",
+   "hl": []
+  },
+  {
+   "i": 25,
+   "s": 2719.51,
+   "e": 2728.53,
+   "spk": "Howard Marks",
+   "en": "So all of these things, I think, say something about modesty and humility of belief rather than cock sureness, which I think is the greatest risk.",
+   "zh": "所以我觉得，这几句话讲的都是信念上要谦逊、要虚心，而不是过分笃定——在我看来，过分笃定才是最大的风险。",
+   "hl": [
+    {
+     "text": ", which I think is the greatest risk",
+     "note": "which 指前面的 cock sureness（过分笃定），中间还插了 I think：「而我认为这才是最大的风险」。"
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "s": 2728.53,
+   "e": 2731.87,
+   "spk": "Howard Marks",
+   "en": "So with that, [INAUDIBLE], I'll stop talking.",
+   "zh": "那么，我就讲到这儿。",
+   "hl": []
+  },
+  {
+   "i": 27,
+   "s": 2731.87,
+   "e": 2733.39,
+   "spk": "Howard Marks",
+   "en": "And we have a little time left.",
+   "zh": "我们还有一点时间。",
+   "hl": []
+  },
+  {
+   "i": 28,
+   "s": 2733.39,
+   "e": 2735.04,
+   "spk": "Howard Marks",
+   "en": "And I'd love to take your questions.",
+   "zh": "很乐意回答大家的问题。",
+   "hl": []
+  },
+  {
+   "i": 29,
+   "s": 2735.04,
+   "e": 2735.91,
+   "spk": "Howard Marks",
+   "en": "That's what I'm here for.",
+   "zh": "我就是为这个来的。",
+   "hl": []
+  },
+  {
+   "i": 30,
+   "s": 2735.91,
+   "e": 2737.24,
+   "spk": "Host",
+   "en": "Thank you, Howard.",
+   "zh": "谢谢你，Howard。",
+   "hl": []
+  },
+  {
+   "i": 31,
+   "s": 2737.24,
+   "e": 2738.19,
+   "spk": "Host",
+   "en": "This was fascinating.",
+   "zh": "讲得太精彩了。",
+   "hl": []
+  },
+  {
+   "i": 32,
+   "s": 2738.19,
+   "e": 2739.58,
+   "spk": "Host",
+   "en": "So we are open for questions.",
+   "zh": "现在开始提问。",
+   "hl": []
+  },
+  {
+   "i": 33,
+   "s": 2739.58,
+   "e": 2742.03,
+   "spk": "Host",
+   "en": "Please raise your hand, and I'll bring the mic to you.",
+   "zh": "请举手，我把话筒递过去。",
+   "hl": []
+  },
+  {
+   "i": 34,
+   "s": 2742.03,
+   "e": 2748.57,
+   "spk": "Audience",
+   "en": "The thing you said about what the wise man does in the beginning the fool does in the end, you can come up from a single stock.",
+   "zh": "你说的「智者起初做的事，愚者最后才做」，可以从单只股票往上推。",
+   "hl": []
+  },
+  {
+   "i": 35,
+   "s": 2748.57,
+   "e": 2750.7,
+   "spk": "Audience",
+   "en": "You can think about your whole philosophy that way.",
+   "zh": "你的整套理念也可以这么看。",
+   "hl": []
+  },
+  {
+   "i": 36,
+   "s": 2750.7,
+   "e": 2754.25,
+   "spk": "Audience",
+   "en": "So you've been focusing here on avoiding losers.",
+   "zh": "你今天一直在强调避开输家。",
+   "hl": []
+  },
+  {
+   "i": 37,
+   "s": 2754.25,
+   "e": 2758.79,
+   "spk": "Audience",
+   "en": "And maybe humans are, kind of, generally focused on trying to find winners.",
+   "zh": "而人大概普遍都是盯着找赢家。",
+   "hl": []
+  },
+  {
+   "i": 38,
+   "s": 2758.79,
+   "e": 2760.51,
+   "spk": "Audience",
+   "en": "Maybe that's what we'll always do wrong.",
+   "zh": "也许这正是我们永远会做错的地方。",
+   "hl": []
+  },
+  {
+   "i": 39,
+   "s": 2760.51,
+   "e": 2766.44,
+   "spk": "Audience",
+   "en": "But if everybody in the world is trying to avoid losers, maybe the wise investor now shoots for the winners, do you know what I mean?",
+   "zh": "但如果全世界都在努力避开输家，那聪明的投资者现在也许该去追赢家了，你懂我意思吧？",
+   "hl": []
+  },
+  {
+   "i": 40,
+   "s": 2766.44,
+   "e": 2767.04,
+   "spk": "Audience",
+   "en": "Sort of self-balancing.",
+   "zh": "算是一种自我平衡。",
+   "hl": []
+  },
+  {
+   "i": 41,
+   "s": 2767.04,
+   "e": 2767.83,
+   "spk": "Howard Marks",
+   "en": "Sure.",
+   "zh": "当然。",
+   "hl": []
+  },
+  {
+   "i": 42,
+   "s": 2767.83,
+   "e": 2776.7,
+   "spk": "Howard Marks",
+   "en": "Well, number one, I don't think that we have to worry about everybody becoming to prudent or to wise because we're talking about human nature.",
+   "zh": "嗯，第一，我不认为需要担心所有人都变得太谨慎、太明智，因为我们谈的是人性。",
+   "hl": []
+  },
+  {
+   "i": 43,
+   "s": 2776.7,
+   "e": 2779.32,
+   "spk": "Howard Marks",
+   "en": "Charlie Munger-- the boys went to see Charlie Munger this week.",
+   "zh": "Charlie Munger——这几位小伙子这周刚去见了 Charlie Munger。",
+   "hl": []
+  },
+  {
+   "i": 44,
+   "s": 2779.32,
+   "e": 2787.82,
+   "spk": "Howard Marks",
+   "en": "One of the great quotes that Charlie gave me was from the philosopher Demosthenes, who said for that which a man wishes that he will believe.",
+   "zh": "Charlie 送给我的金句里有一句出自哲学家 Demosthenes，他说：人愿意相信什么，就会相信什么。",
+   "hl": []
+  },
+  {
+   "i": 45,
+   "s": 2787.82,
+   "e": 2789.85,
+   "spk": "Howard Marks",
+   "en": "What do most people want more anything else?",
+   "zh": "多数人最想要的是什么？",
+   "hl": []
+  },
+  {
+   "i": 46,
+   "s": 2789.85,
+   "e": 2791.38,
+   "spk": "Howard Marks",
+   "en": "They want to get rich.",
+   "zh": "是发财。",
+   "hl": []
+  },
+  {
+   "i": 47,
+   "s": 2791.38,
+   "e": 2799.56,
+   "spk": "Howard Marks",
+   "en": "Very few people think that the secret to their happiness comes from prudence and caution.",
+   "zh": "很少有人认为幸福的秘诀在于审慎和小心。",
+   "hl": []
+  },
+  {
+   "i": 48,
+   "s": 2799.56,
+   "e": 2804.88,
+   "spk": "Howard Marks",
+   "en": "Most people think it comes from that stroke of genius, which will put them on easy street.",
+   "zh": "多数人觉得靠的是那一下神来之笔，从此就能过上舒服日子。",
+   "hl": [
+    {
+     "text": ", which will put them on easy street",
+     "note": "which 指前面的 that stroke of genius：先说完名词，再补它会带来什么。"
+    }
+   ]
+  },
+  {
+   "i": 49,
+   "s": 2804.88,
+   "e": 2806.73,
+   "spk": "Howard Marks",
+   "en": "But you're absolutely right.",
+   "zh": "不过你说得完全对。",
+   "hl": []
+  },
+  {
+   "i": 50,
+   "s": 2806.73,
+   "e": 2813.01,
+   "spk": "Howard Marks",
+   "en": "And there are times when most people behave in a prudent and cautious manner.",
+   "zh": "确实有些时候，多数人都表现得审慎又小心。",
+   "hl": []
+  },
+  {
+   "i": 51,
+   "s": 2813.01,
+   "e": 2814.21,
+   "spk": "Howard Marks",
+   "en": "When is it?",
+   "zh": "是什么时候？",
+   "hl": []
+  },
+  {
+   "i": 52,
+   "s": 2814.21,
+   "e": 2817.08,
+   "spk": "Howard Marks",
+   "en": "It's in a crash when security prices are down here.",
+   "zh": "是崩盘的时候，证券价格跌到这儿。",
+   "hl": []
+  },
+  {
+   "i": 53,
+   "s": 2817.08,
+   "e": 2817.83,
+   "spk": "Howard Marks",
+   "en": "Right?",
+   "zh": "对吧？",
+   "hl": []
+  },
+  {
+   "i": 54,
+   "s": 2817.83,
+   "e": 2819.93,
+   "spk": "Howard Marks",
+   "en": "That's the time to turn aggressive and buy.",
+   "zh": "那才是该转守为攻、出手买入的时候。",
+   "hl": [
+    {
+     "text": "the time to turn aggressive and buy",
+     "note": "the time to do：不定式做定语，「该…的时候」。"
+    }
+   ]
+  },
+  {
+   "i": 55,
+   "s": 2819.93,
+   "e": 2827.02,
+   "spk": "Howard Marks",
+   "en": "So Buffett says the less prudence with which others conduct their affairs the greater the prudence with which we must conduct our own affairs.",
+   "zh": "所以 Buffett 说：别人行事越不审慎，我们自己行事就越要审慎。",
+   "hl": []
+  },
+  {
+   "i": 56,
+   "s": 2827.02,
+   "e": 2830.61,
+   "spk": "Howard Marks",
+   "en": "And there are times when we should turn aggressive.",
+   "zh": "也有些时候我们该转为进攻。",
+   "hl": []
+  },
+  {
+   "i": 57,
+   "s": 2830.61,
+   "e": 2833.3,
+   "spk": "Howard Marks",
+   "en": "And that's when everything's being given away.",
+   "zh": "那就是所有东西都在白送的时候。",
+   "hl": []
+  }
+ ],
+ "shadow": [
+  {
+   "i": 9,
+   "tips": "断句：And the LAST person to buy it / is a FOOL. buy it 连读 bu-yit；is a 连读 i-za；last 和 fool 对比重读。"
+  },
+  {
+   "i": 14,
+   "tips": "断句：So that's aNOther way / to LOOK at this adage. look at 连读 loo-kat；that's another 连成一串。"
+  },
+  {
+   "i": 21,
+   "tips": "断句：And then FInally, / being TOO far ahead of your time / is indisTINguishable / from being WRONG. ahead of 连读 ahea-dov；is 前面停一下，这是主语结束的地方。"
+  },
+  {
+   "i": 48,
+   "tips": "断句：MOST people think / it comes from that STROKE of genius, / which will put them on EAsy street. which 前面停顿并降调；stroke of 连读 stro-kov；put them 读成 put'em。"
+  },
+  {
+   "i": 54,
+   "tips": "断句：THAT'S the time / to turn agGRESsive / and BUY. turn aggressive 连读 tur-naggressive；and 弱读成 ən。"
+  }
+ ],
+ "questions": [
+  "Explain the first adage in your own words. Who is the wise man and who is the fool? (Try: \"The first person to… / the last person to…\")",
+  "What is the point of the six-foot-tall man story for a portfolio?",
+  "Why is being too far ahead of your time a problem to worry about?",
+  "What does Marks think is the greatest risk? (Try: \"He warns against…, which he thinks is…\")",
+  "When does Marks say is the time to turn aggressive?",
+  "Think of a trade where you were right but too early. What was the hardest thing to do while waiting? (Try: \"The hardest thing to do was…, which…\")"
+ ],
+ "chunks": [
+  {
+   "en": "I'll just leave you with ___",
+   "zh": "最后我把…留给大家",
+   "i": 0
+  },
+  {
+   "en": "jump on the band wagon",
+   "zh": "跟风上车",
+   "i": 8
+  },
+  {
+   "en": "That's another way to look at ___",
+   "zh": "这是看待…的另一个角度",
+   "i": 14
+  },
+  {
+   "en": "be shaken out of your investments",
+   "zh": "被震下车、被洗出去",
+   "i": 20
+  },
+  {
+   "en": "being too far ahead of your time is indistinguishable from being wrong",
+   "zh": "领先时代太多，和犯错没有区别",
+   "i": 21
+  },
+  {
+   "en": "___, if at all",
+   "zh": "…——如果真有的话",
+   "i": 24
+  },
+  {
+   "en": "put them on easy street",
+   "zh": "让他们从此过上舒服日子",
+   "i": 48
+  },
+  {
+   "en": "That's the time to turn aggressive and buy",
+   "zh": "那才是该转守为攻、出手买的时候",
+   "i": 54
+  }
+ ],
+ "source": "YouTube 人工字幕"
+}

@@ -1,0 +1,664 @@
+{
+ "id": "d06-altman",
+ "day": 6,
+ "date": "2026-11-20",
+ "show": "Cheeky Pint",
+ "guest": "Sam Altman",
+ "title_zh": "沙箱关得住超级AI吗",
+ "topic": "AI",
+ "youtube": "iMsUcCYNKqY",
+ "start": 388.2,
+ "end": 679.04,
+ "structure": "减省关系从句 + which 指代 + 不定式做定语",
+ "intro_zh": "OpenAI 的 CEO Sam Altman 和 Stripe 联合创始人 John Collison 在酒吧式访谈 Cheeky Pint 里聊天。这一段从「为什么要把模型一步步放给大众用」讲起，转到网络安全，最后 John 追问：把超强模型关进沙箱到底行不行？Sam 给了一个三层的回答。两人常互相打断，字幕里有不少半句话。",
+ "sents": [
+  {
+   "i": 0,
+   "s": 388.2,
+   "e": 404.76,
+   "spk": "Sam Altman",
+   "en": "One of the things that I am most proud of about OpenAI is even when it has been hugely unpopular in the AI safety community for us to push for iterative deployment and putting these tools in the hands of people, we have really stuck to that principle.",
+   "zh": "OpenAI 让我最自豪的事情之一是：哪怕我们坚持迭代式部署、把这些工具交到大家手里，在 AI 安全圈里极不受欢迎，我们也一直守住了这条原则。",
+   "hl": []
+  },
+  {
+   "i": 1,
+   "s": 404.96,
+   "e": 406.72,
+   "spk": "Sam Altman",
+   "en": "And I think this is the only kind of good path.",
+   "zh": "我认为这是唯一称得上好的路。",
+   "hl": []
+  },
+  {
+   "i": 2,
+   "s": 406.8,
+   "e": 407.44,
+   "spk": "Sam Altman",
+   "en": "I think people...",
+   "zh": "我觉得大家……",
+   "hl": []
+  },
+  {
+   "i": 3,
+   "s": 407.52,
+   "e": 412.2,
+   "spk": "Sam Altman",
+   "en": "It's not enough to tell people: \"You are going to get the model to do these great things for you.\"",
+   "zh": "光跟人说「你可以让模型替你做这些了不起的事」是不够的。",
+   "hl": []
+  },
+  {
+   "i": 4,
+   "s": 412.28,
+   "e": 418.76,
+   "spk": "Sam Altman",
+   "en": "It's got to be: \"We are going to enable you to have a better life that you define for yourself, to do useful things.",
+   "zh": "得是：「我们要让你有能力过上由你自己定义的更好的生活，去做有用的事。",
+   "hl": []
+  },
+  {
+   "i": 5,
+   "s": 418.84,
+   "e": 427.89,
+   "spk": "Sam Altman",
+   "en": "You're not going to just sit and get a basic income and have a bunch of people sitting in a few square miles of San Francisco make all the decisions about the future.\"",
+   "zh": "你不会只是坐着领一份基本收入，然后由旧金山几平方英里里坐着的一小撮人替未来做所有决定。」",
+   "hl": [
+    {
+     "text": "a bunch of people sitting in a few square miles of San Francisco",
+     "note": "people (who are) sitting in…：现在分词做后置定语。中文「旧金山几平方英里里坐着的一小撮人」全堆在前面，英文先说 people 再补。"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "s": 428.16,
+   "e": 432.36,
+   "spk": "John Collison",
+   "en": "Iterative deployment is this idea that you just have to get the advances out there and you can't...",
+   "zh": "迭代式部署就是这么个想法：你必须把进展放出去，不能……",
+   "hl": []
+  },
+  {
+   "i": 7,
+   "s": 432.44,
+   "e": 435.96,
+   "spk": "",
+   "en": "Stopper them up inside the government— I mean, not all.",
+   "zh": "把它们捂在政府内部——我是说，也不是什么都放。",
+   "hl": []
+  },
+  {
+   "i": 8,
+   "s": 436.04,
+   "e": 438.84,
+   "spk": "Sam Altman",
+   "en": "You still have to make them safe before you put them out there.",
+   "zh": "放出去之前还是得先把它们做安全。",
+   "hl": []
+  },
+  {
+   "i": 9,
+   "s": 438.92,
+   "e": 440.69,
+   "spk": "Sam Altman",
+   "en": "You can't cause havoc in the world.",
+   "zh": "不能给世界添乱。",
+   "hl": []
+  },
+  {
+   "i": 10,
+   "s": 440.92,
+   "e": 444.72,
+   "spk": "Sam Altman",
+   "en": "But, building up a capability overhang is a thing to fight against.",
+   "zh": "但是，能力攒着不放、越积越多，这是要极力避免的。",
+   "hl": [
+    {
+     "text": "a thing to fight against",
+     "note": "不定式做定语，介词 against 留在最后：a thing to fight against = 要去对抗的东西。"
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "s": 445.32,
+   "e": 448.04,
+   "spk": "",
+   "en": "That directionally speaking, yes, you want to get this into the world.",
+   "zh": "大方向上，是的，你要让它进入这个世界。",
+   "hl": []
+  },
+  {
+   "i": 12,
+   "s": 448.12,
+   "e": 449.08,
+   "spk": "",
+   "en": "You want to get this into people's hands.",
+   "zh": "你要把它交到大家手里。",
+   "hl": []
+  },
+  {
+   "i": 13,
+   "s": 449.16,
+   "e": 452.94,
+   "spk": "",
+   "en": "And you want to let people use the technology to figure out all these wonderful things.",
+   "zh": "你要让大家用这项技术，自己去摸索出各种美妙的用法。",
+   "hl": []
+  },
+  {
+   "i": 14,
+   "s": 453.16,
+   "e": 455.76,
+   "spk": "John Collison",
+   "en": "The exploits get a lot of headlines.",
+   "zh": "漏洞被利用总是上头条。",
+   "hl": []
+  },
+  {
+   "i": 15,
+   "s": 456.32,
+   "e": 458.08,
+   "spk": "John Collison",
+   "en": "The prevented exploits do not.",
+   "zh": "被挡下来的攻击却没人报道。",
+   "hl": []
+  },
+  {
+   "i": 16,
+   "s": 458.88,
+   "e": 461.6,
+   "spk": "John Collison",
+   "en": "How quickly are people making progress with cyber blue?",
+   "zh": "防守这一侧，大家进展有多快？",
+   "hl": []
+  },
+  {
+   "i": 17,
+   "s": 462.44,
+   "e": 466.46,
+   "spk": "Sam Altman",
+   "en": "I don't want to declare victory at all on the PHP thing, because I still don't think we know.",
+   "zh": "PHP 那件事我完全不想宣布胜利，因为我觉得现在还说不准。",
+   "hl": []
+  },
+  {
+   "i": 18,
+   "s": 467.08,
+   "e": 468.94,
+   "spk": "Sam Altman",
+   "en": "And I assume some bad things are going to happen.",
+   "zh": "我估计还是会出一些坏事。",
+   "hl": []
+  },
+  {
+   "i": 19,
+   "s": 469.24,
+   "e": 476.64,
+   "spk": "Sam Altman",
+   "en": "Relative to my worst fears, if I can think back 10 days ago, the first day of that went much better than I expected.",
+   "zh": "但和我最坏的担心比——回想十天前——第一天的情况比我预想的好得多。",
+   "hl": []
+  },
+  {
+   "i": 20,
+   "s": 479.08,
+   "e": 489.44,
+   "spk": "Sam Altman",
+   "en": "And, we heard a bunch of stories from people that were using our models to not only build patches and build cyber defense, but individual companies who were just: \"I need to just do a quick scan and deployment.",
+   "zh": "我们听到不少故事：有人用我们的模型，不只是做补丁、搭网络防御，还有一些公司就是：「我得赶紧扫一遍、部署一下。",
+   "hl": []
+  },
+  {
+   "i": 21,
+   "s": 489.52,
+   "e": 491.04,
+   "spk": "Sam Altman",
+   "en": "I'm going to take my thing down for an hour.",
+   "zh": "我把系统下线一小时。",
+   "hl": []
+  },
+  {
+   "i": 22,
+   "s": 491.12,
+   "e": 493.96,
+   "spk": "Sam Altman",
+   "en": "I'm going to use this thing and I want to put it back up because my application's offline.\"",
+   "zh": "用这东西处理完，就想赶紧恢复，因为我的应用现在是断线的。」",
+   "hl": []
+  },
+  {
+   "i": 23,
+   "s": 494.04,
+   "e": 498.32,
+   "spk": "Sam Altman",
+   "en": "Now I feel like I really jinxed it and I shouldn't have said that, but the first day did go a lot better than I thought.",
+   "zh": "这下我感觉自己把话说满了，不该讲的，不过第一天确实比我想的顺利得多。",
+   "hl": []
+  },
+  {
+   "i": 24,
+   "s": 498.4,
+   "e": 500.34,
+   "spk": "Sam Altman",
+   "en": "And I think people have been able to use that.",
+   "zh": "我觉得大家已经把它用起来了。",
+   "hl": []
+  },
+  {
+   "i": 25,
+   "s": 502.04,
+   "e": 504.68,
+   "spk": "Sam Altman",
+   "en": "The thing that I've heard a lot of cyber experts talk about is...",
+   "zh": "我听很多网络安全专家讲的一点是……",
+   "hl": []
+  },
+  {
+   "i": 26,
+   "s": 506.4,
+   "e": 513.1,
+   "spk": "Sam Altman",
+   "en": "They just no longer are confident that we have the right assumptions baked into our threat model.",
+   "zh": "他们已经不敢肯定，我们威胁模型里预设的那些前提是对的。",
+   "hl": [
+    {
+     "text": "the right assumptions baked into our threat model",
+     "note": "assumptions (that are) baked into…：过去分词做后置定语，「预设在威胁模型里的前提」。"
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "s": 513.44,
+   "e": 515.4,
+   "spk": "Sam Altman",
+   "en": "And they're like: \"Look.",
+   "zh": "他们说：「你看。",
+   "hl": []
+  },
+  {
+   "i": 28,
+   "s": 515.64,
+   "e": 521.92,
+   "spk": "Sam Altman",
+   "en": "If everything is what we think, and hardware exploits are as hard as we think they are, then yes, we can see how this is going to work.\"",
+   "zh": "如果一切都如我们所想，硬件漏洞也确实像我们以为的那么难利用，那好，我们能看出这事怎么行得通。」",
+   "hl": []
+  },
+  {
+   "i": 29,
+   "s": 522.04,
+   "e": 531.16,
+   "spk": "Sam Altman",
+   "en": "But if AI is going to discover really deep novel bugs in hardware that require physics we didn't understand, but all of a sudden means some assumption doesn't hold.",
+   "zh": "但如果 AI 能在硬件里发现非常深层的新型漏洞，要用到我们还不懂的物理，而这一下子就意味着某个前提不成立了。",
+   "hl": []
+  },
+  {
+   "i": 30,
+   "s": 531.24,
+   "e": 533.6,
+   "spk": "Sam Altman",
+   "en": "Then I think, people aren't sure what happens.",
+   "zh": "那我觉得，大家就不确定会怎样了。",
+   "hl": []
+  },
+  {
+   "i": 31,
+   "s": 534.28,
+   "e": 549.64,
+   "spk": "John Collison",
+   "en": "One thing that always strikes me is that, when I talk to very knowledgeable people inside OpenAI and similar companies, there is a pessimism that sandboxing is possible, basically.",
+   "zh": "一直让我印象很深的一点是，我跟 OpenAI 和同类公司里非常懂行的人聊，他们基本上对「沙箱关得住」这件事很悲观。",
+   "hl": []
+  },
+  {
+   "i": 32,
+   "s": 550.48,
+   "e": 554.4,
+   "spk": "John Collison",
+   "en": "And, that would not have been my mental model going in.",
+   "zh": "这和我原先的想法不一样。",
+   "hl": []
+  },
+  {
+   "i": 33,
+   "s": 554.52,
+   "e": 564.2,
+   "spk": "John Collison",
+   "en": "It would've been that, yeah, you have to build a really tight sandbox and we haven't hardened them historically enough compared to the current capabilities.",
+   "zh": "我原先想的是：对，你得造一个非常严密的沙箱，而对照现在的能力，我们过去加固得还不够。",
+   "hl": []
+  },
+  {
+   "i": 34,
+   "s": 564.28,
+   "e": 570.72,
+   "spk": "John Collison",
+   "en": "But ultimately, you can have a maximum security prison for the model to work in and keep it inside there.",
+   "zh": "但说到底，你总能给模型造一座最高戒备的监狱，让它在里面干活，把它关在里头。",
+   "hl": [
+    {
+     "text": "a maximum security prison for the model to work in",
+     "note": "for + 人/物 + to do 做定语，in 留在句尾：给模型在里面干活的监狱。"
+    }
+   ]
+  },
+  {
+   "i": 35,
+   "s": 571.24,
+   "e": 575.2,
+   "spk": "John Collison",
+   "en": "It seems like you guys have a pessimism that sandboxing models is possible.",
+   "zh": "而你们似乎对「沙箱能关住模型」这件事很悲观。",
+   "hl": []
+  },
+  {
+   "i": 36,
+   "s": 575.7,
+   "e": 576.64,
+   "spk": "Sam Altman",
+   "en": "My instinct...",
+   "zh": "我的直觉是……",
+   "hl": []
+  },
+  {
+   "i": 37,
+   "s": 576.72,
+   "e": 579.6,
+   "spk": "Sam Altman",
+   "en": "Well, first of all, I think we can do much better than we're doing now.",
+   "zh": "嗯，首先，我认为我们可以比现在做得好得多。",
+   "hl": []
+  },
+  {
+   "i": 38,
+   "s": 579.76,
+   "e": 580.62,
+   "spk": "Sam Altman",
+   "en": "And we should.",
+   "zh": "也应该做到。",
+   "hl": []
+  },
+  {
+   "i": 39,
+   "s": 582.24,
+   "e": 585.5,
+   "spk": "Sam Altman",
+   "en": "That is the main thing to focus on right now is a better security model.",
+   "zh": "眼下最该专注的，就是更好的安全模型。",
+   "hl": [
+    {
+     "text": "the main thing to focus on",
+     "note": "the main thing to focus on：不定式做定语，「最该专注的事」。"
+    }
+   ]
+  },
+  {
+   "i": 40,
+   "s": 586.16,
+   "e": 595.6,
+   "spk": "Sam Altman",
+   "en": "If you imagine a theoretical AI that is a million times smarter than the smartest security researcher—would you really be willing to trust that sandbox?",
+   "zh": "假如你设想一个理论上的 AI，比最聪明的安全研究员还聪明一百万倍——你真的敢信那个沙箱吗？",
+   "hl": []
+  },
+  {
+   "i": 41,
+   "s": 596.64,
+   "e": 604.0,
+   "spk": "",
+   "en": "Especially if the model can discover new science that people don't already understand— You can use the models to construct the sandboxes.",
+   "zh": "尤其是如果模型能发现人类还不懂的新科学——（插话）可以用模型来造沙箱啊。",
+   "hl": []
+  },
+  {
+   "i": 42,
+   "s": 604.08,
+   "e": 604.95,
+   "spk": "Sam Altman",
+   "en": "I think you can...",
+   "zh": "我觉得可以……",
+   "hl": []
+  },
+  {
+   "i": 43,
+   "s": 604.95,
+   "e": 605.92,
+   "spk": "Sam Altman",
+   "en": "Well, so this gets...",
+   "zh": "嗯，这就说到……",
+   "hl": []
+  },
+  {
+   "i": 44,
+   "s": 606.0,
+   "e": 607.04,
+   "spk": "Sam Altman",
+   "en": "Let me come back to that.",
+   "zh": "这个我等下再说。",
+   "hl": []
+  },
+  {
+   "i": 45,
+   "s": 608.36,
+   "e": 610.02,
+   "spk": "Sam Altman",
+   "en": "I think sandboxing works to a point.",
+   "zh": "我认为沙箱在一定程度内管用。",
+   "hl": []
+  },
+  {
+   "i": 46,
+   "s": 611.2,
+   "e": 614.4,
+   "spk": "Sam Altman",
+   "en": "Then I think monitoring works to a further point.",
+   "zh": "再往上，监控还能再管用一段。",
+   "hl": []
+  },
+  {
+   "i": 47,
+   "s": 614.48,
+   "e": 622.02,
+   "spk": "Sam Altman",
+   "en": "Where we can look at what the models are doing, not only in their chain of thought, but we can do activation monitoring and try to really understand: are the models...",
+   "zh": "我们可以看模型在做什么，不只看它的思维链，还可以做激活监控，努力真正弄清：模型是不是……",
+   "hl": []
+  },
+  {
+   "i": 48,
+   "s": 622.36,
+   "e": 624.26,
+   "spk": "Sam Altman",
+   "en": "Are we happy that the models are not deceiving us?",
+   "zh": "模型没有在骗我们，这一点我们放心吗？",
+   "hl": []
+  },
+  {
+   "i": 49,
+   "s": 624.56,
+   "e": 632.16,
+   "spk": "Sam Altman",
+   "en": "And then, eventually, I think you need to believe with huge confidence that the models are truly aligned.",
+   "zh": "而到最后，我认为你必须能极有把握地相信，模型是真正对齐的。",
+   "hl": []
+  },
+  {
+   "i": 50,
+   "s": 633.0,
+   "e": 638.16,
+   "spk": "Sam Altman",
+   "en": "And are going to value and try faithfully to follow their actual...",
+   "zh": "相信它们会重视、并且忠实地去遵循它们真正的……",
+   "hl": []
+  },
+  {
+   "i": 51,
+   "s": 638.24,
+   "e": 640.52,
+   "spk": "Sam Altman",
+   "en": "The intent of the people operating them.",
+   "zh": "操作它们的人的意图。",
+   "hl": [
+    {
+     "text": "the people operating them",
+     "note": "the people (who are) operating them：现在分词后置，「操作它们的人」。"
+    }
+   ]
+  },
+  {
+   "i": 52,
+   "s": 641.16,
+   "e": 645.0,
+   "spk": "Sam Altman",
+   "en": "And that they're going to value people being in control of the future, forever.",
+   "zh": "也相信它们会重视让人类永远掌控未来。",
+   "hl": []
+  },
+  {
+   "i": 53,
+   "s": 645.96,
+   "e": 652.2,
+   "spk": "Sam Altman",
+   "en": "And, if you had a model that you could fully trust the alignment—that you were absolutely certain of the alignment of.",
+   "zh": "如果你有一个对齐完全可以信任的模型——你对它的对齐百分之百确定。",
+   "hl": []
+  },
+  {
+   "i": 54,
+   "s": 652.28,
+   "e": 655.42,
+   "spk": "Sam Altman",
+   "en": "Then yes, I think you can have that to help you build better and better sandboxes.",
+   "zh": "那么是的，我认为可以让它来帮你造越来越好的沙箱。",
+   "hl": []
+  },
+  {
+   "i": 55,
+   "s": 655.6,
+   "e": 664.96,
+   "spk": "Sam Altman",
+   "en": "But, if you really let yourself project forward into the: \"What does it mean to have something a million times smarter than we are?\"",
+   "zh": "但如果你真的放开去想：「有个东西比我们聪明一百万倍，这意味着什么？」",
+   "hl": []
+  },
+  {
+   "i": 56,
+   "s": 664.96,
+   "e": 667.12,
+   "spk": "Sam Altman",
+   "en": "I don't know.",
+   "zh": "我不知道。",
+   "hl": []
+  },
+  {
+   "i": 57,
+   "s": 667.28,
+   "e": 668.52,
+   "spk": "Sam Altman",
+   "en": "I think that just gets...",
+   "zh": "我觉得那就变得……",
+   "hl": []
+  },
+  {
+   "i": 58,
+   "s": 668.52,
+   "e": 668.9,
+   "spk": "Sam Altman",
+   "en": "Strange.",
+   "zh": "很诡异了。",
+   "hl": []
+  },
+  {
+   "i": 59,
+   "s": 671.32,
+   "e": 672.72,
+   "spk": "Sam Altman",
+   "en": "Because the alignment becomes hard.",
+   "zh": "因为对齐会变得很难。",
+   "hl": []
+  },
+  {
+   "i": 60,
+   "s": 672.8,
+   "e": 679.04,
+   "spk": "Sam Altman",
+   "en": "Because you need to really, really trust the alignment to trust that the sandbox is staying ahead of capabilities.",
+   "zh": "因为你得非常、非常信得过对齐，才能相信沙箱一直跑在能力前面。",
+   "hl": []
+  }
+ ],
+ "shadow": [
+  {
+   "i": 10,
+   "tips": "断句：But, / building up a caPAbility overhang / is a thing to FIGHT against. building up 连读 buil-din-gup；fight against 连读 figh-dagainst，重音在 fight。"
+  },
+  {
+   "i": 26,
+   "tips": "断句：They just NO longer are confident / that we have the RIGHT assumptions / BAKED into our threat model. baked into 的 t 只读一个；right assumptions 连读 righ-dassumptions。"
+  },
+  {
+   "i": 34,
+   "tips": "断句：But ULtimately, / you can have a MAXimum security prison / for the model to WORK in / and KEEP it inside there. work in 连读 wor-kin；keep it 连读 kee-pit；for the 弱读。"
+  },
+  {
+   "i": 60,
+   "tips": "断句：Because you need to REALLY, REALLY trust the alignment / to trust that the sandbox is staying aHEAD of capabilities. 两个 really 都重读、中间小停；ahead of 连读 ahea-dov。"
+  }
+ ],
+ "questions": [
+  "What is Sam most proud of about OpenAI in this clip, and who disliked it?",
+  "According to Sam, what kind of future do people NOT want to be told about? (Try: \"A future with a few people sitting…\")",
+  "What are cyber experts no longer confident about?",
+  "Walk me through his three layers: sandboxing, monitoring, alignment. Which is the main thing to focus on right now?",
+  "Why does he say it \"gets strange\" with something a million times smarter than us?",
+  "When you use AI tools for trading research, what is the main thing to watch out for, and who are the people checking the output?"
+ ],
+ "chunks": [
+  {
+   "en": "we have really stuck to that principle",
+   "zh": "我们一直守住了这条原则",
+   "i": 0
+  },
+  {
+   "en": "It's not enough to ___",
+   "zh": "光…是不够的（后面接 It's got to be ___）",
+   "i": 3
+  },
+  {
+   "en": "I don't want to declare victory at all on ___",
+   "zh": "在…上我完全不想宣布胜利",
+   "i": 17
+  },
+  {
+   "en": "Relative to my worst fears, ___ went much better than I expected",
+   "zh": "和我最坏的担心比，…比预想的好得多",
+   "i": 19
+  },
+  {
+   "en": "I really jinxed it",
+   "zh": "我把话说满了（怕一说就坏事）",
+   "i": 23
+  },
+  {
+   "en": "that would not have been my mental model going in",
+   "zh": "这和我原先的想法不一样",
+   "i": 32
+  },
+  {
+   "en": "___ works to a point",
+   "zh": "…在一定程度内管用",
+   "i": 45
+  },
+  {
+   "en": "staying ahead of ___",
+   "zh": "一直跑在…前面",
+   "i": 60
+  }
+ ],
+ "source": "YouTube 人工字幕"
+}

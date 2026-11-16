@@ -1,0 +1,427 @@
+{
+ "id": "d03-teskey",
+ "day": 3,
+ "date": "2026-11-17",
+ "show": "Goldman Sachs Exchanges: Great Investors",
+ "guest": "Connor Teskey",
+ "title_zh": "接班时老板说的一句话",
+ "topic": "投资",
+ "youtube": "eG0tQN5gqiI",
+ "start": 1348.68,
+ "end": 1628.03,
+ "structure": "支架句 fronting",
+ "intro_zh": "Brookfield Asset Management 的 CEO Connor Teskey 年纪轻轻就接了 Bruce Flatt 的班，这是他在高盛 Great Investors 节目上的访谈。这一段他讲 Bruce 告诉他接班计划那天说的一句话，以及 Brookfield 的钱是怎么「分散找项目、集中做配置」的。",
+ "sents": [
+  {
+   "i": 0,
+   "s": 1348.68,
+   "e": 1356.03,
+   "spk": "Host",
+   "en": "So, what was the most useful thing that Bruce told you that helped you in your first 6 months in the job?",
+   "zh": "那么，Bruce 跟你说过的话里，哪一句对你上任头六个月最有帮助？",
+   "hl": []
+  },
+  {
+   "i": 1,
+   "s": 1356.03,
+   "e": 1372.91,
+   "spk": "Connor Teskey",
+   "en": "Undoubtedly, the thing having been fortunate to work with Bruce and the other senior leaders for a number of years now that that I find most helpful is just how calm and balanced they are when markets inevitably change.",
+   "zh": "毫无疑问——我有幸和 Bruce 以及其他几位资深领导共事了好些年——我觉得最受用的，是市场不可避免地变脸时，他们有多冷静、多稳。",
+   "hl": [
+    {
+     "text": "that I find most helpful is",
+     "note": "the thing … that I find most helpful is：主语里插了一大段也不怕，等 is 一出来，后面接整块内容。"
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "s": 1372.91,
+   "e": 1380.92,
+   "spk": "Connor Teskey",
+   "en": "Um we like to forecast, we like to to do due diligence, remove risk, things like that, but markets are always moving.",
+   "zh": "我们喜欢做预测，喜欢做尽调、排除风险之类的，但市场永远在动。",
+   "hl": []
+  },
+  {
+   "i": 3,
+   "s": 1380.92,
+   "e": 1396.38,
+   "spk": "Connor Teskey",
+   "en": "And one of the things that at at the very beginning you almost feel a bit unnerved by it, but that then you become accustomed to it is just the thoughtful, balanced, moderate approach to adjusting to the evolving environment that we all work and live in every day.",
+   "zh": "还有一样东西，刚开始你几乎会有点不安，后来慢慢就习惯了，那就是面对我们每天身处其中、不断变化的环境，他们那种深思熟虑、平衡、不走极端的调整方式。",
+   "hl": [
+    {
+     "text": "one of the things that",
+     "note": "one of the things that … is：先说「有一样东西」，把句子的形状定住，细节慢慢补。"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "s": 1396.38,
+   "e": 1405.63,
+   "spk": "Connor Teskey",
+   "en": "When Bruce did tell me for the first time about the succession the succession plan, um you know, your mind goes to a lot of places very, very quickly.",
+   "zh": "Bruce 第一次跟我讲接班计划的时候，你知道，脑子一下子会飘到很多地方去。",
+   "hl": []
+  },
+  {
+   "i": 5,
+   "s": 1405.63,
+   "e": 1407.75,
+   "spk": "Connor Teskey",
+   "en": "And I'm sure he said a lot of things that day.",
+   "zh": "那天他肯定说了很多话。",
+   "hl": []
+  },
+  {
+   "i": 6,
+   "s": 1407.75,
+   "e": 1418.08,
+   "spk": "Connor Teskey",
+   "en": "The one that always sticks out to me, which really grounded me very quickly, is he said, \"Don't worry whether or not you're the right person.",
+   "zh": "我一直记得的那一句——它让我很快就踏实下来——是他说：「别去想你是不是合适的人选。",
+   "hl": [
+    {
+     "text": "The one that always sticks out to me, which really grounded me very quickly, is he said",
+     "note": "The one that always sticks out to me … is he said：先立「我一直记得的那一句是」，is 后面直接引原话。"
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "s": 1418.08,
+   "e": 1420.11,
+   "spk": "Connor Teskey",
+   "en": "That was our choice, not yours.",
+   "zh": "那是我们的选择，不是你的。",
+   "hl": []
+  },
+  {
+   "i": 8,
+   "s": 1420.11,
+   "e": 1426.16,
+   "spk": "Connor Teskey",
+   "en": "We just want to make sure this is what you want and you're committed to doing it for for decades to come.\"",
+   "zh": "我们只想确认这是你想要的，而且你愿意投入几十年去做。」",
+   "hl": []
+  },
+  {
+   "i": 9,
+   "s": 1426.16,
+   "e": 1435.64,
+   "spk": "Connor Teskey",
+   "en": "And I remember mind going a lot of different directions, and the second he said that, immediately things slowed down and and did it all became a bit more digestible.",
+   "zh": "我记得当时脑子里千头万绪，他这话一出口，一切立刻慢了下来，也变得好消化多了。",
+   "hl": []
+  },
+  {
+   "i": 10,
+   "s": 1435.64,
+   "e": 1444.33,
+   "spk": "Host",
+   "en": "Yeah, that's very thoughtful because to your point earlier about we're all a little insecure, it takes your insecurity away because you didn't make the decision, they did.",
+   "zh": "嗯，这话很有心。就像你前面说的，我们每个人多少都有点不自信，而这句话把你的不安拿走了，因为做决定的不是你，是他们。",
+   "hl": []
+  },
+  {
+   "i": 11,
+   "s": 1444.33,
+   "e": 1446.99,
+   "spk": "Connor Teskey",
+   "en": "Yeah, I I I'll be honest, I I use Bruce's line now.",
+   "zh": "是啊，说实话，我现在也在用 Bruce 这句话。",
+   "hl": []
+  },
+  {
+   "i": 12,
+   "s": 1446.99,
+   "e": 1447.3,
+   "spk": "Host",
+   "en": "Yeah.",
+   "zh": "嗯。",
+   "hl": []
+  },
+  {
+   "i": 13,
+   "s": 1447.3,
+   "e": 1449.13,
+   "spk": "Host",
+   "en": "No, no, I I think it's a good one.",
+   "zh": "不不，我觉得这句话很好。",
+   "hl": []
+  },
+  {
+   "i": 14,
+   "s": 1449.13,
+   "e": 1451.39,
+   "spk": "Host",
+   "en": "I may have to incorporate it myself.",
+   "zh": "我可能也得拿来用用。",
+   "hl": []
+  },
+  {
+   "i": 15,
+   "s": 1451.39,
+   "e": 1456.43,
+   "spk": "Host",
+   "en": "Um so, how are involved are you now in the day-to-day investment decisions?",
+   "zh": "那么，现在日常的投资决策你参与得有多深？",
+   "hl": []
+  },
+  {
+   "i": 16,
+   "s": 1457.51,
+   "e": 1474.01,
+   "spk": "Connor Teskey",
+   "en": "So, uh I sit on all the investment committees, so oversee any time around the world that that Brookfield deploys capital, but I think it's important to recognize, with the scale of our operation, um how we deploy capital.",
+   "zh": "我在所有的投资委员会里都有席位，所以 Brookfield 在全球任何地方投出资金，我都会把关。不过考虑到我们的体量，有必要先讲清楚我们是怎么配置资金的。",
+   "hl": []
+  },
+  {
+   "i": 17,
+   "s": 1474.01,
+   "e": 1483.38,
+   "spk": "Connor Teskey",
+   "en": "And the way Brookfield operates is we source, execute, and operate in an incredibly decentralized manner.",
+   "zh": "Brookfield 的运作方式是：找项目、执行、运营，全都高度分散。",
+   "hl": [
+    {
+     "text": "the way Brookfield operates is",
+     "note": "The way … operates is + 整句：解释「怎么运作」的万能开头。"
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "s": 1483.38,
+   "e": 1494.39,
+   "spk": "Connor Teskey",
+   "en": "For every region around the world that we want to own or invest in assets, and for every asset class around the world, we have a dedicated local team.",
+   "zh": "在全球我们想持有或投资资产的每个地区、每个资产类别，我们都有一支专门的本地团队。",
+   "hl": []
+  },
+  {
+   "i": 19,
+   "s": 1494.39,
+   "e": 1511.94,
+   "spk": "Connor Teskey",
+   "en": "And those teams are empowered to know everything about that market, go find no know all the themes, know the value levers that are coming, position the business to capture that value, see the risks that are coming, position the business to mitigate that risk in a very decentralized manner.",
+   "zh": "这些团队有充分的授权：把那个市场摸透，了解所有的主题，知道接下来的价值抓手在哪儿、让业务提前卡位去拿到这份价值，看到要来的风险、让业务提前做好缓冲——全都是高度分散地进行。",
+   "hl": []
+  },
+  {
+   "i": 20,
+   "s": 1511.94,
+   "e": 1516.99,
+   "spk": "Connor Teskey",
+   "en": "But we actually allocate capital in a quite centralized group.",
+   "zh": "但资金配置，其实是由一个相当集中的小组来做。",
+   "hl": []
+  },
+  {
+   "i": 21,
+   "s": 1516.99,
+   "e": 1533.35,
+   "spk": "Connor Teskey",
+   "en": "And it's in that way that we can grow fast and be local in so many markets around the world, but we can also consolidate all that knowledge to use that global perspective to allocate capital to where we see the the best risk-adjusted returns.",
+   "zh": "正是靠这种方式，我们既能长得快、在全球那么多市场做到本地化，又能把所有这些认知汇总起来，用全球视角把资金配到我们认为风险调整后回报最好的地方。",
+   "hl": [
+    {
+     "text": "it's in that way that",
+     "note": "it's in that way that…（强调句）：把「正是靠这种方式」提到最前面。"
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "s": 1533.87,
+   "e": 1540.25,
+   "spk": "Connor Teskey",
+   "en": "So, myself and a number of the members of the senior team sit on that centralized investment committee.",
+   "zh": "所以，我和高层团队的几位成员都在这个集中的投资委员会里。",
+   "hl": []
+  },
+  {
+   "i": 23,
+   "s": 1540.25,
+   "e": 1555.91,
+   "spk": "Connor Teskey",
+   "en": "I always feel it would be the wrong approach for me to try to be the expert in a specific asset class or region where we've got a dedicated team that does it 24 hours a day, 7 days a week, 365 days a year.",
+   "zh": "我一直觉得，某个具体的资产类别或地区，我们已经有专门的团队一年 365 天、一周 7 天、一天 24 小时扑在上面，我还要去充当专家，那就走错路了。",
+   "hl": []
+  },
+  {
+   "i": 24,
+   "s": 1555.91,
+   "e": 1560.19,
+   "spk": "Connor Teskey",
+   "en": "I'm rarely questioning underwriting assumptions.",
+   "zh": "我很少去质疑估值测算里的假设。",
+   "hl": []
+  },
+  {
+   "i": 25,
+   "s": 1560.75,
+   "e": 1562.52,
+   "spk": "Connor Teskey",
+   "en": "Um we have experts for that.",
+   "zh": "那些有专家负责。",
+   "hl": []
+  },
+  {
+   "i": 26,
+   "s": 1562.52,
+   "e": 1570.69,
+   "spk": "Connor Teskey",
+   "en": "What we do on that investment committee is think more high-level, more strategic in terms of our comments and our feedback.",
+   "zh": "我们在投资委员会上做的，是从更高的层面、更偏战略的角度去提意见和反馈。",
+   "hl": [
+    {
+     "text": "What we do on that investment committee is",
+     "note": "What we do … is + 动词原形：what 从句占住主语，is 后面直接接 think。"
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "s": 1570.69,
+   "e": 1583.88,
+   "spk": "Connor Teskey",
+   "en": "One of the things your question triggers a little bit is it seems to us a little bit silly to bet on a competitive advantage of simply being smarter than everyone into perpetuity.",
+   "zh": "你这个问题让我想到一点：指望靠「永远比所有人都聪明」来建立竞争优势，在我们看来有点傻。",
+   "hl": [
+    {
+     "text": "One of the things your question triggers a little bit is",
+     "note": "One of the things your question triggers is：接别人问题、引出自己观点的架子。"
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "s": 1583.88,
+   "e": 1595.96,
+   "spk": "Connor Teskey",
+   "en": "Uh you want to create structural and enduring competitive advantages that allow you to deploy very attractive risk-adjusted returns at an incredible scale and consistency that few can match.",
+   "zh": "你要打造的是结构性的、持久的竞争优势，让你能以极少有人做得到的规模和稳定性，持续投出风险调整后很有吸引力的回报。",
+   "hl": []
+  },
+  {
+   "i": 29,
+   "s": 1595.96,
+   "e": 1597.09,
+   "spk": "Connor Teskey",
+   "en": "That is our brand.",
+   "zh": "这就是我们的招牌。",
+   "hl": [
+    {
+     "text": "That is our brand.",
+     "note": "That is…：用 that 一把收住前面一长串，再下结论。"
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "s": 1597.09,
+   "e": 1617.59,
+   "spk": "Connor Teskey",
+   "en": "So, we spend a lot of time focusing on enhancing those strategic competitive and enduring competitive advantages such that it's not just making the next good investment, it's putting the firm in a position to make several good investments in the the years and decades to come.",
+   "zh": "所以我们花很多时间去加固这些战略性的、持久的竞争优势，这样做的就不只是下一笔好投资，而是让公司在未来几年、几十年里都处在能连续做出好投资的位置上。",
+   "hl": []
+  },
+  {
+   "i": 31,
+   "s": 1617.59,
+   "e": 1626.13,
+   "spk": "Connor Teskey",
+   "en": "And that's things like focusing on changes in global themes, where is capital flowing, do we have the right people in the right expertise in the organization?",
+   "zh": "具体就是关注全球主题的变化：资金在往哪儿流，我们组织里有没有对的人、对的专业能力？",
+   "hl": []
+  },
+  {
+   "i": 32,
+   "s": 1626.13,
+   "e": 1628.03,
+   "spk": "Connor Teskey",
+   "en": "That's where we spend a lot of time.",
+   "zh": "我们的时间大量花在这儿。",
+   "hl": [
+    {
+     "text": "That's where",
+     "note": "That's where…：收尾句，「我们的时间就花在这儿」。"
+    }
+   ]
+  }
+ ],
+ "shadow": [
+  {
+   "i": 17,
+   "tips": "断句：And the WAY Brookfield operates is / we SOURCE, / EXecute, / and OPerate / in an incredibly deCENtralized manner. is 后面停；三个动词各自重读、中间小停；in an incredibly 连成一串。"
+  },
+  {
+   "i": 20,
+   "tips": "断句：But we ACtually allocate capital / in a quite CENtralized group. 这句和上面 decentralized 对比，centralized 要重读；allocate capital 两个 k 音只爆破一次。"
+  },
+  {
+   "i": 26,
+   "tips": "断句：What we DO on that investment committee / is / think more HIGH-level, / more straTEgic / in terms of our comments and our feedback. is 前后都停；in terms of 弱读带过。"
+  },
+  {
+   "i": 32,
+   "tips": "断句：THAT'S where we spend / a LOT of time. that's 重读；lot of 连读成 lo-dov；spend a 连读。"
+  }
+ ],
+ "questions": [
+  "What was the most useful thing Bruce told him? (Try: \"The one that sticks out is…\")",
+  "Why did that one line calm him down so quickly?",
+  "How does Brookfield split the work between local teams and the central committee? (Try: \"The way it works is…\")",
+  "What does the investment committee actually do, and what does it NOT do?",
+  "What does he think is silly to bet on, and what would he build instead?",
+  "In your own trading, what do you decide yourself and what do you leave to a model or a rule? (Try: \"What I do myself is…\")"
+ ],
+ "chunks": [
+  {
+   "en": "your mind goes to a lot of places",
+   "zh": "脑子一下子飘到很多地方、千头万绪",
+   "i": 4
+  },
+  {
+   "en": "The one that always sticks out to me is ___",
+   "zh": "我一直记得最清楚的是…",
+   "i": 6
+  },
+  {
+   "en": "for decades to come",
+   "zh": "在未来几十年里",
+   "i": 8
+  },
+  {
+   "en": "to your point earlier about ___",
+   "zh": "就像你前面说的…",
+   "i": 10
+  },
+  {
+   "en": "it would be the wrong approach for me to ___",
+   "zh": "我去做…就走错路了",
+   "i": 23
+  },
+  {
+   "en": "it seems a little bit silly to bet on ___",
+   "zh": "把宝押在…上有点傻",
+   "i": 27
+  },
+  {
+   "en": "at an incredible scale and consistency that few can match",
+   "zh": "以极少有人比得上的规模和稳定性",
+   "i": 28
+  },
+  {
+   "en": "putting the firm in a position to ___",
+   "zh": "让公司处在能…的位置上",
+   "i": 30
+  }
+ ],
+ "source": "YouTube 人工字幕"
+}

@@ -1,0 +1,470 @@
+{
+ "id": "d04-tao",
+ "day": 4,
+ "date": "2026-11-18",
+ "show": "Conversations with Tyler",
+ "guest": "Terence Tao",
+ "title_zh": "AI 时代论文还算数吗",
+ "topic": "AI",
+ "youtube": "XB5oudgNWO8",
+ "start": 2682.64,
+ "end": 2973.0,
+ "structure": "减省关系从句 + which 指代 + 不定式做定语",
+ "intro_zh": "菲尔兹奖得主、数学家 Terence Tao 做客 Tyler Cowen 的节目。这一段聊的是：AI 按个按钮就能生成论文之后，「一篇论文」还会不会是数学研究的基本单位，数学家之间又该怎么协作、怎么交流。",
+ "sents": [
+  {
+   "i": 0,
+   "s": 2682.64,
+   "e": 2689.36,
+   "spk": "Tyler Cowen",
+   "en": "Will the individual paper still be the research unit for human mathematicians, or will that change also?",
+   "zh": "对人类数学家来说，单篇论文还会是研究的基本单位吗？还是这一点也会变？",
+   "hl": []
+  },
+  {
+   "i": 1,
+   "s": 2689.36,
+   "e": 2697.34,
+   "spk": "Terence Tao",
+   "en": "I believe that will change, especially since now AIs can generate that unit at a press of a button.",
+   "zh": "我相信会变，尤其是现在 AI 按一下按钮就能生成这个单位。",
+   "hl": []
+  },
+  {
+   "i": 2,
+   "s": 2697.34,
+   "e": 2702.48,
+   "spk": "Terence Tao",
+   "en": "First of all, that unit used to be bundled with other valuable things.",
+   "zh": "首先，这个单位过去是和其他有价值的东西捆在一起的。",
+   "hl": []
+  },
+  {
+   "i": 3,
+   "s": 2703.28,
+   "e": 2711.12,
+   "spk": "Terence Tao",
+   "en": "Traditionally, when a mathematician created a paper, they also created a skilled author who could then give talks about that paper.",
+   "zh": "传统上，一位数学家写出一篇论文的同时，也造就了一位内行的作者，他可以去就这篇论文做报告。",
+   "hl": []
+  },
+  {
+   "i": 4,
+   "s": 2711.12,
+   "e": 2716.91,
+   "spk": "Terence Tao",
+   "en": "They could go to conferences, they could interact with other humans, they could train students.",
+   "zh": "他可以去开会，可以和别人交流，可以带学生。",
+   "hl": []
+  },
+  {
+   "i": 5,
+   "s": 2716.91,
+   "e": 2723.76,
+   "spk": "Terence Tao",
+   "en": "Through that, they can discover new connections, new collaborations, new questions to ask.",
+   "zh": "通过这些，他们能发现新的联系、新的合作、新的值得问的问题。",
+   "hl": [
+    {
+     "text": "new questions to ask",
+     "note": "不定式做定语：questions to ask = 值得问的问题。中文是「值得问的」放前面，英文先说 questions 再补 to ask。"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "s": 2725.04,
+   "e": 2729.12,
+   "spk": "Terence Tao",
+   "en": "Now we have these AIs that generate the paper, but without all that extra value.",
+   "zh": "现在这些 AI 能生成论文，却不带这些附加价值。",
+   "hl": []
+  },
+  {
+   "i": 7,
+   "s": 2729.12,
+   "e": 2741.95,
+   "spk": "Terence Tao",
+   "en": "They have unbundled the PDF, the actual physical paper, from the penumbra of more social or intangible values of that paper.",
+   "zh": "它们把 PDF、也就是论文本身，从围绕论文的那一圈社交性的、无形的价值里拆了出来。",
+   "hl": []
+  },
+  {
+   "i": 8,
+   "s": 2741.95,
+   "e": 2753.44,
+   "spk": "Terence Tao",
+   "en": "Also, when a human solves those and writes a paper, it came from first understanding the problem and getting some insights, and that you can communicate.",
+   "zh": "另外，人解出问题、写成论文，是先理解了问题、得到了一些洞见，而这些是可以讲给别人听的。",
+   "hl": []
+  },
+  {
+   "i": 9,
+   "s": 2753.44,
+   "e": 2759.05,
+   "spk": "Terence Tao",
+   "en": "The AI often does not communicate what it learned when it solves the problem.",
+   "zh": "AI 解出问题时，往往不会告诉你它学到了什么。",
+   "hl": []
+  },
+  {
+   "i": 10,
+   "s": 2759.05,
+   "e": 2762.56,
+   "spk": "Terence Tao",
+   "en": "It just gives you the output, but the process is very opaque.",
+   "zh": "它只给你结果，过程却很不透明。",
+   "hl": []
+  },
+  {
+   "i": 11,
+   "s": 2764.16,
+   "e": 2768.79,
+   "spk": "Terence Tao",
+   "en": "On the one hand, I think papers will evolve to show much more of the process.",
+   "zh": "一方面，我认为论文会演变成更多地展示过程。",
+   "hl": []
+  },
+  {
+   "i": 12,
+   "s": 2768.79,
+   "e": 2775.8,
+   "spk": "Terence Tao",
+   "en": "We have focused a bit too much in the past on just showing the finished product, but we’ve seen it in other disciplines.",
+   "zh": "过去我们有点太偏重只展示成品了，而别的领域已经有先例。",
+   "hl": []
+  },
+  {
+   "i": 13,
+   "s": 2775.8,
+   "e": 2781.83,
+   "spk": "Terence Tao",
+   "en": "Movies are enriched when you see behind-the-scenes documentaries and lots of extra material.",
+   "zh": "电影有了幕后纪录片和大量花絮，会更有看头。",
+   "hl": []
+  },
+  {
+   "i": 14,
+   "s": 2781.83,
+   "e": 2786.64,
+   "spk": "Terence Tao",
+   "en": "People enjoy that extra content, and I think papers will move in that direction.",
+   "zh": "大家爱看这些额外的内容，我觉得论文也会往这个方向走。",
+   "hl": []
+  },
+  {
+   "i": 15,
+   "s": 2786.64,
+   "e": 2791.12,
+   "spk": "Terence Tao",
+   "en": "I also think that we will also work at much larger scales than papers.",
+   "zh": "我还认为，我们会在比论文大得多的尺度上工作。",
+   "hl": []
+  },
+  {
+   "i": 16,
+   "s": 2791.12,
+   "e": 2807.64,
+   "spk": "Terence Tao",
+   "en": "We will see entire databases which are like the equivalent of thousands of papers networked together in a single spreadsheet, which you can query and you can update in real time, and you can get all these visualizations, which you just could not do with the old system.",
+   "zh": "我们会看到完整的数据库，相当于把几千篇论文连成一张表，你可以查询、可以实时更新，还能做出各种可视化，这在旧体系里根本做不到。",
+   "hl": [
+    {
+     "text": "thousands of papers networked together in a single spreadsheet",
+     "note": "过去分词做后置定语：papers (that are) networked together，省掉 that are。"
+    },
+    {
+     "text": ", which you can query",
+     "note": "which 指前面的 spreadsheet / 数据库，先把名词说完，再用 which 补一句。"
+    },
+    {
+     "text": ", which you just could not do with the old system",
+     "note": "which 指代前面整件事（查询、更新、可视化），不是某个名词——「而这在旧体系里做不到」。"
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "s": 2807.64,
+   "e": 2816.24,
+   "spk": "Terence Tao",
+   "en": "Or every time you wanted a new way to visualize the literature, someone has to write a new paper, and you have to wait a year before you get a different view.",
+   "zh": "旧体系里，每次你想换一种方式把文献呈现出来，就得有人新写一篇论文，你还得等上一年才看得到不同的视角。",
+   "hl": [
+    {
+     "text": "a new way to visualize the literature",
+     "note": "不定式做定语：a way to do = 做某事的方式。"
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "s": 2816.24,
+   "e": 2819.36,
+   "spk": "Terence Tao",
+   "en": "You should be able to see an entire field.",
+   "zh": "你本该能一眼看到整个领域。",
+   "hl": []
+  },
+  {
+   "i": 19,
+   "s": 2819.36,
+   "e": 2825.3,
+   "spk": "Terence Tao",
+   "en": "I think people will have to move to more collaborative, big math projects.",
+   "zh": "我认为大家得转向协作性更强的大型数学项目。",
+   "hl": []
+  },
+  {
+   "i": 20,
+   "s": 2825.3,
+   "e": 2839.78,
+   "spk": "Terence Tao",
+   "en": "Instead of a small number of people working on individual papers and then contributing atomically to the literature, the literature itself would be a much more networked, living, collaborative entity where both AIs and humans can collaborate.",
+   "zh": "不再是少数几个人各写各的论文、再零零散散地往文献里添一笔；文献本身会变成一个更加互联、鲜活、协作的整体，AI 和人都能在里面合作。",
+   "hl": [
+    {
+     "text": "a small number of people working on individual papers",
+     "note": "现在分词做后置定语：people (who are) working on…，省掉 who are。"
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "s": 2839.78,
+   "e": 2842.16,
+   "spk": "Terence Tao",
+   "en": "I think this is the only way forward.",
+   "zh": "我认为这是唯一的出路。",
+   "hl": []
+  },
+  {
+   "i": 22,
+   "s": 2842.16,
+   "e": 2850.69,
+   "spk": "Terence Tao",
+   "en": "We’ve seen in recent months that brute competition between humans and AIs is becoming very counterproductive.",
+   "zh": "最近几个月我们已经看到，人和 AI 硬碰硬地竞争，结果越来越适得其反。",
+   "hl": []
+  },
+  {
+   "i": 23,
+   "s": 2850.69,
+   "e": 2865.72,
+   "spk": "Terence Tao",
+   "en": "People are just racing to dump out a paper three minutes before someone else with an AI is generating almost exactly the same paper, and everyone is cutting corners and making the papers harder and harder to read just because they want the priority.",
+   "zh": "大家抢着把论文甩出来，就为了比另一个用 AI 生成几乎一模一样论文的人早三分钟；人人都在偷工减料，论文越写越难读，只因为想抢优先权。",
+   "hl": []
+  },
+  {
+   "i": 24,
+   "s": 2865.72,
+   "e": 2874.88,
+   "spk": "Terence Tao",
+   "en": "Priority used to be a very good way to organize our field and encourage people to produce results in a timely fashion.",
+   "zh": "优先权曾经是组织我们这个领域、鼓励大家及时出成果的好办法。",
+   "hl": [
+    {
+     "text": "a very good way to organize our field",
+     "note": "a way to + 动词：先说 way，再补是干什么的方式。"
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "s": 2874.88,
+   "e": 2882.2,
+   "spk": "Terence Tao",
+   "en": "The metric has become way too over-optimized now, and we need to switch, as you say, to beyond thinking at the scale of a single paper.",
+   "zh": "现在这个指标被优化得太过头了，我们需要像你说的那样，跳出单篇论文这个尺度去思考。",
+   "hl": []
+  },
+  {
+   "i": 26,
+   "s": 2882.2,
+   "e": 2889.1,
+   "spk": "Tyler Cowen",
+   "en": "Now, you had started a new “journal,” if that’s the right word, where people submit video talks rather than printed papers.",
+   "zh": "你之前办了一份新「期刊」——如果能这么叫的话——投稿的是视频报告，而不是印出来的论文。",
+   "hl": []
+  },
+  {
+   "i": 27,
+   "s": 2889.1,
+   "e": 2892.56,
+   "spk": "Tyler Cowen",
+   "en": "Does that now become more important or less important?",
+   "zh": "这件事现在变得更重要还是更不重要了？",
+   "hl": []
+  },
+  {
+   "i": 28,
+   "s": 2892.56,
+   "e": 2899.19,
+   "spk": "Terence Tao",
+   "en": "I believe exposition, in general, has been undervalued in mathematics.",
+   "zh": "我认为，「把东西讲明白」这件事在数学界总体上一直被低估了。",
+   "hl": []
+  },
+  {
+   "i": 29,
+   "s": 2899.19,
+   "e": 2902.6,
+   "spk": "Terence Tao",
+   "en": "We used to let the papers speak for themselves.",
+   "zh": "我们过去是让论文自己说话。",
+   "hl": []
+  },
+  {
+   "i": 30,
+   "s": 2902.6,
+   "e": 2916.51,
+   "spk": "Terence Tao",
+   "en": "Proofs were scarce, and there were few enough difficult papers that it worked that, when a new result came out that was interesting, everyone dropped what they were doing and read those papers.",
+   "zh": "那时证明很稀缺，难的论文也少，所以行得通：一个有意思的新结果出来，大家都放下手头的事去读那些论文。",
+   "hl": []
+  },
+  {
+   "i": 31,
+   "s": 2916.51,
+   "e": 2924.64,
+   "spk": "Terence Tao",
+   "en": "Now, the flood of papers coming out, in every field, there are 10 times, 100 times more interesting papers than people can read.",
+   "zh": "现在论文像洪水一样涌出来，每个领域里有意思的论文都比人读得过来的多十倍、一百倍。",
+   "hl": [
+    {
+     "text": "the flood of papers coming out",
+     "note": "papers (that are) coming out：现在分词后置，「正在涌出来的论文」。"
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "s": 2924.64,
+   "e": 2932.14,
+   "spk": "Terence Tao",
+   "en": "The bottleneck is now, what are the results that can be explained human to human?",
+   "zh": "现在的瓶颈是：哪些结果是人能给人讲明白的？",
+   "hl": []
+  },
+  {
+   "i": 33,
+   "s": 2932.14,
+   "e": 2936.02,
+   "spk": "Terence Tao",
+   "en": "Papers are actually a very terrible way to communicate.",
+   "zh": "论文其实是一种很糟糕的交流方式。",
+   "hl": [
+    {
+     "text": "a very terrible way to communicate",
+     "note": "a way to communicate：不定式做定语，中文的「…的方式」整个挪到名词后面。"
+    }
+   ]
+  },
+  {
+   "i": 34,
+   "s": 2936.02,
+   "e": 2950.93,
+   "spk": "Terence Tao",
+   "en": "Most people have not had the experience of reading an academic paper, but it’s much easier if you can interact with a human expert and ask questions, use body language, use some visual aids.",
+   "zh": "多数人没读过学术论文，但如果你能和一位真人专家互动，提问，用肢体语言，用点图示，就容易多了。",
+   "hl": []
+  },
+  {
+   "i": 35,
+   "s": 2950.93,
+   "e": 2955.5,
+   "spk": "Terence Tao",
+   "en": "Talks have been one of the traditional ways in which we do that.",
+   "zh": "报告一直是我们做这件事的传统方式之一。",
+   "hl": []
+  },
+  {
+   "i": 36,
+   "s": 2955.5,
+   "e": 2968.0,
+   "spk": "Terence Tao",
+   "en": "We view these as secondary byproducts of research, but I think, increasingly, they will become one of the primary outputs, especially since papers can be generated now by AIs.",
+   "zh": "我们把这些看作研究的次要副产品，但我认为它们会越来越成为主要产出之一，尤其是现在论文可以由 AI 生成。",
+   "hl": []
+  },
+  {
+   "i": 37,
+   "s": 2968.0,
+   "e": 2973.0,
+   "spk": "Terence Tao",
+   "en": "Having the human-to-human experience is increasingly valuable.",
+   "zh": "人与人之间的这种交流体验越来越有价值。",
+   "hl": []
+  }
+ ],
+ "shadow": [
+  {
+   "i": 5,
+   "tips": "断句：Through THAT, / they can discover new conNECtions, / new collaboRAtions, / new QUEStions to ask. 三个 new 并列，每项后小停；questions to ask 一口气，to 弱读。"
+  },
+  {
+   "i": 24,
+   "tips": "断句：PriORity used to be a very good WAY / to ORganize our field / and encourage people to produce reSULTS / in a TIMEly fashion. used to 读成 yoosta；way 后面停一下再接 to organize。"
+  },
+  {
+   "i": 31,
+   "tips": "断句：NOW, / the FLOOD of papers coming out, / in EVery field, / there are TEN times, / a HUNdred times more interesting papers / than people can READ. flood of 连读 flu-dov；papers coming out 不要断开。"
+  },
+  {
+   "i": 33,
+   "tips": "断句：Papers are ACtually / a very TERrible way to communicate. 重音 actually、terrible；way to 的 to 弱读成 tə。"
+  }
+ ],
+ "questions": [
+  "What used to come bundled with a paper, according to Tao? (Try: \"A mathematician writing a paper also…\")",
+  "What does he think papers will look like in the future? Describe the databases he imagines, using \"…, which…\".",
+  "What is happening to people racing to publish first, and why is it counterproductive?",
+  "Why does he call papers a terrible way to communicate? What does he think is a better way to explain results?",
+  "Is priority still a good way to organize a field? What is his view?",
+  "In your own trading research, what is something worth showing the process of, not just the finished result? (Try: \"One thing worth showing is…, which…\")"
+ ],
+ "chunks": [
+  {
+   "en": "at a press of a button",
+   "zh": "按一下按钮就能…",
+   "i": 1
+  },
+  {
+   "en": "___ used to be bundled with ___",
+   "zh": "…过去是和…捆在一起的",
+   "i": 2
+  },
+  {
+   "en": "I think ___ will move in that direction",
+   "zh": "我觉得…会往那个方向走",
+   "i": 14
+  },
+  {
+   "en": "cutting corners",
+   "zh": "偷工减料、图省事",
+   "i": 23
+  },
+  {
+   "en": "in a timely fashion",
+   "zh": "及时地",
+   "i": 24
+  },
+  {
+   "en": "let the papers speak for themselves",
+   "zh": "让论文自己说话",
+   "i": 29
+  },
+  {
+   "en": "everyone dropped what they were doing and ___",
+   "zh": "大家都放下手头的事去…",
+   "i": 30
+  },
+  {
+   "en": "The bottleneck is now, ___",
+   "zh": "现在的瓶颈是…",
+   "i": 32
+  }
+ ],
+ "source": "YouTube 人工字幕"
+}

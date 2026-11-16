@@ -1,0 +1,546 @@
+{
+ "id": "d05-dhh",
+ "day": 5,
+ "date": "2026-11-19",
+ "show": "Lex Fridman Podcast",
+ "guest": "DHH",
+ "title_zh": "别把生活优化过头",
+ "topic": "人生",
+ "youtube": "NYFGCESmikA",
+ "start": 17879.09,
+ "end": 18145.03,
+ "structure": "减省关系从句 + which 指代 + 不定式做定语",
+ "intro_zh": "DHH（Ruby on Rails 作者、37signals 的 CTO）在 Lex Fridman 的节目里聊到长寿和「过度优化」。起因是有位播客主持人说喝了一杯红酒毁了三天——DHH 借喝酒这件事讲他为什么反感把生活里的一切都拿来优化，Lex 也插了一段在中国农村喝酒的经历。",
+ "sents": [
+  {
+   "i": 0,
+   "s": 17879.09,
+   "e": 17882.96,
+   "spk": "DHH",
+   "en": "But just recently, we've been talking about this over-optimizers.",
+   "zh": "不过就在最近，我们一直在聊这帮「过度优化」的人。",
+   "hl": []
+  },
+  {
+   "i": 1,
+   "s": 17882.96,
+   "e": 17889.62,
+   "spk": "DHH",
+   "en": "I saw, uh, Chris Williamson, Modern Wisdom had a bit where he was like, \"Yeah, okay, maybe we did go a little overboard.\"",
+   "zh": "我看到 Chris Williamson，就是 Modern Wisdom 那位，有一段他说：「嗯，好吧，我们可能确实有点过头了。」",
+   "hl": []
+  },
+  {
+   "i": 2,
+   "s": 17889.62,
+   "e": 17900.02,
+   "spk": "DHH",
+   "en": "And the triggering thing was the Diary of a CEO, where the host was saying something to the effect of, \"I had a glass of wine and the next three days were ruined.\"",
+   "zh": "导火索是 Diary of a CEO，主持人说了句大意是：「我喝了一杯红酒，接下来三天全毁了。」",
+   "hl": []
+  },
+  {
+   "i": 3,
+   "s": 17900.48,
+   "e": 17903.41,
+   "spk": "DHH",
+   "en": "And that to me, I mean, in his circumstance, I'm sure that's true.",
+   "zh": "这事在我看来——就他的情况而言，我相信是真的。",
+   "hl": []
+  },
+  {
+   "i": 4,
+   "s": 17903.41,
+   "e": 17908.98,
+   "spk": "DHH",
+   "en": "Like, if you have not drank any alcohol for a very long time and you have just a little, I could see how it can have effect.",
+   "zh": "你要是很久滴酒不沾，突然喝一点，有反应我能理解。",
+   "hl": []
+  },
+  {
+   "i": 5,
+   "s": 17909.58,
+   "e": 17920.96,
+   "spk": "DHH",
+   "en": "But also there's something in that that just triggered a visceral reaction, I think, for a lot of people, and myself included, where I was like, \"Fuck, man, I should have a glass of wine just right now, even though I don't usually drink.\"",
+   "zh": "但这话里也有某种东西让很多人本能地反感，我也是，我当时就想：「靠，我现在就该来一杯，虽然我平时不怎么喝。」",
+   "hl": []
+  },
+  {
+   "i": 6,
+   "s": 17921.03,
+   "e": 17925.4,
+   "spk": "DHH",
+   "en": "And in fact I think the alcohol question is a good microcosm to zoom in on.",
+   "zh": "其实我觉得喝酒这个问题是个很好的缩影，值得凑近了看。",
+   "hl": [
+    {
+     "text": "a good microcosm to zoom in on",
+     "note": "不定式做定语，介词 on 留在句尾：a microcosm to zoom in on = 值得凑近看的缩影。"
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "s": 17925.4,
+   "e": 17932.11,
+   "spk": "DHH",
+   "en": "So we've all stopped drinking apparently, like alcohol sales are way down- ... certainly amongst young people.",
+   "zh": "我们好像都不喝酒了，酒的销量跌得很厉害，年轻人里尤其明显。",
+   "hl": []
+  },
+  {
+   "i": 8,
+   "s": 17932.11,
+   "e": 17938.45,
+   "spk": "DHH",
+   "en": "And then on the one hand, on the pure health metrics, whatever, we can go like, \"Oh wow, isn't that great?\"",
+   "zh": "一方面，单看健康指标之类的，我们可以说：「哇，这不是挺好吗？」",
+   "hl": []
+  },
+  {
+   "i": 9,
+   "s": 17938.76,
+   "e": 17941.4,
+   "spk": "DHH",
+   "en": "And then I go like, \"Yeah, I'm not so sure it is.\"",
+   "zh": "可我会说：「嗯，我不太确定这是好事。」",
+   "hl": []
+  },
+  {
+   "i": 10,
+   "s": 17941.4,
+   "e": 17947.09,
+   "spk": "DHH",
+   "en": "Like the social lubricant that alcohol can provide may be missed, is missed.",
+   "zh": "酒能起到的那种社交润滑作用，可能会让人怀念——不，是已经让人怀念了。",
+   "hl": []
+  },
+  {
+   "i": 11,
+   "s": 17947.09,
+   "e": 17958.93,
+   "spk": "DHH",
+   "en": "I mean, we are in an absolute epidemic of loneliness and misery and depression and whatever, and a fair amount of it just probably comes because you're not interacting enough with other people.",
+   "zh": "我们正处在一场孤独、痛苦、抑郁的大流行里，其中相当一部分很可能就是因为你和别人打交道太少。",
+   "hl": []
+  },
+  {
+   "i": 12,
+   "s": 17958.93,
+   "e": 17962.12,
+   "spk": "DHH",
+   "en": "Now, that's before we even talk about coupling, right?",
+   "zh": "这还没说到找对象呢，对吧？",
+   "hl": []
+  },
+  {
+   "i": 13,
+   "s": 17962.12,
+   "e": 17966.81,
+   "spk": "DHH",
+   "en": "Like way down, people having a very hard time meeting a spouse.",
+   "zh": "也是大跌，大家找个伴侣难得很。",
+   "hl": [
+    {
+     "text": "people having a very hard time meeting a spouse",
+     "note": "people (who are) having a hard time…：现在分词做后置定语，省掉 who are。"
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "s": 17966.86,
+   "e": 17975.62,
+   "spk": "DHH",
+   "en": "And- ... a lot of that has moved over to apps that have all sorts of negative outcomes and consequences, right?",
+   "zh": "而且这事很大一部分搬到了 app 上，带来各种负面的结果和后果，对吧？",
+   "hl": []
+  },
+  {
+   "i": 15,
+   "s": 17975.62,
+   "e": 17980.46,
+   "spk": "DHH",
+   "en": "Like maybe we will look back, or maybe we already are looking back and thinking like, \"Eh, do you know what?",
+   "zh": "也许我们以后回头看，或者现在已经在回头看了，会想：「嗯，你知道吗？",
+   "hl": []
+  },
+  {
+   "i": 16,
+   "s": 17980.55,
+   "e": 17983.55,
+   "spk": "DHH",
+   "en": "Maybe getting wasted every once in a while was not the worst thing in the world.\"",
+   "zh": "偶尔喝个烂醉，也许并不是天底下最糟的事。」",
+   "hl": []
+  },
+  {
+   "i": 17,
+   "s": 17983.55,
+   "e": 17994.36,
+   "spk": "DHH",
+   "en": "And whether wasted or not, maybe just having a couple of drinks every Friday or Saturday when you're out and about was part of what helped society get to where it is.",
+   "zh": "就算不喝醉，也许每个周五周六出门时喝上两杯，本来就是帮社会走到今天的一部分。",
+   "hl": []
+  },
+  {
+   "i": 18,
+   "s": 17994.36,
+   "e": 18007.88,
+   "spk": "DHH",
+   "en": "Maybe the fact that humans have literally been drinking for whatever it is, like 13,000 years for mending things, had a social purpose, and we pull out Chesterton's fence of our own chagrin, right?",
+   "zh": "人类已经喝了不知道多久的酒，大概一万三千年吧，用它来修补关系——也许这件事本来就有它的社会功能，而我们没弄清这道篱笆为什么立在那儿就把它拆了，到头来懊恼的是自己，对吧？",
+   "hl": []
+  },
+  {
+   "i": 19,
+   "s": 18008.62,
+   "e": 18022.18,
+   "spk": "Lex Fridman",
+   "en": "As you mentioned, in the spirit of that, so when I traveled across rural China, I did smoke a little bit in my early 20s, but I picked up just for that trip- - A social connector, right?",
+   "zh": "说到这个——我当年穿越中国农村旅行的时候，我二十出头抽过一点烟，那趟旅行我又专门捡了起来——（DHH：社交的纽带，对吧？）",
+   "hl": []
+  },
+  {
+   "i": 20,
+   "s": 18022.26,
+   "e": 18029.86,
+   "spk": "Lex Fridman",
+   "en": "And I drank humongous amounts, even though I don't really drink these days, because of the social thing.",
+   "zh": "而且我喝了巨多的酒，虽然我现在基本不喝，就是因为社交。",
+   "hl": []
+  },
+  {
+   "i": 21,
+   "s": 18029.86,
+   "e": 18031.82,
+   "spk": "Lex Fridman",
+   "en": "It's the way they show love.",
+   "zh": "那是他们表达情意的方式。",
+   "hl": []
+  },
+  {
+   "i": 22,
+   "s": 18031.9,
+   "e": 18035.28,
+   "spk": "Lex Fridman",
+   "en": "And I also ate a shitload of carbs, which- ...",
+   "zh": "我还吃了一大堆碳水，而我——",
+   "hl": []
+  },
+  {
+   "i": 23,
+   "s": 18035.28,
+   "e": 18036.88,
+   "spk": "Lex Fridman",
+   "en": "I'm usually low carb.",
+   "zh": "我平时是低碳水的。",
+   "hl": []
+  },
+  {
+   "i": 24,
+   "s": 18036.88,
+   "e": 18038.19,
+   "spk": "Lex Fridman",
+   "en": "I just like meat.",
+   "zh": "我就爱吃肉。",
+   "hl": []
+  },
+  {
+   "i": 25,
+   "s": 18038.19,
+   "e": 18040.2,
+   "spk": "Lex Fridman",
+   "en": "So just because it's the way they show love.",
+   "zh": "就因为那是他们表达情意的方式。",
+   "hl": []
+  },
+  {
+   "i": 26,
+   "s": 18040.24,
+   "e": 18049.08,
+   "spk": "Lex Fridman",
+   "en": "And actually even, it's in that society cigarettes, but in most societies, liquor is a thing to do together.",
+   "zh": "其实在那个社会是烟，但在大多数社会，酒是大家凑在一起做的一件事。",
+   "hl": [
+    {
+     "text": "a thing to do together",
+     "note": "a thing to do together：不定式做定语，「大家一起做的一件事」。"
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "s": 18049.08,
+   "e": 18050.34,
+   "spk": "Lex Fridman",
+   "en": "And it's a bond.",
+   "zh": "它是一种纽带。",
+   "hl": []
+  },
+  {
+   "i": 28,
+   "s": 18050.4,
+   "e": 18062.26,
+   "spk": "Lex Fridman",
+   "en": "It doesn't, the benefits that that entails can, in many situations, outweigh the negative consequences like long-term for whatever, however you measure them.",
+   "zh": "它带来的好处，在很多情况下能盖过那些负面后果，比如长期的什么什么，不管你怎么衡量。",
+   "hl": []
+  },
+  {
+   "i": 29,
+   "s": 18062.29,
+   "e": 18073.7,
+   "spk": "DHH",
+   "en": "And this is the myopia of modernity, that we reduce things down to like, well, one glass on this long run study meant that you had a 0.1% greater risk of some heart defect.",
+   "zh": "这就是现代人的短视：我们把事情简化成——嗯，某个长期研究说，一杯酒让你得某种心脏问题的风险高了 0.1%。",
+   "hl": []
+  },
+  {
+   "i": 30,
+   "s": 18075.08,
+   "e": 18077.93,
+   "spk": "DHH",
+   "en": "Yes, but if you didn't live at all, what's the point?",
+   "zh": "是，可你要是压根没好好活过，那还有什么意义？",
+   "hl": []
+  },
+  {
+   "i": 31,
+   "s": 18077.93,
+   "e": 18080.66,
+   "spk": "DHH",
+   "en": "And again, it's also easy to flip over the other side.",
+   "zh": "当然，反过来走到另一个极端也很容易。",
+   "hl": []
+  },
+  {
+   "i": 32,
+   "s": 18080.66,
+   "e": 18087.93,
+   "spk": "DHH",
+   "en": "Like the only way to live is to get drunk every weekend and eat a bunch of crap and smoke 40 cigarettes a day.",
+   "zh": "比如说，活着的唯一方式就是每个周末喝醉、吃一堆垃圾食品、一天抽 40 根烟。",
+   "hl": [
+    {
+     "text": "the only way to live",
+     "note": "the only way to live：way + to do，「活法」。"
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "s": 18087.93,
+   "e": 18088.74,
+   "spk": "DHH",
+   "en": "No, it's not.",
+   "zh": "不，不是的。",
+   "hl": []
+  },
+  {
+   "i": 34,
+   "s": 18088.74,
+   "e": 18091.08,
+   "spk": "DHH",
+   "en": "Like it doesn't have to be the either/or.",
+   "zh": "这事不必非此即彼。",
+   "hl": []
+  },
+  {
+   "i": 35,
+   "s": 18091.08,
+   "e": 18094.03,
+   "spk": "DHH",
+   "en": "This is one of the reasons I stopped wearing my Oura Ring.",
+   "zh": "这也是我不再戴 Oura Ring 的原因之一。",
+   "hl": []
+  },
+  {
+   "i": 36,
+   "s": 18094.03,
+   "e": 18098.29,
+   "spk": "DHH",
+   "en": "So I wore the Oura sleep ring for many years, four years.",
+   "zh": "Oura 睡眠戒指我戴了很多年，四年。",
+   "hl": []
+  },
+  {
+   "i": 37,
+   "s": 18098.29,
+   "e": 18103.8,
+   "spk": "DHH",
+   "en": "And one day I was just like, \"I don't need to know that I had-\" ...",
+   "zh": "有一天我就想：「我不需要它来告诉我，我昨晚——」",
+   "hl": []
+  },
+  {
+   "i": 38,
+   "s": 18103.8,
+   "e": 18105.04,
+   "spk": "DHH",
+   "en": "\"a bad night of sleep.\"",
+   "zh": "「没睡好。」",
+   "hl": []
+  },
+  {
+   "i": 39,
+   "s": 18105.18,
+   "e": 18107.25,
+   "spk": "DHH",
+   "en": "Like I know.",
+   "zh": "我自己知道啊。",
+   "hl": []
+  },
+  {
+   "i": 40,
+   "s": 18107.25,
+   "e": 18119.78,
+   "spk": "DHH",
+   "en": "This added, I don't wanna call it an anxiety, I don't have a lot of anxiety, but this added just like reminder- ... that I had a bad night of sleep, what purpose is it actually playing here?",
+   "zh": "它多出来的——我不想叫它焦虑，我这人没什么焦虑——就是多了个提醒，提醒我昨晚没睡好，这到底有什么用？",
+   "hl": []
+  },
+  {
+   "i": 41,
+   "s": 18120.18,
+   "e": 18123.0,
+   "spk": "DHH",
+   "en": "Why do I need to have all these stats?",
+   "zh": "我为什么需要这么多数据？",
+   "hl": []
+  },
+  {
+   "i": 42,
+   "s": 18123.0,
+   "e": 18125.43,
+   "spk": "DHH",
+   "en": "Why do I need to optimize everything?",
+   "zh": "我为什么什么都要优化？",
+   "hl": []
+  },
+  {
+   "i": 43,
+   "s": 18125.43,
+   "e": 18133.25,
+   "spk": "DHH",
+   "en": "To the point where, again, after that single anecdote, you know, from Diary of a CEO, I was like, \"Fuck, I kind of want the opposite.\"",
+   "zh": "到了什么程度呢：听完 Diary of a CEO 那一个小故事，我就想：「靠，我反倒想反着来。」",
+   "hl": []
+  },
+  {
+   "i": 44,
+   "s": 18133.25,
+   "e": 18135.44,
+   "spk": "DHH",
+   "en": "Like- I barely drink at all.",
+   "zh": "我本来几乎不喝酒。",
+   "hl": []
+  },
+  {
+   "i": 45,
+   "s": 18135.44,
+   "e": 18138.0,
+   "spk": "DHH",
+   "en": "A glass of wine once a month maybe.",
+   "zh": "大概一个月一杯红酒。",
+   "hl": []
+  },
+  {
+   "i": 46,
+   "s": 18138.82,
+   "e": 18140.41,
+   "spk": "DHH",
+   "en": "Like, do you know what?",
+   "zh": "你知道吗？",
+   "hl": []
+  },
+  {
+   "i": 47,
+   "s": 18140.41,
+   "e": 18143.99,
+   "spk": "DHH",
+   "en": "I should start, uh, just on the weekends, get a glass.",
+   "zh": "我该开始，嗯，就在周末，来一杯。",
+   "hl": []
+  },
+  {
+   "i": 48,
+   "s": 18144.0,
+   "e": 18145.03,
+   "spk": "DHH",
+   "en": "Maybe two.",
+   "zh": "也许两杯。",
+   "hl": []
+  }
+ ],
+ "shadow": [
+  {
+   "i": 6,
+   "tips": "断句：And in FACT / I think the ALcohol question / is a good MIcrocosm / to zoom IN on. zoom in on 三个词连读成 zoo-mi-non，in 重读；and in 连读。"
+  },
+  {
+   "i": 16,
+   "tips": "断句：Maybe getting WASted / every once in a while / was NOT the worst thing in the world. once in a 连读 wun-si-na；worst thing 的 t 不爆破。"
+  },
+  {
+   "i": 30,
+   "tips": "断句：YES, / but if you didn't LIVE at all, / what's the POINT? at all 连读成 a-dall；what's the 轻带，point 重读上扬后落下。"
+  },
+  {
+   "i": 32,
+   "tips": "断句：Like the ONly way to live / is to get DRUNK every weekend / and eat a bunch of CRAP / and smoke FORty cigarettes a day. way to live 一口气；bunch of 连读 bun-chov；and 都弱读成 ən。"
+  }
+ ],
+ "questions": [
+  "What triggered this whole rant? Describe the thing the podcast host said.",
+  "Why does DHH think people drinking less may not be purely good news? (Try: \"There are a lot of people having…\")",
+  "What did Lex learn about drinking while traveling across rural China? (Try: \"Liquor is a thing to…\")",
+  "Why did DHH stop wearing his Oura Ring?",
+  "He says it doesn't have to be either/or. What is the middle way to live that he is describing?",
+  "Is there a number you track in trading or in life that is not worth tracking any more? (Try: \"One stat not worth checking every day is…, which…\")"
+ ],
+ "chunks": [
+  {
+   "en": "go a little overboard",
+   "zh": "有点做过头了",
+   "i": 1
+  },
+  {
+   "en": "say something to the effect of ___",
+   "zh": "说了句大意是…的话",
+   "i": 2
+  },
+  {
+   "en": "triggered a visceral reaction",
+   "zh": "让人本能地起了反应（反感）",
+   "i": 5
+  },
+  {
+   "en": "a good microcosm to zoom in on",
+   "zh": "一个值得细看的缩影",
+   "i": 6
+  },
+  {
+   "en": "___ was not the worst thing in the world",
+   "zh": "…也没那么糟",
+   "i": 16
+  },
+  {
+   "en": "when you're out and about",
+   "zh": "出门在外、到处活动的时候",
+   "i": 17
+  },
+  {
+   "en": "if you didn't ___ at all, what's the point?",
+   "zh": "要是压根没…，那还有什么意义？",
+   "i": 30
+  },
+  {
+   "en": "it doesn't have to be the either/or",
+   "zh": "不必非此即彼",
+   "i": 34
+  }
+ ],
+ "source": "YouTube 人工字幕"
+}

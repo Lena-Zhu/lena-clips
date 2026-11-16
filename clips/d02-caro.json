@@ -1,0 +1,388 @@
+{
+ "id": "d02-caro",
+ "day": 2,
+ "date": "2026-11-16",
+ "show": "Dwarkesh Podcast",
+ "guest": "Robert Caro",
+ "title_zh": "写书前先压成一句话",
+ "topic": "人生",
+ "youtube": "f0J_EeW42Lo",
+ "start": 2372.36,
+ "end": 2589.62,
+ "structure": "支架句 fronting",
+ "intro_zh": "传记作家 Robert Caro（The Power Broker 和 Lyndon Johnson 传的作者，九十多岁）接受 Dwarkesh Patel 采访。这一段先聊 Johnson 和 Robert Moses 凌晨还在打电话的那股劲从哪来，再聊他一本书写五到十年，怎么保证自己不走偏。",
+ "sents": [
+  {
+   "i": 0,
+   "s": 2372.36,
+   "e": 2384.48,
+   "spk": "Dwarkesh Patel",
+   "en": "One of the things that’s true of both Johnson and Moses is this inexhaustible energy, working 16 hours a day, sometimes even more than that.",
+   "zh": "Johnson 和 Moses 有一点是共通的：那种用不完的精力，一天工作 16 个小时，有时还不止。",
+   "hl": [
+    {
+     "text": "One of the things that’s true of both Johnson and Moses is",
+     "note": "One of the things that's true of … is：先把「有一点是共通的」这个壳搭好，is 后面再放内容。"
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "s": 2384.48,
+   "e": 2395.44,
+   "spk": "Dwarkesh Patel",
+   "en": "I wonder how much you think that is the fact that they had a different constitution, that they just had different reserves of energy.",
+   "zh": "我想知道，您觉得这在多大程度上是因为他们体质不一样、天生精力储备就比别人多？",
+   "hl": []
+  },
+  {
+   "i": 2,
+   "s": 2395.44,
+   "e": 2398.4,
+   "spk": "Dwarkesh Patel",
+   "en": "Or do you think it was just that their will was so strong?",
+   "zh": "还是说，只是因为他们的意志太强了？",
+   "hl": []
+  },
+  {
+   "i": 3,
+   "s": 2398.4,
+   "e": 2401.25,
+   "spk": "Robert Caro",
+   "en": "I think it’s just their will.",
+   "zh": "我觉得就是意志。",
+   "hl": []
+  },
+  {
+   "i": 4,
+   "s": 2401.25,
+   "e": 2404.48,
+   "spk": "Robert Caro",
+   "en": "A lot of people have their energy.",
+   "zh": "精力像他们那样的人多的是。",
+   "hl": []
+  },
+  {
+   "i": 5,
+   "s": 2404.48,
+   "e": 2423.84,
+   "spk": "Robert Caro",
+   "en": "When you see Robert Moses sleeping very little, showing that he’d do anything to get his way, to get things done, being tired or something doesn’t even seem to figure into the equation.",
+   "zh": "你看 Robert Moses 睡得那么少，为了达到目的、把事办成什么都肯做，累不累这种事好像根本不在他的考虑范围内。",
+   "hl": []
+  },
+  {
+   "i": 6,
+   "s": 2423.84,
+   "e": 2435.2,
+   "spk": "Robert Caro",
+   "en": "Sometimes I’m looking at something — I can’t remember one off the top of my head — and you’ll say, \"Johnson’s making this call at 2:00 and 3:00 in the morning.",
+   "zh": "有时候我在查资料——具体的例子我一时想不起来——你会发现：「Johnson 凌晨两三点还在打这个电话。",
+   "hl": []
+  },
+  {
+   "i": 7,
+   "s": 2435.2,
+   "e": 2438.49,
+   "spk": "Robert Caro",
+   "en": "He’s up making these calls to get his way.\"",
+   "zh": "他不睡觉，就为了打这些电话把事办成。」",
+   "hl": []
+  },
+  {
+   "i": 8,
+   "s": 2438.49,
+   "e": 2441.04,
+   "spk": "Robert Caro",
+   "en": "In fact, there’s a funny anecdote.",
+   "zh": "其实有个挺好笑的故事。",
+   "hl": []
+  },
+  {
+   "i": 9,
+   "s": 2441.04,
+   "e": 2457.12,
+   "spk": "Robert Caro",
+   "en": "Johnson calls one senator at 5:00 AM to ask him for his vote on something, and the senator says, \"Oh, Lyndon, I was just lying here waiting for your call.\"",
+   "zh": "Johnson 早上五点给一位参议员打电话拉票，那位参议员说：「噢，Lyndon，我正躺着等你电话呢。」",
+   "hl": []
+  },
+  {
+   "i": 10,
+   "s": 2457.12,
+   "e": 2459.02,
+   "spk": "Robert Caro",
+   "en": "So it’s their will.",
+   "zh": "所以说，是意志。",
+   "hl": []
+  },
+  {
+   "i": 11,
+   "s": 2459.02,
+   "e": 2464.72,
+   "spk": "Dwarkesh Patel",
+   "en": "I want to ask you a little bit about writing biography now.",
+   "zh": "现在我想问问您写传记这件事。",
+   "hl": []
+  },
+  {
+   "i": 12,
+   "s": 2466.32,
+   "e": 2472.88,
+   "spk": "Dwarkesh Patel",
+   "en": "One question I have is, you spend 5-10 years writing a single book.",
+   "zh": "我有一个问题：您写一本书要花五到十年。",
+   "hl": [
+    {
+     "text": "One question I have is,",
+     "note": "One question I have is：提问前先立个架子，后面直接说一个完整的句子。"
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "s": 2473.68,
+   "e": 2482.13,
+   "spk": "Dwarkesh Patel",
+   "en": "Through that process, maybe your editor and your wife are the only people who have seen the manuscript.",
+   "zh": "这期间，看过稿子的可能只有您的编辑和您太太。",
+   "hl": []
+  },
+  {
+   "i": 14,
+   "s": 2482.13,
+   "e": 2485.84,
+   "spk": "Dwarkesh Patel",
+   "en": "So how do you make sure you’re on the right track?",
+   "zh": "那您怎么确定自己没走偏？",
+   "hl": []
+  },
+  {
+   "i": 15,
+   "s": 2485.84,
+   "e": 2491.52,
+   "spk": "Dwarkesh Patel",
+   "en": "Because you’ve got to wait so long from when you start to when you get public feedback.",
+   "zh": "因为从动笔到听到读者的反馈，中间要等那么久。",
+   "hl": []
+  },
+  {
+   "i": 16,
+   "s": 2491.52,
+   "e": 2498.36,
+   "spk": "Dwarkesh Patel",
+   "en": "How do you make sure that everything’s going to hang together and you’re pursuing the message the way you want to?",
+   "zh": "您怎么保证整本书最后能串得起来，想表达的东西也是照您想要的方式在推进？",
+   "hl": []
+  },
+  {
+   "i": 17,
+   "s": 2498.36,
+   "e": 2503.29,
+   "spk": "Robert Caro",
+   "en": "Part of your question is, how do you be sure you’re on the right track?",
+   "zh": "你的问题里有一部分是：怎么确定自己没走偏？",
+   "hl": [
+    {
+     "text": "Part of your question is,",
+     "note": "Part of your question is：先把对方的问题拆出一块来，再回答。"
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "s": 2503.29,
+   "e": 2505.28,
+   "spk": "Robert Caro",
+   "en": "The answer to that is you’re not.",
+   "zh": "答案是：确定不了。",
+   "hl": [
+    {
+     "text": "The answer to that is",
+     "note": "The answer to that is + 整句：把答案留到最后，说出来更有力。"
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "s": 2507.6,
+   "e": 2510.76,
+   "spk": "Robert Caro",
+   "en": "But how do you try to stay on the right track?",
+   "zh": "但怎么尽量不走偏呢？",
+   "hl": []
+  },
+  {
+   "i": 20,
+   "s": 2510.76,
+   "e": 2512.64,
+   "spk": "Robert Caro",
+   "en": "I do have a device for that.",
+   "zh": "这个我倒是有个办法。",
+   "hl": []
+  },
+  {
+   "i": 21,
+   "s": 2512.64,
+   "e": 2531.92,
+   "spk": "Robert Caro",
+   "en": "Before I start a book — I learned this the hard way with The Power Broker, because I didn’t do it with The Power Broker — I think through what I want the book to be, the whole book.",
+   "zh": "动笔之前——这是我写 The Power Broker 时吃了苦头才学到的，因为那本书我没这么做——我会把我想让这本书成为什么样子，整本书，从头想清楚。",
+   "hl": []
+  },
+  {
+   "i": 22,
+   "s": 2531.92,
+   "e": 2534.8,
+   "spk": "Robert Caro",
+   "en": "People say, \"You mean you think it through to the end?\"",
+   "zh": "有人问：「你是说一直想到结尾？」",
+   "hl": []
+  },
+  {
+   "i": 23,
+   "s": 2534.8,
+   "e": 2536.62,
+   "spk": "Robert Caro",
+   "en": "The answer is yes.",
+   "zh": "是的。",
+   "hl": [
+    {
+     "text": "The answer is yes.",
+     "note": "The answer is…：最短的支架句，先定调再展开。"
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "s": 2536.62,
+   "e": 2540.56,
+   "spk": "Robert Caro",
+   "en": "Then you say, \"What is this book about?\"",
+   "zh": "然后你要问：「这本书到底在讲什么？」",
+   "hl": []
+  },
+  {
+   "i": 25,
+   "s": 2540.56,
+   "e": 2554.8,
+   "spk": "Robert Caro",
+   "en": "I sit at that desk sometimes for a long time before I start writing, when I’m thinking about the book, just asking myself in one way or another, \"What is this book about?\"",
+   "zh": "动笔前我有时会在那张书桌前坐很久，想这本书，翻来覆去地问自己：「这本书到底在讲什么？」",
+   "hl": []
+  },
+  {
+   "i": 26,
+   "s": 2554.8,
+   "e": 2557.16,
+   "spk": "Robert Caro",
+   "en": "You’ve got to get it down to one sentence.",
+   "zh": "你得把它压成一句话。",
+   "hl": []
+  },
+  {
+   "i": 27,
+   "s": 2557.16,
+   "e": 2559.84,
+   "spk": "Robert Caro",
+   "en": "You say, \"You can’t get it down to one sentence.\"",
+   "zh": "你会说：「压不成一句话啊。」",
+   "hl": []
+  },
+  {
+   "i": 28,
+   "s": 2559.84,
+   "e": 2570.91,
+   "spk": "Robert Caro",
+   "en": "Then you say, \"Yeah, but Bob, you learned you better get it down to one sentence, or three years from now you’re going to be writing and you’re going to be saying, ‘What am I trying to do?’\"",
+   "zh": "然后你对自己说：「是，可是 Bob，你早就学到了，最好把它压成一句话，不然三年后你写着写着就会问自己：『我到底想干什么？』」",
+   "hl": []
+  },
+  {
+   "i": 29,
+   "s": 2570.91,
+   "e": 2584.83,
+   "spk": "Robert Caro",
+   "en": "Before I start a book, I try to get it down to a sentence or at most a paragraph and say, \"Really, what is this book about?\"",
+   "zh": "动笔之前，我会努力把它压成一句话，最多一段，然后问：「说真的，这本书到底在讲什么？」",
+   "hl": []
+  },
+  {
+   "i": 30,
+   "s": 2584.83,
+   "e": 2589.62,
+   "spk": "Robert Caro",
+   "en": "I try to make everything hang together around that point.",
+   "zh": "我会让所有内容都围绕这一点串起来。",
+   "hl": []
+  }
+ ],
+ "shadow": [
+  {
+   "i": 0,
+   "tips": "断句：One of the things that's TRUE of both Johnson and Moses / is / this inexHAUStible energy, / working SIXteen hours a day, / sometimes even MORE than that. is 前后停顿；things that's 连成一串轻读。"
+  },
+  {
+   "i": 12,
+   "tips": "断句：One QUEStion I have is, / you spend five to ten YEARS / writing a SINgle book. is 后面明显停一下；spend 的 d 和 five 之间不爆破。"
+  },
+  {
+   "i": 17,
+   "tips": "断句：PART of your question is, / how do you be SURE / you're on the RIGHT track? part of 连读成 par-dov；right track 两个 t 只读一个。"
+  },
+  {
+   "i": 18,
+   "tips": "断句：The ANswer to that is / you're NOT. is 后停一拍，not 重读拖长。answer to 的 to 弱读成 tə。"
+  },
+  {
+   "i": 26,
+   "tips": "断句：You've GOT to get it down / to ONE sentence. got to 读成 godda；get it 连读 ge-dit；重音在 one。"
+  }
+ ],
+ "questions": [
+  "What do Johnson and Moses have in common, according to this clip? (Try: \"One thing that's true of both of them is…\")",
+  "What is Caro's answer to \"Was it energy or will?\" and what story does he use to prove it?",
+  "What does Caro do before he starts writing a book?",
+  "What did he learn the hard way with The Power Broker?",
+  "What struck you most about a 91-year-old writer still asking himself \"What is this book about?\"",
+  "If you had to get your current trading approach down to one sentence, what would it be? (Try: \"What I'm really trying to do is…\")"
+ ],
+ "chunks": [
+  {
+   "en": "___ doesn’t even seem to figure into the equation",
+   "zh": "…好像根本不在考虑范围内",
+   "i": 5
+  },
+  {
+   "en": "do anything to get his way",
+   "zh": "为了达到目的什么都肯做",
+   "i": 5
+  },
+  {
+   "en": "off the top of my head",
+   "zh": "一时（不查资料）想到的",
+   "i": 6
+  },
+  {
+   "en": "make sure you’re on the right track",
+   "zh": "确保自己没走偏",
+   "i": 14
+  },
+  {
+   "en": "I learned this the hard way",
+   "zh": "这是我吃了苦头才学到的",
+   "i": 21
+  },
+  {
+   "en": "get it down to one sentence",
+   "zh": "把它压缩成一句话",
+   "i": 26
+  },
+  {
+   "en": "make everything hang together around ___",
+   "zh": "让所有内容围绕…串起来",
+   "i": 30
+  }
+ ],
+ "source": "YouTube 人工字幕"
+}

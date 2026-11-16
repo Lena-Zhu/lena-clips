@@ -1,0 +1,742 @@
+{
+ "id": "d01-cannon-brookes",
+ "day": 1,
+ "date": "2026-11-15",
+ "show": "Decoder with Nilay Patel",
+ "guest": "Mike Cannon-Brookes",
+ "title_zh": "做决定，更要讲清决定",
+ "topic": "创业",
+ "youtube": "BkPZBVuxhsU",
+ "start": 2390.76,
+ "end": 2659.95,
+ "structure": "支架句 fronting",
+ "intro_zh": "Atlassian 联合创始人兼 CEO Mike Cannon-Brookes 做客 The Verge 的 Decoder，主持人是 Nilay Patel。这一段他先讲「想象力不对称」——大模型擅长信息，不擅长想象；接着回答节目的固定问题「你怎么做决定」，重点落在：比怎么定更重要的，是把决定给员工讲明白。",
+ "sents": [
+  {
+   "i": 0,
+   "s": 2390.76,
+   "e": 2392.11,
+   "spk": "Mike Cannon-Brookes",
+   "en": "I think I'm very fond of this term.",
+   "zh": "有个说法我特别喜欢。",
+   "hl": []
+  },
+  {
+   "i": 1,
+   "s": 2392.11,
+   "e": 2395.68,
+   "spk": "Mike Cannon-Brookes",
+   "en": "I keep meaning to put up a rant online about it.",
+   "zh": "我一直想在网上发篇长文好好说说它。",
+   "hl": []
+  },
+  {
+   "i": 2,
+   "s": 2395.68,
+   "e": 2410.35,
+   "spk": "Mike Cannon-Brookes",
+   "en": "I think we used to talk about information asymmetry, and I'm stealing another friend's quote here, but we used to talk about information asymmetry and how much certain people know things and that is their source of power or advantage.",
+   "zh": "我们以前常讲「信息不对称」——这话我是从一个朋友那儿借来的——以前讲的是谁知道得多，谁就有权力、有优势。",
+   "hl": []
+  },
+  {
+   "i": 3,
+   "s": 2410.35,
+   "e": 2413.83,
+   "spk": "Mike Cannon-Brookes",
+   "en": "I do think we're moving to, he said it and it really hit me like a bolt.",
+   "zh": "我真觉得我们正在走向——这是他说的，我一听就像被点醒了一样。",
+   "hl": []
+  },
+  {
+   "i": 4,
+   "s": 2413.83,
+   "e": 2415.42,
+   "spk": "Mike Cannon-Brookes",
+   "en": "We're moving to imagination asymmetry.",
+   "zh": "我们正在走向「想象力不对称」。",
+   "hl": []
+  },
+  {
+   "i": 5,
+   "s": 2415.42,
+   "e": 2432.82,
+   "spk": "Mike Cannon-Brookes",
+   "en": "We're moving from information asymmetry to imagination asymmetry where your ability to create and think is gonna be far more important as a competitive advantage for your team, your job, your business than your access to information, your control of information, your understanding of information.",
+   "zh": "从信息不对称走向想象力不对称：对你的团队、你的工作、你的公司来说，创造和思考的能力，会比能拿到信息、掌控信息、看懂信息重要得多，那才是竞争优势。",
+   "hl": []
+  },
+  {
+   "i": 6,
+   "s": 2432.82,
+   "e": 2433.9,
+   "spk": "Mike Cannon-Brookes",
+   "en": "That part is gonna be cheap.",
+   "zh": "信息那部分会变得很便宜。",
+   "hl": []
+  },
+  {
+   "i": 7,
+   "s": 2433.9,
+   "e": 2435.28,
+   "spk": "Mike Cannon-Brookes",
+   "en": "That's what LLMs are really good at.",
+   "zh": "那正是大模型最拿手的。",
+   "hl": [
+    {
+     "text": "That's what",
+     "note": "That's what…：先用 that 接住上文，再补一句说明——「这正是…的地方」。"
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "s": 2435.28,
+   "e": 2438.01,
+   "spk": "Mike Cannon-Brookes",
+   "en": "What they're not good at is imagining things.",
+   "zh": "它们不拿手的，是想象。",
+   "hl": [
+    {
+     "text": "What they're not good at is",
+     "note": "what 从句先占住主语位，句型定了，重点 imagining things 留到 is 后面。和上一句 That's what… 成对。"
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "s": 2438.01,
+   "e": 2440.23,
+   "spk": "Mike Cannon-Brookes",
+   "en": "They didn't decide to start Atlassian.",
+   "zh": "创办 Atlassian 这个决定不是它们做的。",
+   "hl": []
+  },
+  {
+   "i": 10,
+   "s": 2440.23,
+   "e": 2442.63,
+   "spk": "Mike Cannon-Brookes",
+   "en": "What business has been started by an LLM?",
+   "zh": "有哪家公司是大模型创办的？",
+   "hl": []
+  },
+  {
+   "i": 11,
+   "s": 2442.63,
+   "e": 2443.98,
+   "spk": "Mike Cannon-Brookes",
+   "en": "Zero in the world ever.",
+   "zh": "全世界一家都没有，从来没有。",
+   "hl": []
+  },
+  {
+   "i": 12,
+   "s": 2445.45,
+   "e": 2447.09,
+   "spk": "Mike Cannon-Brookes",
+   "en": "They may have been told to try and start business.",
+   "zh": "也许有人让它们试过去开公司。",
+   "hl": []
+  },
+  {
+   "i": 13,
+   "s": 2447.09,
+   "e": 2449.68,
+   "spk": "Nilay Patel",
+   "en": "Anthropic has run a failed vending machine for several years now.",
+   "zh": "Anthropic 那台自动售货机都赔了好几年了。",
+   "hl": []
+  },
+  {
+   "i": 14,
+   "s": 2449.68,
+   "e": 2450.88,
+   "spk": "Nilay Patel",
+   "en": "Come on.",
+   "zh": "拜托。",
+   "hl": []
+  },
+  {
+   "i": 15,
+   "s": 2450.88,
+   "e": 2453.46,
+   "spk": "Mike Cannon-Brookes",
+   "en": "But if a client refused to say, \"You know what we're gonna do?",
+   "zh": "可那也不是模型自己跑来说：「知道咱们今天干什么吗？",
+   "hl": []
+  },
+  {
+   "i": 16,
+   "s": 2453.46,
+   "e": 2456.58,
+   "spk": "Mike Cannon-Brookes",
+   "en": "Let's fail at running a vending machine today.\"",
+   "zh": "咱们今天就把自动售货机经营砸了吧。」",
+   "hl": []
+  },
+  {
+   "i": 17,
+   "s": 2456.58,
+   "e": 2461.5,
+   "spk": "Mike Cannon-Brookes",
+   "en": "They were probably sitting in front of a vending machine cursing the thing when it didn't drop their candy bar.",
+   "zh": "多半是有人站在售货机前，糖没掉下来，正对着它骂骂咧咧。",
+   "hl": []
+  },
+  {
+   "i": 18,
+   "s": 2461.5,
+   "e": 2468.79,
+   "spk": "Mike Cannon-Brookes",
+   "en": "And they said, \"Hey, I'm gonna do this better with AI,\" which is probably the way that most of those companies think about every single problem as they're staring at a vending machine.",
+   "zh": "然后说：「嘿，这事我用 AI 能做得更好。」那些公司的人盯着售货机的时候，大概看什么问题都是这个思路。",
+   "hl": []
+  },
+  {
+   "i": 19,
+   "s": 2468.79,
+   "e": 2470.8,
+   "spk": "Mike Cannon-Brookes",
+   "en": "It required a human being to say, \"Let's go do this.\"",
+   "zh": "得先有一个人说「我们来干这个吧」。",
+   "hl": []
+  },
+  {
+   "i": 20,
+   "s": 2470.8,
+   "e": 2476.08,
+   "spk": "Mike Cannon-Brookes",
+   "en": "And it required them to write a bunch of stuff to go create the vending machine operation code and try it.",
+   "zh": "还得有人写一堆东西，把售货机的运营代码做出来，再去试。",
+   "hl": []
+  },
+  {
+   "i": 21,
+   "s": 2476.08,
+   "e": 2480.19,
+   "spk": "Mike Cannon-Brookes",
+   "en": "And we all learned a lot as a result of this scientific experimentation.",
+   "zh": "这场科学实验也让我们所有人学到了不少。",
+   "hl": []
+  },
+  {
+   "i": 22,
+   "s": 2480.19,
+   "e": 2485.53,
+   "spk": "Nilay Patel",
+   "en": "Let me ask you the other Decoder question, then I wanna apply all of this to what is broadly happening to enterprise software and SaaS.",
+   "zh": "我再问你另一个 Decoder 的固定问题，然后想把这些都放到企业软件和 SaaS 眼下的大变化里去看。",
+   "hl": []
+  },
+  {
+   "i": 23,
+   "s": 2485.53,
+   "e": 2488.38,
+   "spk": "Nilay Patel",
+   "en": "The other Decoder question I ask everybody, how do you make decisions?",
+   "zh": "这个问题我每位嘉宾都问：你是怎么做决定的？",
+   "hl": []
+  },
+  {
+   "i": 24,
+   "s": 2488.38,
+   "e": 2489.94,
+   "spk": "Nilay Patel",
+   "en": "What's your framework for doing that?",
+   "zh": "你的框架是什么？",
+   "hl": []
+  },
+  {
+   "i": 25,
+   "s": 2489.94,
+   "e": 2493.99,
+   "spk": "Mike Cannon-Brookes",
+   "en": "I would say I make decisions by talking a lot.",
+   "zh": "我会说，我做决定的方式就是多聊。",
+   "hl": []
+  },
+  {
+   "i": 26,
+   "s": 2493.99,
+   "e": 2496.9,
+   "spk": "Mike Cannon-Brookes",
+   "en": "That's what people internally would truly say.",
+   "zh": "公司里的人说实话也会这么讲。",
+   "hl": [
+    {
+     "text": "That's what",
+     "note": "同一个架子：That's what + 谁会怎么说。"
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "s": 2496.9,
+   "e": 2502.0,
+   "spk": "Mike Cannon-Brookes",
+   "en": "I find the need to discuss things from different angles very important.",
+   "zh": "我觉得从不同角度把事情讨论一遍非常重要。",
+   "hl": []
+  },
+  {
+   "i": 28,
+   "s": 2502.0,
+   "e": 2505.15,
+   "spk": "Mike Cannon-Brookes",
+   "en": "I like to let other people talk.",
+   "zh": "我喜欢让别人说。",
+   "hl": []
+  },
+  {
+   "i": 29,
+   "s": 2505.15,
+   "e": 2507.43,
+   "spk": "Mike Cannon-Brookes",
+   "en": "I like to get all the information together.",
+   "zh": "我喜欢先把信息都凑齐。",
+   "hl": []
+  },
+  {
+   "i": 30,
+   "s": 2507.43,
+   "e": 2514.35,
+   "spk": "Mike Cannon-Brookes",
+   "en": "I do believe there's obviously a time where we need to say we need to stop and just move in a certain direction.",
+   "zh": "当然，我也认为总有一个时刻得说：该打住了，就朝一个方向走。",
+   "hl": []
+  },
+  {
+   "i": 31,
+   "s": 2514.6,
+   "e": 2520.66,
+   "spk": "Mike Cannon-Brookes",
+   "en": "I think the more important part for me than how I make decisions is I'd really like to explain decisions to people.",
+   "zh": "对我来说，比「怎么做决定」更重要的，是我很想把决定给大家讲明白。",
+   "hl": [
+    {
+     "text": "the more important part for me than how I make decisions is",
+     "note": "先搭「更重要的是…」的架子，is 后面直接接一个完整句子，不用再想语序。"
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "s": 2521.7,
+   "e": 2526.09,
+   "spk": "Mike Cannon-Brookes",
+   "en": "At Atlassian, we have a value, we open company, no bullshit.",
+   "zh": "在 Atlassian 我们有一条价值观：公司开放，不扯淡。",
+   "hl": []
+  },
+  {
+   "i": 33,
+   "s": 2526.09,
+   "e": 2529.78,
+   "spk": "Mike Cannon-Brookes",
+   "en": "And I tell people all the time that does not mean transparency.",
+   "zh": "我总跟大家说，这不等于透明。",
+   "hl": []
+  },
+  {
+   "i": 34,
+   "s": 2529.78,
+   "e": 2534.64,
+   "spk": "Mike Cannon-Brookes",
+   "en": "We don't owe you as an employee, all of the details behind every decision.",
+   "zh": "我们不欠你——作为员工——每个决定背后的全部细节。",
+   "hl": []
+  },
+  {
+   "i": 35,
+   "s": 2534.64,
+   "e": 2536.59,
+   "spk": "Mike Cannon-Brookes",
+   "en": "All the sausage making is not useful.",
+   "zh": "决策过程里那些乱七八糟的内情，摆出来没用。",
+   "hl": []
+  },
+  {
+   "i": 36,
+   "s": 2536.59,
+   "e": 2537.64,
+   "spk": "Mike Cannon-Brookes",
+   "en": "It's overwhelming to people.",
+   "zh": "只会让人信息过载。",
+   "hl": []
+  },
+  {
+   "i": 37,
+   "s": 2537.64,
+   "e": 2539.86,
+   "spk": "Mike Cannon-Brookes",
+   "en": "It doesn't help us move fast.",
+   "zh": "也没法让我们跑得快。",
+   "hl": []
+  },
+  {
+   "i": 38,
+   "s": 2539.86,
+   "e": 2547.0,
+   "spk": "Mike Cannon-Brookes",
+   "en": "We do owe employees clarity on why we are making a decision and an explanation of said decision.",
+   "zh": "但我们确实欠员工一个清楚的交代：为什么做这个决定，以及对这个决定的解释。",
+   "hl": []
+  },
+  {
+   "i": 39,
+   "s": 2547.0,
+   "e": 2557.65,
+   "spk": "Mike Cannon-Brookes",
+   "en": "And I think that's one of the most important things managers can do for training, for helping their talent grow is not, we're going left, but hey, we thought about it.",
+   "zh": "我觉得管理者要培养人、帮人才成长，能做的最重要的事情之一，就是别只说「我们往左走」，而是说：嘿，我们想过了。",
+   "hl": [
+    {
+     "text": "one of the most important things managers can do for training, for helping their talent grow is",
+     "note": "One of the most important things … is：主语很长也没关系，is 一出来后面想接什么接什么。"
+    }
+   ]
+  },
+  {
+   "i": 40,
+   "s": 2557.65,
+   "e": 2558.85,
+   "spk": "Mike Cannon-Brookes",
+   "en": "We looked at the different options.",
+   "zh": "各种选项都看过了。",
+   "hl": []
+  },
+  {
+   "i": 41,
+   "s": 2558.85,
+   "e": 2561.31,
+   "spk": "Mike Cannon-Brookes",
+   "en": "We considered straight, right, left.",
+   "zh": "直走、往右、往左都考虑过。",
+   "hl": []
+  },
+  {
+   "i": 42,
+   "s": 2561.31,
+   "e": 2562.24,
+   "spk": "Mike Cannon-Brookes",
+   "en": "Here's the pros and cons.",
+   "zh": "利弊是这些。",
+   "hl": [
+    {
+     "text": "Here's the pros and cons.",
+     "note": "Here's + 名词：先宣布「下面是…」，内容随后再给。"
+    }
+   ]
+  },
+  {
+   "i": 43,
+   "s": 2562.24,
+   "e": 2563.07,
+   "spk": "Mike Cannon-Brookes",
+   "en": "We're going left.",
+   "zh": "我们往左走。",
+   "hl": []
+  },
+  {
+   "i": 44,
+   "s": 2563.07,
+   "e": 2564.73,
+   "spk": "Mike Cannon-Brookes",
+   "en": "This is the reason why we're going left.",
+   "zh": "往左走的原因是这个。",
+   "hl": [
+    {
+     "text": "This is the reason why",
+     "note": "This is the reason why…：先说「原因是这个」，再补是哪件事的原因。"
+    }
+   ]
+  },
+  {
+   "i": 45,
+   "s": 2564.73,
+   "e": 2568.32,
+   "spk": "Mike Cannon-Brookes",
+   "en": "Often, people don't do that because people don't like the decision.",
+   "zh": "很多时候大家不这么做，是因为别人不会喜欢这个决定。",
+   "hl": []
+  },
+  {
+   "i": 46,
+   "s": 2569.2,
+   "e": 2579.01,
+   "spk": "Mike Cannon-Brookes",
+   "en": "And I say that all the time when you talked about our talent mix changes in March, we have to make a lot of hard decisions to run this business.",
+   "zh": "这话我常说。你刚才提到我们三月份调整人才结构——经营这家公司，就是得做很多艰难的决定。",
+   "hl": []
+  },
+  {
+   "i": 47,
+   "s": 2579.01,
+   "e": 2588.13,
+   "spk": "Mike Cannon-Brookes",
+   "en": "I wanna make sure that we are always explaining those decisions to people in the clearest and simplest way we can, why we've made a decision and what the decision is without any dressing.",
+   "zh": "我要确保我们每次都用最清楚、最简单的方式向大家解释：为什么做这个决定、决定是什么，不加任何包装。",
+   "hl": []
+  },
+  {
+   "i": 48,
+   "s": 2588.13,
+   "e": 2591.31,
+   "spk": "Mike Cannon-Brookes",
+   "en": "And I really don't like these corporate emails where I read the whole thing.",
+   "zh": "我特别不喜欢那种公司邮件，我从头读到尾，",
+   "hl": []
+  },
+  {
+   "i": 49,
+   "s": 2591.31,
+   "e": 2593.71,
+   "spk": "Mike Cannon-Brookes",
+   "en": "I'm like, \"So what are you saying exactly?",
+   "zh": "心想：「所以你到底想说什么？",
+   "hl": []
+  },
+  {
+   "i": 50,
+   "s": 2593.71,
+   "e": 2595.9,
+   "spk": "Mike Cannon-Brookes",
+   "en": "You've got a lot of words here.\"",
+   "zh": "字倒是写了不少。」",
+   "hl": []
+  },
+  {
+   "i": 51,
+   "s": 2595.9,
+   "e": 2597.22,
+   "spk": "Mike Cannon-Brookes",
+   "en": "I'm like, \"Here's what we're doing.",
+   "zh": "我的写法是：「我们要做的是这个。",
+   "hl": [
+    {
+     "text": "Here's what we're doing.",
+     "note": "Here's what…：一句话把「我们要做的是这个」立住。"
+    }
+   ]
+  },
+  {
+   "i": 52,
+   "s": 2597.22,
+   "e": 2598.72,
+   "spk": "Mike Cannon-Brookes",
+   "en": "We need to change our skill mix.",
+   "zh": "我们需要调整技能结构。",
+   "hl": []
+  },
+  {
+   "i": 53,
+   "s": 2598.72,
+   "e": 2599.89,
+   "spk": "Mike Cannon-Brookes",
+   "en": "Here's why.\"",
+   "zh": "原因是这个。」",
+   "hl": [
+    {
+     "text": "Here's why.",
+     "note": "Here's why：两个词的支架句，后面直接讲原因。"
+    }
+   ]
+  },
+  {
+   "i": 54,
+   "s": 2599.89,
+   "e": 2609.67,
+   "spk": "Mike Cannon-Brookes",
+   "en": "You should have the right amount of empathy to explain decisions of especially hard ones, but you also should not expect people to necessarily like it.",
+   "zh": "解释决定、尤其是艰难的决定时，该有的同理心要有，但也别指望大家一定会喜欢。",
+   "hl": []
+  },
+  {
+   "i": 55,
+   "s": 2609.67,
+   "e": 2617.05,
+   "spk": "Mike Cannon-Brookes",
+   "en": "We make a lot of hard decisions where I'm sure 60% of the company, 70% of the company thinks it's a great decision, 40% think it's a terrible decision.",
+   "zh": "我们做过很多艰难的决定，我敢说公司里六七成的人觉得很好，四成的人觉得糟透了。",
+   "hl": []
+  },
+  {
+   "i": 56,
+   "s": 2617.05,
+   "e": 2623.08,
+   "spk": "Mike Cannon-Brookes",
+   "en": "We build trust as leaders by explaining our decisions and being clear about why we've made it and how we've made it.",
+   "zh": "作为领导，我们是靠把决定解释清楚、讲明白为什么这么定、怎么定的，来建立信任的。",
+   "hl": []
+  },
+  {
+   "i": 57,
+   "s": 2623.08,
+   "e": 2626.83,
+   "spk": "Mike Cannon-Brookes",
+   "en": "And hopefully we improve decision making across, right?",
+   "zh": "也希望这样能让整个公司的决策水平都提高，对吧？",
+   "hl": []
+  },
+  {
+   "i": 58,
+   "s": 2626.83,
+   "e": 2629.77,
+   "spk": "Mike Cannon-Brookes",
+   "en": "I always say decisions get to my desk when they're presidential decisions.",
+   "zh": "我常说，到我桌上的决定都是「总统级决定」。",
+   "hl": []
+  },
+  {
+   "i": 59,
+   "s": 2629.77,
+   "e": 2634.76,
+   "spk": "Mike Cannon-Brookes",
+   "en": "I think it was Obama that called it that, where it's 51, 49, that's why I made it to my desk.",
+   "zh": "好像是 Obama 这么叫的：五十一比四十九，难分高下，所以才会送到我桌上。",
+   "hl": [
+    {
+     "text": "that's why",
+     "note": "that's why…：先给情况，再用 that's why 接结果。"
+    }
+   ]
+  },
+  {
+   "i": 60,
+   "s": 2635.68,
+   "e": 2640.03,
+   "spk": "Mike Cannon-Brookes",
+   "en": "If it was 90% certain what we should do, it should not have made it to my desk in the first place.",
+   "zh": "如果该怎么做已经有九成把握，那它压根就不该到我这儿。",
+   "hl": []
+  },
+  {
+   "i": 61,
+   "s": 2640.03,
+   "e": 2641.44,
+   "spk": "Mike Cannon-Brookes",
+   "en": "I only get hard decisions.",
+   "zh": "我只接难的决定。",
+   "hl": []
+  },
+  {
+   "i": 62,
+   "s": 2641.44,
+   "e": 2644.83,
+   "spk": "Mike Cannon-Brookes",
+   "en": "That's a well-operating company.",
+   "zh": "运转良好的公司就该这样。",
+   "hl": []
+  },
+  {
+   "i": 63,
+   "s": 2644.83,
+   "e": 2646.87,
+   "spk": "Mike Cannon-Brookes",
+   "en": "I think any leader should be in that situation.",
+   "zh": "我觉得任何领导者都应该处在这种状态。",
+   "hl": []
+  },
+  {
+   "i": 64,
+   "s": 2646.87,
+   "e": 2649.67,
+   "spk": "Mike Cannon-Brookes",
+   "en": "If it's an obvious decision, why did I make it to you?",
+   "zh": "如果答案明摆着，那它为什么会送到你这儿来？",
+   "hl": []
+  },
+  {
+   "i": 65,
+   "s": 2649.67,
+   "e": 2655.33,
+   "spk": "Mike Cannon-Brookes",
+   "en": "So that then requires more thought and more explanation about those decisions.",
+   "zh": "所以这类决定就需要想得更多、解释得更多。",
+   "hl": []
+  },
+  {
+   "i": 66,
+   "s": 2655.33,
+   "e": 2659.95,
+   "spk": "Mike Cannon-Brookes",
+   "en": "I think that's probably the most important part than any sort of framework we use to make them.",
+   "zh": "我觉得，比起用什么框架来做决定，这大概才是最重要的部分。",
+   "hl": []
+  }
+ ],
+ "shadow": [
+  {
+   "i": 8,
+   "tips": "断句：What they're NOT good at / is iMAGining things. 重音 not、imagining；good at 连读成 goo-dat，is 前面停半拍。"
+  },
+  {
+   "i": 26,
+   "tips": "断句：THAT'S what people internally / would TRUly say. 重音在 That's 和 truly；what people 的 t 不爆破；would 弱读。"
+  },
+  {
+   "i": 31,
+   "tips": "断句：I think the more imPORtant part for me / than HOW I make decisions / is / I'd really like to exPLAIN decisions to people. is 前后都停一下，这是整句的转轴；I'd 的 d 几乎听不见。"
+  },
+  {
+   "i": 44,
+   "tips": "断句：THIS is the reason / why we're going LEFT. 重音 this、left；reason why 连着读，going 读成 goin。"
+  },
+  {
+   "i": 60,
+   "tips": "断句：If it was NINEty percent certain what we should do, / it should NOT have made it to my desk / in the FIRST place. should not have 读成 shouldn'ta 的感觉；made it 连读 may-dit。"
+  }
+ ],
+ "questions": [
+  "What does Mike think LLMs are good at, and what are they not good at? (Try: \"What they're good at is… What they're not good at is…\")",
+  "What matters more to him than how he makes a decision?",
+  "What annoys him about typical corporate emails, and what would he write instead?",
+  "Why do only hard, 51–49 decisions reach his desk? Explain his reasoning.",
+  "What surprised you most about the way he talks about transparency?",
+  "Think of a recent trade you made or skipped. Explain it the way he recommends: \"Here's what I did. Here's why.\""
+ ],
+ "chunks": [
+  {
+   "en": "I keep meaning to ___",
+   "zh": "一直想做某事（却还没做）",
+   "i": 1
+  },
+  {
+   "en": "it really hit me like a bolt",
+   "zh": "一下子把我点醒了",
+   "i": 3
+  },
+  {
+   "en": "discuss things from different angles",
+   "zh": "从不同角度把事情聊一遍",
+   "i": 27
+  },
+  {
+   "en": "We do owe ___ clarity on why ___",
+   "zh": "我们确实欠某人一个清楚的交代：为什么…",
+   "i": 38
+  },
+  {
+   "en": "without any dressing",
+   "zh": "不加任何包装、直说",
+   "i": 47
+  },
+  {
+   "en": "So what are you saying exactly?",
+   "zh": "所以你到底想说什么？",
+   "i": 49
+  },
+  {
+   "en": "you also should not expect people to necessarily like it",
+   "zh": "别指望大家一定会喜欢",
+   "i": 54
+  },
+  {
+   "en": "___ should not have made it to my desk in the first place",
+   "zh": "…压根就不该送到我这儿来",
+   "i": 60
+  }
+ ],
+ "source": "YouTube 人工字幕"
+}
