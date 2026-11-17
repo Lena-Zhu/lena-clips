@@ -333,6 +333,10 @@
   function playing(v) {
     try { return v.ready && v.player.getPlayerState() === 1; } catch (e) { return false; }
   }
+  // 广告期间播放器报的时长是广告的时长，比片段结束点还短
+  function inAd(v) {
+    try { var d = v.player.getDuration(); return d > 0 && d < v.end - 1; } catch (e) { return false; }
+  }
   function now(v) {
     try { return v.ready ? v.player.getCurrentTime() : v.start; } catch (e) { return v.start; }
   }
@@ -428,6 +432,7 @@
 
   function tick(v) {
     if (v.dead || !v.ready) return;
+    if (inAd(v)) return;
     var t = now(v), isPlaying = playing(v);
     if (v.loop && v.loopIdx >= 0) {
       var s = v.sents[v.loopIdx];
@@ -452,8 +457,7 @@
     var b = app.querySelector('.btn[data-act="play"]');
     if (b) b.textContent = st === 1 || st === 3 ? '暂停' : '播放';
     if (st === 1) {
-      // 播起来以后盖一层透明层：点视频只做播放/暂停，YouTube 自己的控制条不再弹出来挡字幕
-      var cv = app.querySelector('.cover'); if (cv) cv.hidden = false;
+      if (inAd(v)) return; // 广告在放：别跳转，等它放完或她点跳过
       if (v.needTap) { v.needTap = false; paintStatus(v); }
       try { if (v.player.getPlaybackRate() !== v.rate) v.player.setPlaybackRate(v.rate); } catch (e) {}
       var t = now(v);
