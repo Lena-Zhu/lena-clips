@@ -209,7 +209,7 @@
       ' · ' + fmt(end - start) + '</div>' +
       '<div class="tags">' + tagsHTML(clip) + '</div></header>';
 
-    h += '<div class="stage"><div class="video"><div id="yt"></div><div class="cover" data-act="play" hidden></div></div>' +
+    h += '<div class="stage"><div class="video"><div id="yt"></div><div class="cap" hidden></div></div>' +
       '<div class="bar">' +
       '<button class="btn" type="button" data-act="back">退3秒</button>' +
       '<button class="btn" type="button" data-act="prev">上一句</button>' +
@@ -292,6 +292,7 @@
     v.cueEls = app.querySelectorAll('.cue');
     v.stEl = document.getElementById('st');
     v.stage = app.querySelector('.stage');
+    v.box = app.querySelector('.video');
     bindClip(v);
     paintStatus(v);
 
@@ -335,7 +336,12 @@
   }
   // 广告期间播放器报的时长是广告的时长，比片段结束点还短
   function inAd(v) {
-    try { var d = v.player.getDuration(); return d > 0 && d < v.end - 1; } catch (e) { return false; }
+    try {
+      var d = v.player.getDuration();
+      if (d > 0 && d < v.end - 1) return true;
+      var vd = v.player.getVideoData && v.player.getVideoData();
+      return !!(vd && vd.video_id && vd.video_id !== v.clip.youtube);
+    } catch (e) { return false; }
   }
   function now(v) {
     try { return v.ready ? v.player.getCurrentTime() : v.start; } catch (e) { return v.start; }
@@ -432,7 +438,8 @@
 
   function tick(v) {
     if (v.dead || !v.ready) return;
-    if (inAd(v)) return;
+    var ad = inAd(v);
+    if (ad) return;
     var t = now(v), isPlaying = playing(v);
     if (v.loop && v.loopIdx >= 0) {
       var s = v.sents[v.loopIdx];
@@ -456,8 +463,21 @@
     if (v.dead) return;
     var b = app.querySelector('.btn[data-act="play"]');
     if (b) b.textContent = st === 1 || st === 3 ? '暂停' : '播放';
+    // 暂停时 YouTube 会在画面上盖标题、推荐视频和标志，去不掉。
+    // 办法：暂停期间把播放器拉高、只露中间的画面，那些东西落在看不见的上下两段；自己补一行当前句的字幕。
+    if (st === 1 || st === 2) {
+      var crop = st === 2 && v.started && !inAd(v);
+      if (v.box) v.box.classList.toggle('crop', crop);
+      var cap = app.querySelector('.cap');
+      if (cap) {
+        var cs = crop && v.sents[v.loop ? v.loopIdx : v.cur];
+        cap.hidden = !cs;
+        if (cs) cap.textContent = cs.en || '';
+      }
+    }
     if (st === 1) {
-      if (inAd(v)) return; // 广告在放：别跳转，等它放完或她点跳过
+      if (inAd(v)) return;
+      v.started = true; // 广告在放：别跳转，等它放完或她点跳过
       if (v.needTap) { v.needTap = false; paintStatus(v); }
       try { if (v.player.getPlaybackRate() !== v.rate) v.player.setPlaybackRate(v.rate); } catch (e) {}
       var t = now(v);
