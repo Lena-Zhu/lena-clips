@@ -217,12 +217,11 @@
       '<button class="btn" type="button" data-act="next">下一句</button>' +
       '<button class="btn" type="button" data-act="fwd">进3秒</button>' +
       '<button class="btn" type="button" data-act="again">重听这句</button>' +
+      '<button class="btn" type="button" data-act="stop1" aria-pressed="false">一句一停</button>' +
       '<button class="btn" type="button" data-act="loop" aria-pressed="false">单句循环</button>' +
       '<button class="btn" type="button" data-act="rate">速度 1×</button>' +
-      '<button class="btn" type="button" data-act="zh" aria-pressed="true">中文</button>' +
-      '<button class="btn" type="button" data-act="en" aria-pressed="true">英文</button>' +
       '</div>' +
-      '<div class="status"><span id="st"></span><button class="mini" type="button" data-act="replay">从头播</button>' + (ytUrl ? '<a href="' + esc(ytUrl) + '" target="_blank" rel="noopener">在 YouTube 打开</a>' : '') + '</div></div>';
+      '<div class="status"><span id="st"></span><button class="mini" type="button" data-act="zh" aria-pressed="true">中文</button><button class="mini" type="button" data-act="en" aria-pressed="true">英文</button><button class="mini" type="button" data-act="replay">从头播</button>' + (ytUrl ? '<a href="' + esc(ytUrl) + '" target="_blank" rel="noopener">在 YouTube 打开</a>' : '') + '</div></div>';
 
     h += '<div class="body">';
     if (clip.intro_zh) h += '<div class="intro">' + esc(clip.intro_zh) + '</div>';
@@ -294,6 +293,7 @@
     v.stage = app.querySelector('.stage');
     v.box = app.querySelector('.video');
     bindClip(v);
+    try { if (localStorage.getItem('clips:stop1') === '1') setStop1(v, true); } catch (e) {}
     paintStatus(v);
 
     if (!clip.youtube) { videoMsg(v, '这个片段没有视频地址。'); return; }
@@ -358,6 +358,7 @@
     if (!v.ready) return;
     var t = Math.min(v.end - 0.2, Math.max(v.start, now(v) + d));
     if (v.loop) setLoop(v, false);
+    v.seg = null;
     v.hold = Date.now();
     var n = findSent(v, t);
     if (n !== v.cur) setCur(v, n, 'auto');
@@ -367,6 +368,7 @@
     var n = v.loop ? v.loopIdx : v.cur;
     if (n < 0) n = 0;
     if (!v.sents[n]) return;
+    v.seg = n;
     v.hold = Date.now();
     seek(v, v.sents[n].s, true);
   }
@@ -375,10 +377,21 @@
     n = Math.max(0, Math.min(v.sents.length - 1, n));
     if (v.loop) v.loopIdx = n;
     setCur(v, n, scroll ? 'force' : 'none');
+    v.seg = n;
     v.hold = Date.now(); // 刚跳转时播放器回报的还是旧时间，先别让 tick 改回去
     seek(v, v.sents[n].s, true);
   }
+  // 一句一停：这一句放完自动暂停；再按播放（或空格）接着放下一句
+  function setStop1(v, on) {
+    v.stop1 = on;
+    v.seg = null;
+    if (on && v.loop) setLoop(v, false);
+    var b = app.querySelector('[data-act="stop1"]');
+    if (b) b.setAttribute('aria-pressed', on ? 'true' : 'false');
+    try { localStorage.setItem('clips:stop1', on ? '1' : '0'); } catch (e) {}
+  }
   function setLoop(v, on) {
+    if (on && v.stop1) setStop1(v, false);
     v.loop = on;
     v.loopIdx = on ? Math.max(0, v.cur) : -1;
     var b = app.querySelector('[data-act="loop"]');
@@ -453,6 +466,19 @@
       return;
     }
     if (v.hold && Date.now() - v.hold < 700) return;
+    if (v.stop1 && isPlaying && t >= v.start - 0.5) {
+      if (v.seg == null) v.seg = Math.max(0, findSent(v, t + 0.15));
+      var g = v.sents[v.seg];
+      if (g && (t >= g._e - 0.05 || t < g.s - 0.6)) {
+        if (t < g.s - 0.6) { v.seg = null; }
+        else {
+          try { v.player.pauseVideo(); } catch (e) {}
+          if (v.cur !== v.seg) setCur(v, v.seg, 'auto');
+          v.seg = null;
+          return;
+        }
+      }
+    } else if (!isPlaying && !v.stop1) v.seg = null;
     if (isPlaying || v.cur < 0) {
       var n = t < v.start - 0.5 ? -1 : findSent(v, t);
       if (n !== v.cur && (isPlaying || n > 0)) setCur(v, n, 'auto');
@@ -573,7 +599,8 @@
       else if (act === 'fwd') nudge(v, 3);
       else if (act === 'again') again(v);
       else if (act === 'loop') setLoop(v, !v.loop);
-      else if (act === 'replay') { setLoop(v, false); setCur(v, v.sents.length ? 0 : -1, 'force'); v.hold = Date.now(); seek(v, v.start, true); }
+      else if (act === 'stop1') setStop1(v, !v.stop1);
+      else if (act === 'replay') { setLoop(v, false); v.seg = null; setCur(v, v.sents.length ? 0 : -1, 'force'); v.hold = Date.now(); seek(v, v.start, true); }
       else if (act === 'rate') {
         v.rate = RATES[(RATES.indexOf(v.rate) + 1) % RATES.length];
         btn.textContent = '速度 ' + v.rate + '×';
@@ -609,6 +636,7 @@
     else if (ev.key === ',' || ev.key === 'j' || ev.key === 'J') nudge(v, -3);
     else if (ev.key === '.' || ev.key === 'k' || ev.key === 'K') nudge(v, 3);
     else if (ev.key === 'r' || ev.key === 'R') again(v);
+    else if (ev.key === 's' || ev.key === 'S') setStop1(v, !v.stop1);
   });
 
   route();

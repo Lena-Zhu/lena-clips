@@ -73,7 +73,9 @@ a { color: var(--accent); }
 .video > .cap { inset: auto 0 0 0; height: auto; z-index: 2; pointer-events: none; padding: 6px 12px 8px; background: rgba(0,0,0,.62); color: #fff; font-size: 14px; line-height: 1.4; text-align: center; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 .video > .cap[hidden] { display: none; }
 .video.crop iframe { height: 300%; top: -100%; bottom: auto; }
-.mini { border: 0; background: none; color: var(--ink-2); font-size: 13px; text-decoration: underline; padding: 0; margin-left: auto; white-space: nowrap; }
+.mini.off { color: var(--ink-3); text-decoration: line-through; }
+.mini ~ .mini, .mini ~ a { margin-left: 0; }
+.mini { border: 0; background: none; color: var(--ink-2); font-size: 13px; text-decoration: underline; padding: 6px 0; margin-left: auto; white-space: nowrap; }
 .video-msg { z-index: 3; }
 .video-msg a { color: #ffd98a; }
 .bar { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 6px; margin-top: 8px; }
