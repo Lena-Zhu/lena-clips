@@ -209,18 +209,20 @@
       ' · ' + fmt(end - start) + '</div>' +
       '<div class="tags">' + tagsHTML(clip) + '</div></header>';
 
-    h += '<div class="stage"><div class="video"><div id="yt"></div></div>' +
+    h += '<div class="stage"><div class="video"><div id="yt"></div><div class="cover" data-act="play" hidden></div></div>' +
       '<div class="bar">' +
+      '<button class="btn" type="button" data-act="back">退3秒</button>' +
       '<button class="btn" type="button" data-act="prev">上一句</button>' +
       '<button class="btn play" type="button" data-act="play">播放</button>' +
       '<button class="btn" type="button" data-act="next">下一句</button>' +
+      '<button class="btn" type="button" data-act="fwd">进3秒</button>' +
+      '<button class="btn" type="button" data-act="again">重听这句</button>' +
       '<button class="btn" type="button" data-act="loop" aria-pressed="false">单句循环</button>' +
       '<button class="btn" type="button" data-act="rate">速度 1×</button>' +
       '<button class="btn" type="button" data-act="zh" aria-pressed="true">中文</button>' +
       '<button class="btn" type="button" data-act="en" aria-pressed="true">英文</button>' +
-      '<button class="btn" type="button" data-act="replay">重播这段</button>' +
       '</div>' +
-      '<div class="status"><span id="st"></span>' + (ytUrl ? '<a href="' + esc(ytUrl) + '" target="_blank" rel="noopener">在 YouTube 打开</a>' : '') + '</div></div>';
+      '<div class="status"><span id="st"></span><button class="mini" type="button" data-act="replay">从头播</button>' + (ytUrl ? '<a href="' + esc(ytUrl) + '" target="_blank" rel="noopener">在 YouTube 打开</a>' : '') + '</div></div>';
 
     h += '<div class="body">';
     if (clip.intro_zh) h += '<div class="intro">' + esc(clip.intro_zh) + '</div>';
@@ -299,7 +301,7 @@
       v.player = new YT.Player('yt', {
         videoId: clip.youtube,
         width: '100%', height: '100%',
-        playerVars: { start: Math.floor(start), playsinline: 1, rel: 0, modestbranding: 1, origin: location.origin },
+        playerVars: { start: Math.floor(start), playsinline: 1, rel: 0, modestbranding: 1, controls: 0, disablekb: 1, fs: 0, iv_load_policy: 3, origin: location.origin },
         events: {
           onReady: function () {
             if (v.dead) return;
@@ -341,6 +343,22 @@
       v.player.seekTo(t, true);
       if (play) { v.player.playVideo(); v.tried = Date.now(); }
     } catch (e) {}
+  }
+  function nudge(v, d) {
+    if (!v.ready) return;
+    var t = Math.min(v.end - 0.2, Math.max(v.start, now(v) + d));
+    if (v.loop) setLoop(v, false);
+    v.hold = Date.now();
+    var n = findSent(v, t);
+    if (n !== v.cur) setCur(v, n, 'auto');
+    seek(v, t, true);
+  }
+  function again(v) {
+    var n = v.loop ? v.loopIdx : v.cur;
+    if (n < 0) n = 0;
+    if (!v.sents[n]) return;
+    v.hold = Date.now();
+    seek(v, v.sents[n].s, true);
   }
   function goSent(v, n, scroll) {
     if (!v.sents.length) return;
@@ -431,9 +449,11 @@
 
   function onState(v, st) {
     if (v.dead) return;
-    var b = app.querySelector('[data-act="play"]');
+    var b = app.querySelector('.btn[data-act="play"]');
     if (b) b.textContent = st === 1 || st === 3 ? '暂停' : '播放';
     if (st === 1) {
+      // 播起来以后盖一层透明层：点视频只做播放/暂停，YouTube 自己的控制条不再弹出来挡字幕
+      var cv = app.querySelector('.cover'); if (cv) cv.hidden = false;
       if (v.needTap) { v.needTap = false; paintStatus(v); }
       try { if (v.player.getPlaybackRate() !== v.rate) v.player.setPlaybackRate(v.rate); } catch (e) {}
       var t = now(v);
@@ -525,6 +545,9 @@
       if (act === 'prev') goSent(v, (v.loop ? v.loopIdx : v.cur) - 1, true);
       else if (act === 'next') goSent(v, (v.loop ? v.loopIdx : v.cur) + 1, true);
       else if (act === 'play') togglePlay(v);
+      else if (act === 'back') nudge(v, -3);
+      else if (act === 'fwd') nudge(v, 3);
+      else if (act === 'again') again(v);
       else if (act === 'loop') setLoop(v, !v.loop);
       else if (act === 'replay') { setLoop(v, false); setCur(v, v.sents.length ? 0 : -1, 'force'); v.hold = Date.now(); seek(v, v.start, true); }
       else if (act === 'rate') {
@@ -559,6 +582,9 @@
     else if (ev.key === 'ArrowLeft') goSent(v, (v.loop ? v.loopIdx : v.cur) - 1, true);
     else if (ev.key === 'ArrowRight') goSent(v, (v.loop ? v.loopIdx : v.cur) + 1, true);
     else if (ev.key === 'l' || ev.key === 'L') setLoop(v, !v.loop);
+    else if (ev.key === ',' || ev.key === 'j' || ev.key === 'J') nudge(v, -3);
+    else if (ev.key === '.' || ev.key === 'k' || ev.key === 'K') nudge(v, 3);
+    else if (ev.key === 'r' || ev.key === 'R') again(v);
   });
 
   route();
