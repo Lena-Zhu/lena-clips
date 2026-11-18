@@ -1,0 +1,786 @@
+{
+ "id": "d08-druck-tomorrowx",
+ "day": 8,
+ "date": "2026-11-22",
+ "show": "TomorrowX Summit",
+ "guest": "Stan Druckenmiller",
+ "title_zh": "看不清，就不下场",
+ "topic": "投资",
+ "youtube": "6r3D-CMJkuI",
+ "start": 97.6,
+ "end": 496.5,
+ "structure": "伴随状语 + 分词前置",
+ "intro_zh": "传奇宏观投资人 Stan Druckenmiller（Duquesne 家族办公室）在奥斯汀 TomorrowX 峰会上和摩根士丹利的 Iliana Bouzali 对谈。主持人翻出他今年一月的持仓——看多经济、做多股票和铜——他回答：现在几乎全卖了，一切都反过来了，他看不清 12 个月后的方向，所以「不玩了」。他说的那位「在我旁边坐了 15 年」、如今执掌美联储的人，应指曾在 Duquesne 共事多年的 Kevin Warsh。",
+ "sents": [
+  {
+   "i": 0,
+   "s": 97.6,
+   "e": 105.92,
+   "spk": "Iliana Bouzali",
+   "en": "So I went back to our January conversation, similar to this, a smaller audience.",
+   "zh": "我翻了一下我们一月份那次对谈，和今天差不多，只是听众少一些。",
+   "hl": []
+  },
+  {
+   "i": 1,
+   "s": 105.92,
+   "e": 122.56,
+   "spk": "Iliana Bouzali",
+   "en": "And you were bullish the economy, you were long equities, you were short Treasuries as a hedge, you were long copper, and you had this belief that healthcare was going to be a breakout winner.",
+   "zh": "当时你看好经济，做多股票，做空美债当对冲，做多铜，还认定医疗会是大赢家。",
+   "hl": []
+  },
+  {
+   "i": 2,
+   "s": 122.56,
+   "e": 128.72,
+   "spk": "Iliana Bouzali",
+   "en": "So how much of that portfolio do you own today?",
+   "zh": "那么，那套组合你现在还拿着多少？",
+   "hl": []
+  },
+  {
+   "i": 3,
+   "s": 128.72,
+   "e": 132.8,
+   "spk": "Stan Druckenmiller",
+   "en": "Basically, almost none.",
+   "zh": "基本上，几乎一点都没了。",
+   "hl": []
+  },
+  {
+   "i": 4,
+   "s": 132.8,
+   "e": 140.8,
+   "spk": "Stan Druckenmiller",
+   "en": "When I looked at January, when you interviewed me, it was a unique time.",
+   "zh": "回头看一月、你采访我的那会儿，那是个很特别的时刻。",
+   "hl": []
+  },
+  {
+   "i": 5,
+   "s": 140.8,
+   "e": 147.36,
+   "spk": "Stan Druckenmiller",
+   "en": "Sometimes in my career, I've had clarity, and sometimes I have no clarity.",
+   "zh": "我这一行干下来，有时候看得很清楚，有时候完全看不清。",
+   "hl": []
+  },
+  {
+   "i": 6,
+   "s": 147.36,
+   "e": 151.28,
+   "spk": "Stan Druckenmiller",
+   "en": "And when I have clarity, I like to play big.",
+   "zh": "看得清的时候，我喜欢下重注。",
+   "hl": []
+  },
+  {
+   "i": 7,
+   "s": 151.28,
+   "e": 156.32,
+   "spk": "Stan Druckenmiller",
+   "en": "And when I don't have clarity, I'll almost sometimes not play.",
+   "zh": "看不清的时候，我有时干脆就不下场。",
+   "hl": []
+  },
+  {
+   "i": 8,
+   "s": 156.32,
+   "e": 161.2,
+   "spk": "Stan Druckenmiller",
+   "en": "So at the time, if you'll recall, the economy was very strong.",
+   "zh": "所以，你应该还记得，当时经济非常强。",
+   "hl": []
+  },
+  {
+   "i": 9,
+   "s": 161.2,
+   "e": 168.32,
+   "spk": "Stan Druckenmiller",
+   "en": "More importantly, looking forward, Fed funds were three and a half, nominal growth was 6%.",
+   "zh": "更重要的是，往前看，联邦基金利率才 3.5%，名义增长却有 6%。",
+   "hl": [
+    {
+     "text": "looking forward, Fed funds were three and a half",
+     "note": "分词短语前置：looking forward 放句首交代「从哪个角度看」，主语 Fed funds 随后出场。不用 when we look forward，一个 -ing 就够。"
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "s": 168.32,
+   "e": 171.68,
+   "spk": "Stan Druckenmiller",
+   "en": "So monetary policy was ridiculously loose.",
+   "zh": "所以货币政策松得离谱。",
+   "hl": []
+  },
+  {
+   "i": 11,
+   "s": 171.68,
+   "e": 180.64,
+   "spk": "Stan Druckenmiller",
+   "en": "And if you looked at the so-called Fed dot plot, more interest rate cuts were supposedly coming later in the year.",
+   "zh": "再看所谓的美联储点阵图，年内晚些时候按说还会有更多降息。",
+   "hl": []
+  },
+  {
+   "i": 12,
+   "s": 180.64,
+   "e": 184.96,
+   "spk": "Stan Druckenmiller",
+   "en": "Commodities were breaking out to a new high, including copper.",
+   "zh": "大宗商品正在突破、创新高，铜也在其中。",
+   "hl": [
+    {
+     "text": ", including copper",
+     "note": "分词短语收尾：先把主句说完，再用 including… 补例子。中文爱说「包括铜在内的大宗商品」，英文把 including 挪到句尾。"
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "s": 184.96,
+   "e": 191.44,
+   "spk": "Stan Druckenmiller",
+   "en": "The advance-decline line and other technicals I look at the market were all making new highs.",
+   "zh": "腾落线，还有我看的其他技术指标，当时全都在创新高。",
+   "hl": []
+  },
+  {
+   "i": 14,
+   "s": 191.44,
+   "e": 195.28,
+   "spk": "Stan Druckenmiller",
+   "en": "Credit spreads were very, very tight.",
+   "zh": "信用利差非常、非常窄。",
+   "hl": []
+  },
+  {
+   "i": 15,
+   "s": 195.28,
+   "e": 206.16,
+   "spk": "Stan Druckenmiller",
+   "en": "So it seemed almost impossible to me that we could have a recession within six to 12 months, and with overly stimulated monetary policy.",
+   "zh": "所以在我看来，6 到 12 个月内出现衰退几乎不可能，何况货币政策还刺激过度。",
+   "hl": [
+    {
+     "text": "with overly stimulated monetary policy",
+     "note": "with + 名词 + 修饰语做伴随状语：交代背景条件「在货币政策过度刺激的情况下」。"
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "s": 206.16,
+   "e": 223.68,
+   "spk": "Stan Druckenmiller",
+   "en": "And then there was another thing happening, which was Claude Code, the previous fall, pretty late, had just kind of gotten everyone excited, or let's say the insiders excited, about an acceleration in AI.",
+   "zh": "还有一件事正在发生：前一年秋天、挺晚的时候，Claude Code 刚让所有人——或者说让圈内人——对 AI 加速这件事兴奋起来。",
+   "hl": [
+    {
+     "text": "there was another thing happening",
+     "note": "There was + 名词 + -ing：「还有一件事正在发生」。-ing 直接跟在名词后，不用 that was happening。"
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "s": 223.68,
+   "e": 226.88,
+   "spk": "Stan Druckenmiller",
+   "en": "So we were quite bullish on capital spending.",
+   "zh": "所以我们很看好资本开支。",
+   "hl": []
+  },
+  {
+   "i": 18,
+   "s": 226.88,
+   "e": 234.08,
+   "spk": "Stan Druckenmiller",
+   "en": "So this all made us quite bullish equities and, as you said, the economy.",
+   "zh": "这一切让我们相当看好股票，也像你说的，看好经济。",
+   "hl": []
+  },
+  {
+   "i": 19,
+   "s": 234.08,
+   "e": 239.84,
+   "spk": "Stan Druckenmiller",
+   "en": "Unfortunately, about a month later, something called a war started.",
+   "zh": "不巧的是，大概一个月后，爆发了一场叫「战争」的东西。",
+   "hl": [
+    {
+     "text": "something called a war",
+     "note": "过去分词后置：something called X =「一个叫 X 的东西」，带点自嘲的口气。"
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "s": 239.84,
+   "e": 242.8,
+   "spk": "Stan Druckenmiller",
+   "en": "I panicked.",
+   "zh": "我慌了。",
+   "hl": []
+  },
+  {
+   "i": 21,
+   "s": 242.8,
+   "e": 258.0,
+   "spk": "Stan Druckenmiller",
+   "en": "We sold a bunch of stuff, but it actually ended up lucky, because when we bought it back, which we did quickly, it was more apparent than ever that AI infrastructure was going to have a complete liftoff.",
+   "zh": "我们卖了一大堆，结果反倒是运气好：等我们很快买回来的时候，AI 基建要彻底起飞这件事已经再明显不过了。",
+   "hl": []
+  },
+  {
+   "i": 22,
+   "s": 258.0,
+   "e": 262.56,
+   "spk": "Stan Druckenmiller",
+   "en": "So it cleaned out all the stuff in the portfolio that wasn't going to be a big rise.",
+   "zh": "所以这一下把组合里那些不会大涨的东西都清了出去。",
+   "hl": []
+  },
+  {
+   "i": 23,
+   "s": 262.56,
+   "e": 266.08,
+   "spk": "Stan Druckenmiller",
+   "en": "So now let's look at today.",
+   "zh": "好，现在看看今天。",
+   "hl": []
+  },
+  {
+   "i": 24,
+   "s": 266.08,
+   "e": 275.6,
+   "spk": "Stan Druckenmiller",
+   "en": "The economy still is strong, but everything else I just talked about has completely flipped on its head.",
+   "zh": "经济依然强劲，但我刚才说的其他一切都彻底反过来了。",
+   "hl": []
+  },
+  {
+   "i": 25,
+   "s": 275.6,
+   "e": 277.28,
+   "spk": "Stan Druckenmiller",
+   "en": "The Fed is not cutting.",
+   "zh": "美联储不降息了。",
+   "hl": []
+  },
+  {
+   "i": 26,
+   "s": 277.28,
+   "e": 278.8,
+   "spk": "Stan Druckenmiller",
+   "en": "They're hiking.",
+   "zh": "他们在加息。",
+   "hl": []
+  },
+  {
+   "i": 27,
+   "s": 278.8,
+   "e": 281.36,
+   "spk": "Stan Druckenmiller",
+   "en": "We've had regime change at the Fed.",
+   "zh": "美联储换了掌门人。",
+   "hl": []
+  },
+  {
+   "i": 28,
+   "s": 281.36,
+   "e": 285.28,
+   "spk": "Stan Druckenmiller",
+   "en": "A gentleman I know well, he sat next to me for 15 years.",
+   "zh": "有位我很熟的先生，在我旁边坐了 15 年。",
+   "hl": []
+  },
+  {
+   "i": 29,
+   "s": 285.28,
+   "e": 292.32,
+   "spk": "Stan Druckenmiller",
+   "en": "He is not happy that we had free money for 15 years while the deficit and everything else went through the roof.",
+   "zh": "他很不满意：赤字和别的一切都飙上天的时候，我们却白送了 15 年的钱。",
+   "hl": []
+  },
+  {
+   "i": 30,
+   "s": 292.32,
+   "e": 297.36,
+   "spk": "Stan Druckenmiller",
+   "en": "He's even less happy that inflation has been above target for five years.",
+   "zh": "他更不满意的是，通胀已经连续五年高于目标。",
+   "hl": []
+  },
+  {
+   "i": 31,
+   "s": 297.36,
+   "e": 300.32,
+   "spk": "Stan Druckenmiller",
+   "en": "So we have monetary tightening going on.",
+   "zh": "所以现在是货币在收紧。",
+   "hl": [
+    {
+     "text": "we have monetary tightening going on",
+     "note": "have + 名词 + -ing：We have X going on =「眼下正在发生 X」，描述局面的万能句。"
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "s": 300.32,
+   "e": 307.28,
+   "spk": "Stan Druckenmiller",
+   "en": "We have commodities, which were breaking out in January, look like they've topped and are going down.",
+   "zh": "大宗商品一月还在突破，现在看起来已经见顶、在往下走。",
+   "hl": []
+  },
+  {
+   "i": 33,
+   "s": 307.28,
+   "e": 309.68,
+   "spk": "Stan Druckenmiller",
+   "en": "In fact, we're now short copper.",
+   "zh": "事实上，我们现在做空铜。",
+   "hl": []
+  },
+  {
+   "i": 34,
+   "s": 309.68,
+   "e": 321.36,
+   "spk": "Stan Druckenmiller",
+   "en": "The advance-decline line, which was making a new high when we were interviewed, made its high back on August 14th, despite the fact the averages were making their highs in October.",
+   "zh": "腾落线在我们上次对谈时还在创新高，8 月 14 日就见了顶，尽管各大指数是 10 月才创的新高。",
+   "hl": []
+  },
+  {
+   "i": 35,
+   "s": 321.36,
+   "e": 323.44,
+   "spk": "Stan Druckenmiller",
+   "en": "Credit spreads are widening.",
+   "zh": "信用利差在走阔。",
+   "hl": []
+  },
+  {
+   "i": 36,
+   "s": 323.44,
+   "e": 325.76,
+   "spk": "Stan Druckenmiller",
+   "en": "I think you're getting the joke here.",
+   "zh": "你应该听出这里面的反讽了。",
+   "hl": []
+  },
+  {
+   "i": 37,
+   "s": 325.76,
+   "e": 330.0,
+   "spk": "Stan Druckenmiller",
+   "en": "Everything is the exact opposite of the way it was then.",
+   "zh": "一切都和当时完全相反。",
+   "hl": []
+  },
+  {
+   "i": 38,
+   "s": 330.0,
+   "e": 332.24,
+   "spk": "Stan Druckenmiller",
+   "en": "So we are not long equities.",
+   "zh": "所以我们没有做多股票。",
+   "hl": []
+  },
+  {
+   "i": 39,
+   "s": 332.24,
+   "e": 334.72,
+   "spk": "Stan Druckenmiller",
+   "en": "We're not short equities.",
+   "zh": "也没有做空股票。",
+   "hl": []
+  },
+  {
+   "i": 40,
+   "s": 334.72,
+   "e": 335.92,
+   "spk": "Stan Druckenmiller",
+   "en": "I like to go short.",
+   "zh": "我喜欢做空。",
+   "hl": []
+  },
+  {
+   "i": 41,
+   "s": 335.92,
+   "e": 337.68,
+   "spk": "Stan Druckenmiller",
+   "en": "I admit it.",
+   "zh": "这我承认。",
+   "hl": []
+  },
+  {
+   "i": 42,
+   "s": 337.68,
+   "e": 346.56,
+   "spk": "Stan Druckenmiller",
+   "en": "But for all the reasons I think most people came to this conference, I wouldn't dare go short the innovation and everything going on here.",
+   "zh": "但正因为大多数人来参加这个会的那些理由，我不敢去做空这里的创新、这里正在发生的一切。",
+   "hl": [
+    {
+     "text": "everything going on here",
+     "note": "名词 + -ing 后置：everything (that is) going on here，省掉 that is。"
+    }
+   ]
+  },
+  {
+   "i": 43,
+   "s": 346.56,
+   "e": 353.52,
+   "spk": "Stan Druckenmiller",
+   "en": "Also, a lot of that stuff is oversold and washed out, and I think positions are down tactically.",
+   "zh": "另外，很多那类股票已经超卖、洗得很干净了，我觉得从交易层面看，大家的仓位已经降下来了。",
+   "hl": []
+  },
+  {
+   "i": 44,
+   "s": 353.52,
+   "e": 360.24,
+   "spk": "Stan Druckenmiller",
+   "en": "So my choice here is to do what I've sort of always done when I don't have clarity.",
+   "zh": "所以我的选择，就是做我看不清时一向会做的事。",
+   "hl": []
+  },
+  {
+   "i": 45,
+   "s": 360.24,
+   "e": 365.12,
+   "spk": "Stan Druckenmiller",
+   "en": "And I've been doing this, oh my God, for 50 years I've been doing this.",
+   "zh": "这么做我已经——天哪——50 年了，一直这么做。",
+   "hl": []
+  },
+  {
+   "i": 46,
+   "s": 365.12,
+   "e": 373.52,
+   "spk": "Stan Druckenmiller",
+   "en": "I can't remember a period where I had less clarity on where we're going to be in 12 months, unlike last January.",
+   "zh": "我想不起来哪个时期，我对 12 个月后的走向比现在更没把握，和去年一月完全不同。",
+   "hl": []
+  },
+  {
+   "i": 47,
+   "s": 373.52,
+   "e": 382.0,
+   "spk": "Stan Druckenmiller",
+   "en": "So, as you made fun of me on one of these Zoom calls the other day, and you said, \"Stan has a button now. When I call, it just says, 'I'm not playing.'\"",
+   "zh": "所以，就像你前几天在一个 Zoom 电话会上取笑我的：「Stan 现在有个按钮，我一打过去，它就说『我不玩了』。」",
+   "hl": []
+  },
+  {
+   "i": 48,
+   "s": 382.0,
+   "e": 386.32,
+   "spk": "Iliana Bouzali",
+   "en": "It's auto-reply: \"Don't talk to me. I'm not playing.\"",
+   "zh": "这叫自动回复：「别跟我说话，我不玩了。」",
+   "hl": []
+  },
+  {
+   "i": 49,
+   "s": 386.32,
+   "e": 387.2,
+   "spk": "Stan Druckenmiller",
+   "en": "That's where we are.",
+   "zh": "我们现在就是这个状态。",
+   "hl": []
+  },
+  {
+   "i": 50,
+   "s": 387.2,
+   "e": 391.92,
+   "spk": "Stan Druckenmiller",
+   "en": "We're still... we have some small positions in the dollar.",
+   "zh": "我们还——我们在美元上有一些小仓位。",
+   "hl": []
+  },
+  {
+   "i": 51,
+   "s": 391.92,
+   "e": 395.6,
+   "spk": "Stan Druckenmiller",
+   "en": "Our equity positions are basically flat, but there's a mishmash.",
+   "zh": "股票仓位基本是平的，不过里面东一点西一点。",
+   "hl": []
+  },
+  {
+   "i": 52,
+   "s": 395.6,
+   "e": 400.32,
+   "spk": "Stan Druckenmiller",
+   "en": "There's some shorts and longs in there, but we're basically staying away.",
+   "zh": "有一些空头、一些多头，但基本上我们是在场外待着。",
+   "hl": []
+  },
+  {
+   "i": 53,
+   "s": 400.32,
+   "e": 406.8,
+   "spk": "Stan Druckenmiller",
+   "en": "They mentioned in the introduction some kind words about my record.",
+   "zh": "刚才开场介绍里，对我的业绩说了些好话。",
+   "hl": []
+  },
+  {
+   "i": 54,
+   "s": 406.8,
+   "e": 408.88,
+   "spk": "Stan Druckenmiller",
+   "en": "It's a record that has been...",
+   "zh": "那个业绩呢……",
+   "hl": []
+  },
+  {
+   "i": 55,
+   "s": 408.88,
+   "e": 410.88,
+   "spk": "Iliana Bouzali",
+   "en": "You mean you've never lost money?",
+   "zh": "你是说你从来没亏过钱？",
+   "hl": []
+  },
+  {
+   "i": 56,
+   "s": 410.88,
+   "e": 412.72,
+   "spk": "Iliana Bouzali",
+   "en": "You've never had a down year?",
+   "zh": "从来没有过亏损年份？",
+   "hl": []
+  },
+  {
+   "i": 57,
+   "s": 412.72,
+   "e": 413.44,
+   "spk": "Stan Druckenmiller",
+   "en": "That's correct.",
+   "zh": "没错。",
+   "hl": []
+  },
+  {
+   "i": 58,
+   "s": 413.44,
+   "e": 414.96,
+   "spk": "Stan Druckenmiller",
+   "en": "But it was the luck of the calendar.",
+   "zh": "但那是日历给的运气。",
+   "hl": []
+  },
+  {
+   "i": 59,
+   "s": 414.96,
+   "e": 416.08,
+   "spk": "Stan Druckenmiller",
+   "en": "I had big drawdowns.",
+   "zh": "我有过很大的回撤。",
+   "hl": []
+  },
+  {
+   "i": 60,
+   "s": 416.08,
+   "e": 421.2,
+   "spk": "Stan Druckenmiller",
+   "en": "I was just never down from December 31st to December 31st.",
+   "zh": "只是从 12 月 31 日算到 12 月 31 日，从来没亏过。",
+   "hl": []
+  },
+  {
+   "i": 61,
+   "s": 421.2,
+   "e": 427.52,
+   "spk": "Stan Druckenmiller",
+   "en": "But my record is really partly, I'd say it's due to a couple things.",
+   "zh": "不过我的业绩，我觉得部分要归功于几件事。",
+   "hl": []
+  },
+  {
+   "i": 62,
+   "s": 427.52,
+   "e": 442.0,
+   "spk": "Stan Druckenmiller",
+   "en": "Number one, because we trade four asset classes, commodities, bonds, stocks and interest rates, we don't feel the need to ever be heavily in one or the other.",
+   "zh": "第一，因为我们做四类资产——大宗商品、债券、股票和利率——所以从来不觉得非得重仓其中某一类。",
+   "hl": []
+  },
+  {
+   "i": 63,
+   "s": 442.0,
+   "e": 443.6,
+   "spk": "Iliana Bouzali",
+   "en": "You invented that style, to be clear.",
+   "zh": "说清楚一点，这种打法是你发明的。",
+   "hl": []
+  },
+  {
+   "i": 64,
+   "s": 443.6,
+   "e": 446.24,
+   "spk": "Iliana Bouzali",
+   "en": "You're not a mandate investor.",
+   "zh": "你不是那种被投资授权绑住的投资人。",
+   "hl": []
+  },
+  {
+   "i": 65,
+   "s": 446.24,
+   "e": 453.6,
+   "spk": "Stan Druckenmiller",
+   "en": "I probably did invent it, but I invented it out of necessity, because I didn't know what I was doing back then.",
+   "zh": "也许是我发明的，但我是被逼出来的，因为那时候我根本不知道自己在干什么。",
+   "hl": []
+  },
+  {
+   "i": 66,
+   "s": 453.6,
+   "e": 461.36,
+   "spk": "Stan Druckenmiller",
+   "en": "Anyway, by pure coincidence, bonds and currencies tend to take their biggest move when equities are in bear markets.",
+   "zh": "总之，纯属巧合，债券和外汇往往在股市熊市的时候走出最大的行情。",
+   "hl": []
+  },
+  {
+   "i": 67,
+   "s": 461.36,
+   "e": 468.32,
+   "spk": "Stan Druckenmiller",
+   "en": "So it made me more willing to just put aside equities and not have to be invested in that asset category.",
+   "zh": "所以这让我更愿意干脆把股票放一边，不必非得投在那一类资产上。",
+   "hl": []
+  },
+  {
+   "i": 68,
+   "s": 468.32,
+   "e": 469.92,
+   "spk": "Stan Druckenmiller",
+   "en": "So you had other alternatives.",
+   "zh": "所以你有别的选择。",
+   "hl": []
+  },
+  {
+   "i": 69,
+   "s": 469.92,
+   "e": 473.52,
+   "spk": "Stan Druckenmiller",
+   "en": "It kind of made its own kind of discipline.",
+   "zh": "这本身就形成了一种纪律。",
+   "hl": []
+  },
+  {
+   "i": 70,
+   "s": 473.52,
+   "e": 482.8,
+   "spk": "Stan Druckenmiller",
+   "en": "So we've had periods where we've withdrawn from the market, and then we've had periods where we're playing in other macro instruments other than equities.",
+   "zh": "所以我们有过撤出市场的时期，也有过在股票以外的其他宏观工具上做交易的时期。",
+   "hl": [
+    {
+     "text": "we've had periods where we're playing in other macro instruments",
+     "note": "periods where…：用 where 引出「在那段时期里」，先说 periods 再补内容。"
+    }
+   ]
+  },
+  {
+   "i": 71,
+   "s": 482.8,
+   "e": 493.12,
+   "spk": "Stan Druckenmiller",
+   "en": "Right now, because I can't have any... I don't have a lot of clarity on anything, we're pretty much in one of those periods where I would say we're in capital preservation.",
+   "zh": "眼下，因为我没法——我对什么都没有太大把握，所以我们基本处在那种时期，我会说我们在「保本」。",
+   "hl": []
+  },
+  {
+   "i": 72,
+   "s": 493.12,
+   "e": 496.5,
+   "spk": "Stan Druckenmiller",
+   "en": "We're trying to not lose money as opposed to make money.",
+   "zh": "我们在想办法不亏钱，而不是赚钱。",
+   "hl": []
+  }
+ ],
+ "shadow": [
+  {
+   "i": 9,
+   "tips": "断句：More imPORtantly, / LOOKing FORward, / Fed funds were THREE and a HALF, / nominal growth was SIX percent. looking forward 后面小停，再接主语；three and a half 连成 three-ən-ə-half。"
+  },
+  {
+   "i": 12,
+   "tips": "断句：Commodities were BREAKing OUT / to a new HIGH, / inCLUDing COPper. breaking out 连读 brea-king-out；including 前降调停顿，像补一句。"
+  },
+  {
+   "i": 19,
+   "tips": "断句：UnFORtunately, / about a MONTH later, / something CALLED a WAR / STARted. called a 连读 cal-də；war 重读，带点讽刺语气。"
+  },
+  {
+   "i": 31,
+   "tips": "断句：So we have MONetary TIGHTening / going ON. tightening going 连成一口气；on 落在句尾重读。"
+  },
+  {
+   "i": 46,
+   "tips": "断句：I can't reMEMber a PEriod / where I had LESS CLARity / on where we're GOing to be / in twelve MONTHS, / unlike last JANuary. can't 的 t 不爆破；where we're 连读。"
+  }
+ ],
+ "questions": [
+  "What was Druckenmiller's portfolio in January, and how much of it does he still own? (Try: \"Looking back at January, he was…\")",
+  "Why did he feel so confident back then? Name two or three signals. (Try: \"Commodities were breaking out, including…\")",
+  "What happened about a month later, and why does he say it ended up lucky?",
+  "What has flipped since January? (Try: \"With the Fed hiking and commodities rolling over, …\")",
+  "He likes to go short. Why won't he short equities right now?",
+  "What do you do when you don't have clarity in your own trading? (Try: \"Not having much clarity, I…\")"
+ ],
+ "chunks": [
+  {
+   "en": "when I have clarity, I like to play big",
+   "zh": "看得清的时候，我喜欢下重注",
+   "i": 6
+  },
+  {
+   "en": "including ___",
+   "zh": "（句尾补充）…也在其中",
+   "i": 12
+  },
+  {
+   "en": "something called ___",
+   "zh": "一个叫…的东西",
+   "i": 19
+  },
+  {
+   "en": "has completely flipped on its head",
+   "zh": "彻底反过来了",
+   "i": 24
+  },
+  {
+   "en": "went through the roof",
+   "zh": "飙上天、暴涨",
+   "i": 29
+  },
+  {
+   "en": "I think you're getting the joke here",
+   "zh": "你应该听出这里面的反讽了",
+   "i": 36
+  },
+  {
+   "en": "I wouldn't dare ___",
+   "zh": "我可不敢…",
+   "i": 42
+  },
+  {
+   "en": "We're trying to not lose money as opposed to make money",
+   "zh": "我们在想办法不亏钱，而不是赚钱",
+   "i": 72
+  }
+ ],
+ "source": "机器转写（YouTube 自动字幕 + Whisper 对照核对）"
+}

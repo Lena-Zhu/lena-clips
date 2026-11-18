@@ -1,0 +1,709 @@
+{
+ "id": "d12-druck-scars",
+ "day": 12,
+ "date": "2026-11-26",
+ "show": "Morgan Stanley Hard Lessons",
+ "guest": "Stan Druckenmiller",
+ "title_zh": "犯了错就翻篇",
+ "topic": "投资",
+ "youtube": "z_pk4eBDaLA",
+ "start": 1289.38,
+ "end": 1645.8,
+ "structure": "让步对比",
+ "intro_zh": "Hard Lessons 正片的后段。主持人问他这些年「丢掉」了什么：他说伤疤从来不丢，但技术分析、看价格对消息的反应这两招，因为人人都会了，已经不像当年那么灵；接着自嘲现在是「DACO——Druck 总是怂」。最后讲节目同名的「惨痛一课」：2000 年初在纳斯达克最顶部买回，以及他花了多久才学会不再为错误折磨自己。",
+ "sents": [
+  {
+   "i": 0,
+   "s": 1289.38,
+   "e": 1299.73,
+   "spk": "Iliana Bouzali",
+   "en": "What are some things—if there are some things that you have unlearned over the past 20, 30 years or you had to unlearn.",
+   "zh": "有哪些东西——如果有的话——是你过去二三十年里丢掉了的，或者不得不丢掉的？",
+   "hl": []
+  },
+  {
+   "i": 1,
+   "s": 1300.7,
+   "e": 1307.26,
+   "spk": "Stan Druckenmiller",
+   "en": "I don't unlearn anything because scars are something I always keep in mind because they can help you out.",
+   "zh": "我什么都不丢，因为伤疤是我一直记在心里的，它们能帮到你。",
+   "hl": []
+  },
+  {
+   "i": 2,
+   "s": 1307.26,
+   "e": 1313.67,
+   "spk": "Stan Druckenmiller",
+   "en": "But I will say through a bunch of circumstances that I won't repeat, I was promoted way too early.",
+   "zh": "不过我要说，因为一连串我就不细说的原因，我被提拔得太早了。",
+   "hl": []
+  },
+  {
+   "i": 3,
+   "s": 1313.67,
+   "e": 1329.69,
+   "spk": "Stan Druckenmiller",
+   "en": "I was an analyst when I was 23, and I was made sort of the head portfolio guy by the time I was 26 and I didn't go to business school, so I never learned all the fundamentals I needed to learn to, in terms of analysis.",
+   "zh": "我 23 岁当分析师，到 26 岁差不多就成了首席组合经理；我没读过商学院，所以做分析该学的那些基本面功夫，我从来没学全。",
+   "hl": []
+  },
+  {
+   "i": 4,
+   "s": 1329.69,
+   "e": 1341.12,
+   "spk": "Stan Druckenmiller",
+   "en": "So, I relied heavily—and my mentor was really into it, and back then nobody was doing it—on technical analysis and I learned all the intricate details of it.",
+   "zh": "所以我非常依赖技术分析——我的导师很迷这个，而那时候几乎没人用——它的各种细节我都学透了。",
+   "hl": []
+  },
+  {
+   "i": 5,
+   "s": 1341.12,
+   "e": 1341.52,
+   "spk": "Stan Druckenmiller",
+   "en": "Okay.",
+   "zh": "好。",
+   "hl": []
+  },
+  {
+   "i": 6,
+   "s": 1341.52,
+   "e": 1350.97,
+   "spk": "Stan Druckenmiller",
+   "en": "I can unequivocally tell you that technical analysis is about 20% as effective today as it was then, because no one was using it.",
+   "zh": "我可以毫不含糊地告诉你：技术分析今天的效果，大概只有当年的 20%，因为当年没人用。",
+   "hl": [
+    {
+     "text": "is about 20% as effective today as it was then",
+     "note": "对比句：X today as… as it was then——把「今天」和「当年」放进同一个句子比较，今昔对比的基本骨架。"
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "s": 1350.97,
+   "e": 1358.2,
+   "spk": "Stan Druckenmiller",
+   "en": "But when everybody's using it, it doesn't work anymore because you don't have a unique thing to act against.",
+   "zh": "但当所有人都在用，它就不灵了，因为你没有一个独特的东西可以反着做。",
+   "hl": [
+    {
+     "text": "But when everybody's using it, it doesn't work anymore",
+     "note": "But when…, …anymore：用 but 把「当年灵」和「现在不灵」对立起来。"
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "s": 1358.2,
+   "e": 1361.72,
+   "spk": "Stan Druckenmiller",
+   "en": "So, it's kind of sad because it's easy and you can be lazy.",
+   "zh": "这挺可惜的，因为它简单，你可以偷懒。",
+   "hl": []
+  },
+  {
+   "i": 9,
+   "s": 1361.72,
+   "e": 1363.2,
+   "spk": "Stan Druckenmiller",
+   "en": "You don't have to work that hard.",
+   "zh": "不用那么辛苦。",
+   "hl": []
+  },
+  {
+   "i": 10,
+   "s": 1363.2,
+   "e": 1368.91,
+   "spk": "Stan Druckenmiller",
+   "en": "Just look at a chart instead of going into a 10Q and all this other stuff.",
+   "zh": "看张图就行，不用去啃 10-Q 季报那些东西。",
+   "hl": []
+  },
+  {
+   "i": 11,
+   "s": 1368.91,
+   "e": 1372.34,
+   "spk": "Stan Druckenmiller",
+   "en": "But technical analysis is a problem.",
+   "zh": "但技术分析现在是个问题。",
+   "hl": []
+  },
+  {
+   "i": 12,
+   "s": 1372.34,
+   "e": 1391.28,
+   "spk": "Stan Druckenmiller",
+   "en": "In the same vein, price versus heat news was huge for me for 20 or 30 years, and if you had great news and a stock wasn't responding to the news, 90% of the time the news was coming that was bad.",
+   "zh": "同理，「价格对消息的反应」这一招，二三十年里对我非常管用：如果有大好消息、股价却不涨，十次有九次，后面会来坏消息。",
+   "hl": []
+  },
+  {
+   "i": 13,
+   "s": 1391.36,
+   "e": 1396.96,
+   "spk": "Stan Druckenmiller",
+   "en": "Unfortunately, around 2000, a lot of smart people started coming into our business.",
+   "zh": "不幸的是，2000 年前后，大量聪明人开始涌进我们这一行。",
+   "hl": []
+  },
+  {
+   "i": 14,
+   "s": 1396.96,
+   "e": 1403.2,
+   "spk": "Stan Druckenmiller",
+   "en": "I was the only one in my class, I think, from Bowdoin, that went into the financial industry, because we'd been in a bear market for ten years.",
+   "zh": "我觉得我们鲍登学院那一届，进金融业的只有我一个，因为当时市场已经熊了十年。",
+   "hl": []
+  },
+  {
+   "i": 15,
+   "s": 1403.2,
+   "e": 1409.26,
+   "spk": "Stan Druckenmiller",
+   "en": "Well, then again, every wise guy learned what I'm just talking about, so it doesn't work anymore.",
+   "zh": "后来，每个精明的家伙都学会了我刚说的这一招，所以它就不灵了。",
+   "hl": []
+  },
+  {
+   "i": 16,
+   "s": 1409.26,
+   "e": 1415.21,
+   "spk": "Stan Druckenmiller",
+   "en": "So back then, the company reported horrible earnings, opened down in the aftermarket.",
+   "zh": "当年是这样：公司公布了很糟的业绩，盘后低开。",
+   "hl": []
+  },
+  {
+   "i": 17,
+   "s": 1415.21,
+   "e": 1417.52,
+   "spk": "Stan Druckenmiller",
+   "en": "And then was up 10% the next day.",
+   "zh": "然后第二天反而涨了 10%。",
+   "hl": []
+  },
+  {
+   "i": 18,
+   "s": 1417.52,
+   "e": 1420.8,
+   "spk": "Stan Druckenmiller",
+   "en": "Almost guaranteed to be higher six months later.",
+   "zh": "那六个月后几乎铁定更高。",
+   "hl": []
+  },
+  {
+   "i": 19,
+   "s": 1421.12,
+   "e": 1425.07,
+   "spk": "Stan Druckenmiller",
+   "en": "That's not true anymore because everybody else has learned that.",
+   "zh": "现在不是这样了，因为所有人都学会了。",
+   "hl": []
+  },
+  {
+   "i": 20,
+   "s": 1425.07,
+   "e": 1427.45,
+   "spk": "Stan Druckenmiller",
+   "en": "So those would be the two big things.",
+   "zh": "这就是两件大事。",
+   "hl": []
+  },
+  {
+   "i": 21,
+   "s": 1427.45,
+   "e": 1433.52,
+   "spk": "Stan Druckenmiller",
+   "en": "I haven't unlearned them, but I don't rely on them to the extent that I used to.",
+   "zh": "我没有丢掉它们，但我不再像以前那么依赖它们了。",
+   "hl": [
+    {
+     "text": "I haven't unlearned them, but I don't rely on them to the extent that I used to",
+     "note": "先让步再转折：我没丢掉它们，但不像以前那么依赖了。to the extent that I used to = 到以前那种程度。"
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "s": 1434.24,
+   "e": 1437.24,
+   "spk": "Iliana Bouzali",
+   "en": "They've been loved to death, basically.",
+   "zh": "基本上就是被大家用烂了。",
+   "hl": []
+  },
+  {
+   "i": 23,
+   "s": 1437.24,
+   "e": 1447.28,
+   "spk": "Iliana Bouzali",
+   "en": "Are there any other signals that have been elevated in importance then, conversely to signals that have been diminished?",
+   "zh": "那反过来，有没有哪些信号的重要性提升了，和那些被削弱的信号正好相对？",
+   "hl": []
+  },
+  {
+   "i": 24,
+   "s": 1448.34,
+   "e": 1449.15,
+   "spk": "Stan Druckenmiller",
+   "en": "Not really.",
+   "zh": "没有。",
+   "hl": []
+  },
+  {
+   "i": 25,
+   "s": 1449.15,
+   "e": 1450.92,
+   "spk": "Stan Druckenmiller",
+   "en": "There's no silver bullet.",
+   "zh": "没有什么灵丹妙药。",
+   "hl": []
+  },
+  {
+   "i": 26,
+   "s": 1450.92,
+   "e": 1463.43,
+   "spk": "Stan Druckenmiller",
+   "en": "And I'm the great beneficiary of 40 years of scars and successes that I can go back on, and a lot of pattern recognition, because there's not much I haven't seen in this business.",
+   "zh": "我受益于 40 年的伤疤和成功，可以回头去参照，还有大量的模式识别，因为这一行几乎没有什么我没见过的。",
+   "hl": []
+  },
+  {
+   "i": 27,
+   "s": 1463.43,
+   "e": 1479.16,
+   "spk": "Stan Druckenmiller",
+   "en": "I'd say the biggest disappointment in my career has been I think I have more wisdom, and I have more tools of the trade than I had in my 30s and 40s, and I was a much better portfolio manager then because back then I had courage.",
+   "zh": "我会说我职业生涯最大的失望是：我觉得我现在比三四十岁时更有智慧，手里的工具也更多，可那时候我是个好得多的组合经理，因为那时候我有胆量。",
+   "hl": [
+    {
+     "text": "I think I have more wisdom",
+     "note": "让步的前半句：先承认「我现在更有智慧」……"
+    },
+    {
+     "text": "I was a much better portfolio manager then because back then I had courage",
+     "note": "……后半句再对比「那时候反而更强」。没用 although，而是用 now / then、back then 撑起对比。"
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "s": 1479.16,
+   "e": 1481.85,
+   "spk": "Stan Druckenmiller",
+   "en": "I would take bigger convicted positions.",
+   "zh": "我会下更大、更有信念的仓位。",
+   "hl": []
+  },
+  {
+   "i": 29,
+   "s": 1481.85,
+   "e": 1486.84,
+   "spk": "Stan Druckenmiller",
+   "en": "I'm trying to regain some of my nerve just because it's more fun.",
+   "zh": "我在试着找回一些胆量，就因为那样更好玩。",
+   "hl": []
+  },
+  {
+   "i": 30,
+   "s": 1487.29,
+   "e": 1488.58,
+   "spk": "Iliana Bouzali",
+   "en": "So you're chickening out?",
+   "zh": "所以你现在是怂了？",
+   "hl": []
+  },
+  {
+   "i": 31,
+   "s": 1489.32,
+   "e": 1489.97,
+   "spk": "Stan Druckenmiller",
+   "en": "Oh for sure.",
+   "zh": "那当然。",
+   "hl": []
+  },
+  {
+   "i": 32,
+   "s": 1489.97,
+   "e": 1492.05,
+   "spk": "Stan Druckenmiller",
+   "en": "I've been chickening out for a long time.",
+   "zh": "我已经怂了很久了。",
+   "hl": []
+  },
+  {
+   "i": 33,
+   "s": 1492.05,
+   "e": 1495.37,
+   "spk": "Stan Druckenmiller",
+   "en": "I'm Mr. TACO, except it's not T, it's DACO.",
+   "zh": "我是 TACO 先生（华尔街调侃特朗普「总会退缩」的梗），只不过不是 T，是 DACO。",
+   "hl": []
+  },
+  {
+   "i": 34,
+   "s": 1495.37,
+   "e": 1499.36,
+   "spk": "Stan Druckenmiller",
+   "en": "Druck Always Chickens Out.",
+   "zh": "Druck 总是怂（Druck Always Chickens Out）。",
+   "hl": []
+  },
+  {
+   "i": 35,
+   "s": 1501.68,
+   "e": 1510.0,
+   "spk": "Iliana Bouzali",
+   "en": "Um, in terms of other maybe experiences that you've had, or a chip on your shoulder?",
+   "zh": "那说到你的其他经历，或者说心里憋着的一股劲儿？",
+   "hl": []
+  },
+  {
+   "i": 36,
+   "s": 1510.0,
+   "e": 1514.68,
+   "spk": "Iliana Bouzali",
+   "en": "Do you have a chip on your shoulder that makes you better at this?",
+   "zh": "你有没有一股不服气的劲儿，让你在这件事上做得更好？",
+   "hl": []
+  },
+  {
+   "i": 37,
+   "s": 1515.98,
+   "e": 1516.67,
+   "spk": "Stan Druckenmiller",
+   "en": "No, no.",
+   "zh": "没有，没有。",
+   "hl": []
+  },
+  {
+   "i": 38,
+   "s": 1516.67,
+   "e": 1523.85,
+   "spk": "Stan Druckenmiller",
+   "en": "I just, um, grew up— my dad and my sisters played games with me all the time.",
+   "zh": "我就是从小——我爸和我姐姐们总陪我玩游戏。",
+   "hl": []
+  },
+  {
+   "i": 39,
+   "s": 1523.85,
+   "e": 1526.04,
+   "spk": "Stan Druckenmiller",
+   "en": "I'm just a really sore loser.",
+   "zh": "我就是特别输不起。",
+   "hl": []
+  },
+  {
+   "i": 40,
+   "s": 1526.44,
+   "e": 1529.32,
+   "spk": "Stan Druckenmiller",
+   "en": "I love games, but I really hate to lose.",
+   "zh": "我爱玩游戏，但我真的很讨厌输。",
+   "hl": [
+    {
+     "text": "I love games, but I really hate to lose",
+     "note": "A, but B：同一件事的两面，前轻后重，重点在 but 后面。"
+    }
+   ]
+  },
+  {
+   "i": 41,
+   "s": 1529.32,
+   "e": 1531.08,
+   "spk": "Stan Druckenmiller",
+   "en": "So I'm just very driven.",
+   "zh": "所以我好胜心特别强。",
+   "hl": []
+  },
+  {
+   "i": 42,
+   "s": 1531.08,
+   "e": 1532.28,
+   "spk": "Stan Druckenmiller",
+   "en": "It's a sickness.",
+   "zh": "这是一种病。",
+   "hl": []
+  },
+  {
+   "i": 43,
+   "s": 1532.28,
+   "e": 1540.43,
+   "spk": "Stan Druckenmiller",
+   "en": "I don't know where it comes from, but I might as well channel it and make it productive instead of just a disease because it is a little bit unseemly.",
+   "zh": "我不知道它从哪儿来，但不如把它引导一下，让它变得有用，而不只是一种病，因为说实话它有点不太体面。",
+   "hl": [
+    {
+     "text": "I don't know where it comes from, but I might as well channel it",
+     "note": "让步：I don't know…, but I might as well…「虽然不知道…，不如就…」。might as well = 不如、干脆。"
+    }
+   ]
+  },
+  {
+   "i": 44,
+   "s": 1540.43,
+   "e": 1541.47,
+   "spk": "Stan Druckenmiller",
+   "en": "But it's who I am.",
+   "zh": "但这就是我。",
+   "hl": []
+  },
+  {
+   "i": 45,
+   "s": 1541.98,
+   "e": 1542.6,
+   "spk": "Iliana Bouzali",
+   "en": "Embrace it.",
+   "zh": "那就接受它吧。",
+   "hl": []
+  },
+  {
+   "i": 46,
+   "s": 1546.03,
+   "e": 1549.02,
+   "spk": "Iliana Bouzali",
+   "en": "Finally, this show is called Hard Lessons.",
+   "zh": "最后，这个节目叫 Hard Lessons。",
+   "hl": []
+  },
+  {
+   "i": 47,
+   "s": 1549.02,
+   "e": 1555.71,
+   "spk": "Iliana Bouzali",
+   "en": "Can you look back in your life or career and maybe take us through something that you had to learn the hard way?",
+   "zh": "你能回顾一下你的人生或职业，讲一件你吃了苦头才学会的事吗？",
+   "hl": []
+  },
+  {
+   "i": 48,
+   "s": 1556.51,
+   "e": 1558.7,
+   "spk": "Stan Druckenmiller",
+   "en": "Let me just say, I have so many scars.",
+   "zh": "这么说吧，我的伤疤多到你不敢相信。",
+   "hl": []
+  },
+  {
+   "i": 49,
+   "s": 1558.7,
+   "e": 1560.38,
+   "spk": "Stan Druckenmiller",
+   "en": "You can't believe it.",
+   "zh": "你都想不到。",
+   "hl": []
+  },
+  {
+   "i": 50,
+   "s": 1560.38,
+   "e": 1564.58,
+   "spk": "Stan Druckenmiller",
+   "en": "Everyone knows how I played the Nasdaq melt up in '99.",
+   "zh": "大家都知道我在 1999 年纳斯达克那波疯涨里是怎么操作的。",
+   "hl": []
+  },
+  {
+   "i": 51,
+   "s": 1564.58,
+   "e": 1568.2,
+   "spk": "Stan Druckenmiller",
+   "en": "Sold it perfectly in January, then bought the exact top.",
+   "zh": "一月份卖得堪称完美，然后在最顶部买了回去。",
+   "hl": []
+  },
+  {
+   "i": 52,
+   "s": 1568.2,
+   "e": 1571.16,
+   "spk": "Stan Druckenmiller",
+   "en": "And someone says, what did you learn from that?",
+   "zh": "有人问：你从中学到了什么？",
+   "hl": []
+  },
+  {
+   "i": 53,
+   "s": 1571.16,
+   "e": 1577.76,
+   "spk": "Stan Druckenmiller",
+   "en": "I said nothing, I learned not to do that 20 years before, but I got emotional, which I fight every day.",
+   "zh": "我说什么也没学到，这个教训我 20 年前就学过了，但我情绪上头了——这是我每天都在跟它斗的东西。",
+   "hl": [
+    {
+     "text": "I learned not to do that 20 years before, but I got emotional",
+     "note": "让步对比：明明早就学过，但还是情绪上头。"
+    }
+   ]
+  },
+  {
+   "i": 54,
+   "s": 1577.92,
+   "e": 1587.7,
+   "spk": "Stan Druckenmiller",
+   "en": "I would literally like throw up like once or twice a week, just from anxiety when I'd have a drawdown and so forth.",
+   "zh": "我以前真的会一周吐上一两次，就因为回撤之类带来的焦虑。",
+   "hl": []
+  },
+  {
+   "i": 55,
+   "s": 1587.7,
+   "e": 1595.98,
+   "spk": "Stan Druckenmiller",
+   "en": "And at some point in my career, I learned that you're going to continue to make mistakes, you're going to continue to get emotional.",
+   "zh": "到了职业生涯的某个时候，我明白了：你会继续犯错，会继续情绪化。",
+   "hl": []
+  },
+  {
+   "i": 56,
+   "s": 1595.98,
+   "e": 1600.08,
+   "spk": "Stan Druckenmiller",
+   "en": "You're going to continue to have that happen from now and then.",
+   "zh": "这种事还会时不时发生。",
+   "hl": []
+  },
+  {
+   "i": 57,
+   "s": 1600.08,
+   "e": 1601.68,
+   "spk": "Stan Druckenmiller",
+   "en": "But you've got a gift.",
+   "zh": "但你有天赋。",
+   "hl": []
+  },
+  {
+   "i": 58,
+   "s": 1601.68,
+   "e": 1620.89,
+   "spk": "Stan Druckenmiller",
+   "en": "And just stop torturing yourself for like 48 hours or maybe longer over this because you've been doing this long enough and the record is there long enough that it's no longer like random accident, which I did not believe for like 15 years.",
+   "zh": "别再为这件事折磨自己 48 小时或者更久了，因为你干这行已经够久，业绩也摆在那儿够久了，这已经不是随机的意外——而这一点我有大概 15 年都不相信。",
+   "hl": []
+  },
+  {
+   "i": 59,
+   "s": 1620.89,
+   "e": 1630.28,
+   "spk": "Stan Druckenmiller",
+   "en": "So the hard lessons have been like hundreds of mistakes, but that they're just a moment in time.",
+   "zh": "所以那些惨痛教训，就是成百上千个错误，但它们都只是某一刻。",
+   "hl": []
+  },
+  {
+   "i": 60,
+   "s": 1630.28,
+   "e": 1638.12,
+   "spk": "Stan Druckenmiller",
+   "en": "And when you have these drawdowns and if there's money managers listening to this and you're good, it's easier said than done.",
+   "zh": "如果正在听的基金经理里有人遇到回撤，而且你本身是好手——我知道说起来容易做起来难——",
+   "hl": [
+    {
+     "text": "it's easier said than done",
+     "note": "让步插入语：说起来容易做起来难。先承认难，再给建议。"
+    }
+   ]
+  },
+  {
+   "i": 61,
+   "s": 1638.12,
+   "e": 1640.23,
+   "spk": "Stan Druckenmiller",
+   "en": "Just get over it and move on.",
+   "zh": "那就翻篇，继续往前走。",
+   "hl": []
+  },
+  {
+   "i": 62,
+   "s": 1640.81,
+   "e": 1644.52,
+   "spk": "Iliana Bouzali",
+   "en": "So Stan Druckenmiller had imposter syndrome for 15 years?",
+   "zh": "所以 Stan Druckenmiller 有 15 年的冒名顶替综合征？",
+   "hl": []
+  },
+  {
+   "i": 63,
+   "s": 1645.48,
+   "e": 1645.8,
+   "spk": "Stan Druckenmiller",
+   "en": "Yes.",
+   "zh": "是的。",
+   "hl": []
+  }
+ ],
+ "shadow": [
+  {
+   "i": 7,
+   "tips": "断句：But when EVerybody's USing it, / it DOESN'T WORK anymore / because you don't have a UNIQUE thing / to ACT aGAINST. act against 连读 ac-tagainst。"
+  },
+  {
+   "i": 21,
+   "tips": "断句：I HAVEN'T unLEARNED them, / but I don't reLY on them / to the exTENT / that I USED to. but 前停顿；used to 读成 yoos-tə。"
+  },
+  {
+   "i": 40,
+   "tips": "断句：I LOVE games, / but I REALly HATE to LOSE. love 和 hate 对比重读。"
+  },
+  {
+   "i": 53,
+   "tips": "断句：I said NOTHing, / I learned NOT to do that / twenty years beFORE, / but I got eMOtional, / which I FIGHT every DAY. but 前停；which 前降调。"
+  },
+  {
+   "i": 43,
+   "tips": "断句：I don't KNOW where it comes FROM, / but I might as WELL / CHANNEL it / and make it proDUCtive / instead of just a diSEASE. might as well 连读 mai-təz-well。"
+  }
+ ],
+ "questions": [
+  "Why does Druckenmiller say technical analysis is only about 20% as effective as it used to be?",
+  "Explain the \"price versus news\" signal. Why doesn't it work anymore? (Try: \"Although it used to…, now…\")",
+  "What does he call the biggest disappointment of his career?",
+  "Why does he call himself \"DACO\"?",
+  "What happened with the Nasdaq in 1999–2000, and what did he say he learned?",
+  "Which of your trading tools doesn't work as well as it used to? (Try: \"I haven't given it up, but I don't rely on it…\")"
+ ],
+ "chunks": [
+  {
+   "en": "scars are something I always keep in mind",
+   "zh": "伤疤是我一直记在心里的",
+   "i": 1
+  },
+  {
+   "en": "I can unequivocally tell you that ___",
+   "zh": "我可以毫不含糊地告诉你…",
+   "i": 6
+  },
+  {
+   "en": "a unique thing to act against",
+   "zh": "一个可以反着做的独特信号",
+   "i": 7
+  },
+  {
+   "en": "to the extent that I used to",
+   "zh": "像以前那种程度",
+   "i": 21
+  },
+  {
+   "en": "There's no silver bullet",
+   "zh": "没有灵丹妙药",
+   "i": 25
+  },
+  {
+   "en": "a chip on your shoulder",
+   "zh": "心里憋着一股不服气",
+   "i": 36
+  },
+  {
+   "en": "it's easier said than done",
+   "zh": "说起来容易做起来难",
+   "i": 60
+  },
+  {
+   "en": "get over it and move on",
+   "zh": "翻篇，继续往前走",
+   "i": 61
+  }
+ ],
+ "source": "YouTube 人工字幕"
+}

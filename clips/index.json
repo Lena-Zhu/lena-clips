@@ -103,6 +103,84 @@
    "start": 2610.77,
    "end": 2833.3,
    "structure": "减省关系从句 + which 指代 + 不定式做定语"
+  },
+  {
+   "id": "d08-druck-tomorrowx",
+   "day": 8,
+   "date": "2026-11-22",
+   "show": "TomorrowX Summit",
+   "guest": "Stan Druckenmiller",
+   "title_zh": "看不清，就不下场",
+   "topic": "投资",
+   "youtube": "6r3D-CMJkuI",
+   "start": 97.6,
+   "end": 496.5,
+   "structure": "伴随状语 + 分词前置"
+  },
+  {
+   "id": "d09-druck-invest-investigate",
+   "day": 9,
+   "date": "2026-11-23",
+   "show": "TomorrowX Summit",
+   "guest": "Stan Druckenmiller",
+   "title_zh": "先下注，再研究",
+   "topic": "投资",
+   "youtube": "6r3D-CMJkuI",
+   "start": 1001.92,
+   "end": 1314.0,
+   "structure": "伴随状语 + 分词前置"
+  },
+  {
+   "id": "d10-druck-teva",
+   "day": 10,
+   "date": "2026-11-24",
+   "show": "Morgan Stanley Hard Lessons",
+   "guest": "Stan Druckenmiller",
+   "title_zh": "没人要的 6 倍市盈率股",
+   "topic": "投资",
+   "youtube": "z_pk4eBDaLA",
+   "start": 58.08,
+   "end": 510.63,
+   "structure": "伴随状语 + 分词前置"
+  },
+  {
+   "id": "d11-druck-ai-jobs",
+   "day": 11,
+   "date": "2026-11-25",
+   "show": "Morgan Stanley Hard Lessons",
+   "guest": "Stan Druckenmiller",
+   "title_zh": "AI 会让人失业吗",
+   "topic": "AI",
+   "youtube": "wp-JMjjl0oU",
+   "start": 0.87,
+   "end": 171.5,
+   "structure": "伴随状语 + 分词前置"
+  },
+  {
+   "id": "d12-druck-scars",
+   "day": 12,
+   "date": "2026-11-26",
+   "show": "Morgan Stanley Hard Lessons",
+   "guest": "Stan Druckenmiller",
+   "title_zh": "犯了错就翻篇",
+   "topic": "投资",
+   "youtube": "z_pk4eBDaLA",
+   "start": 1289.38,
+   "end": 1645.8,
+   "structure": "让步对比"
+  },
+  {
+   "id": "d13-druck-word-association",
+   "day": 13,
+   "date": "2026-11-27",
+   "show": "Morgan Stanley Hard Lessons",
+   "guest": "Stan Druckenmiller",
+   "title_zh": "词语联想：一词一判断",
+   "topic": "投资",
+   "youtube": "FJwBpWSSgSg",
+   "start": 0.88,
+   "end": 356.29,
+   "structure": "让步对比"
   }
  ]
 }

@@ -1,0 +1,735 @@
+{
+ "id": "d10-druck-teva",
+ "day": 10,
+ "date": "2026-11-24",
+ "show": "Morgan Stanley Hard Lessons",
+ "guest": "Stan Druckenmiller",
+ "title_zh": "没人要的 6 倍市盈率股",
+ "topic": "投资",
+ "youtube": "z_pk4eBDaLA",
+ "start": 58.08,
+ "end": 510.63,
+ "structure": "伴随状语 + 分词前置",
+ "intro_zh": "摩根士丹利的访谈节目 Hard Lessons，主持人 Iliana Bouzali 请 Druckenmiller 讲一笔最近出手早的股票交易。他挑了一笔一点也不性感的：以色列仿制药公司 Teva，6 倍市盈率、价值派和成长派都不要，他赌管理层转型，半年翻倍；接着讲他为什么看不懂生物科技也敢重仓，以及从索罗斯身上学到的「仓位大小」。",
+ "sents": [
+  {
+   "i": 0,
+   "s": 58.08,
+   "e": 64.45,
+   "spk": "Iliana Bouzali",
+   "en": "I've been privy to some of your equity trades over the past year or so, where it did feel you were early.",
+   "zh": "过去一年左右，我有幸看到你的一些股票交易，感觉你出手确实很早。",
+   "hl": []
+  },
+  {
+   "i": 1,
+   "s": 64.45,
+   "e": 70.36,
+   "spk": "Iliana Bouzali",
+   "en": "And I'm curious if you can maybe take us through one or two and how they came together.",
+   "zh": "我很好奇，你能不能挑一两笔，讲讲它们是怎么成形的。",
+   "hl": []
+  },
+  {
+   "i": 2,
+   "s": 71.25,
+   "e": 81.2,
+   "spk": "Stan Druckenmiller",
+   "en": "I'll pick one that might surprise you because it's not very sexy and it's not AI or anything, but I think it's a good example of our process at Duquesne.",
+   "zh": "我挑一笔可能会让你意外的，因为它一点也不性感，也跟 AI 什么的都不沾边，但我觉得它很能说明我们在 Duquesne 的做事流程。",
+   "hl": []
+  },
+  {
+   "i": 3,
+   "s": 81.2,
+   "e": 103.16,
+   "spk": "Stan Druckenmiller",
+   "en": "In the middle of last summer, and toward the fall, the AI thing started to get, let me say, disturbingly heated and started at least to have some rhyme with what I went through in '99, 2000 and we were looking for other areas.",
+   "zh": "去年仲夏到入秋的时候，AI 那波开始变得——怎么说呢——热得让人不安，至少开始和我在 1999、2000 年经历过的那一幕有几分相似，所以我们在找别的方向。",
+   "hl": []
+  },
+  {
+   "i": 4,
+   "s": 103.16,
+   "e": 108.44,
+   "spk": "Stan Druckenmiller",
+   "en": "The group brought in a company, Teva Pharmaceuticals.",
+   "zh": "团队带来了一家公司：梯瓦制药（Teva Pharmaceuticals）。",
+   "hl": []
+  },
+  {
+   "i": 5,
+   "s": 108.44,
+   "e": 120.47,
+   "spk": "Stan Druckenmiller",
+   "en": "So Teva was this, apparently, if you didn't know what was going on, boring generic drug company out of Israel, selling at six times earnings.",
+   "zh": "Teva 这家公司，如果你不了解内情，看上去就是一家无聊的以色列仿制药公司，市盈率只有 6 倍。",
+   "hl": [
+    {
+     "text": ", selling at six times earnings",
+     "note": "分词短语补充：先说是什么公司，再用 selling at… 补一句它的状态。中文说「一家只卖 6 倍市盈率的公司」，英文把这部分挪到句尾。"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "s": 120.47,
+   "e": 123.64,
+   "spk": "Stan Druckenmiller",
+   "en": "So, we met with the company.",
+   "zh": "于是我们去见了公司。",
+   "hl": []
+  },
+  {
+   "i": 7,
+   "s": 123.64,
+   "e": 125.44,
+   "spk": "Stan Druckenmiller",
+   "en": "Big transition going on.",
+   "zh": "公司正在大转型。",
+   "hl": [
+    {
+     "text": "Big transition going on.",
+     "note": "名词 + -ing 独立成句：口语里省掉 There was，一句话交代「正在大转型」。"
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "s": 125.44,
+   "e": 130.04,
+   "spk": "Stan Druckenmiller",
+   "en": "Richard Francis had come in who ran the same playbook at Sandoz.",
+   "zh": "Richard Francis 刚上任，他在山德士（Sandoz）就用过同一套打法。",
+   "hl": []
+  },
+  {
+   "i": 9,
+   "s": 130.04,
+   "e": 135.48,
+   "spk": "Stan Druckenmiller",
+   "en": "Very impressed with him— knew how to take low-hanging fruit in terms of operating efficiency.",
+   "zh": "我们对他印象很深——他知道怎么在经营效率上先摘低垂的果子。",
+   "hl": []
+  },
+  {
+   "i": 10,
+   "s": 135.48,
+   "e": 156.2,
+   "spk": "Stan Druckenmiller",
+   "en": "But, much more importantly, he was taking them from a generic drug company to a growth company by embracing biosimilars, replacing the generic drugs, which that's why they were six times earnings with biosimilars and even some actual drugs.",
+   "zh": "但更重要得多的是，他在把公司从一家仿制药公司变成一家成长型公司：主推生物类似药，用生物类似药、甚至一些真正的创新药，去替代那些仿制药——仿制药正是它只有 6 倍市盈率的原因。",
+   "hl": [
+    {
+     "text": "by embracing biosimilars, replacing the generic drugs",
+     "note": "by + -ing 说手段，后面再挂一个 replacing… 分词短语补充「同时替代掉什么」。"
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "s": 156.2,
+   "e": 162.88,
+   "spk": "Stan Druckenmiller",
+   "en": "The amazing thing is, the investor base were value investors, so they hated it.",
+   "zh": "妙就妙在，它的投资者都是价值投资者，所以他们很讨厌这个转型。",
+   "hl": []
+  },
+  {
+   "i": 12,
+   "s": 162.88,
+   "e": 171.65,
+   "spk": "Stan Druckenmiller",
+   "en": "So, the stock sat there at six times earnings, while you could see this incredible management initiative going on.",
+   "zh": "于是股价就在 6 倍市盈率上趴着，而你明明看得到管理层在推进一个了不起的计划。",
+   "hl": [
+    {
+     "text": "while you could see this incredible management initiative going on",
+     "note": "see + 名词 + -ing：看见某事正在进行。while 引出对比：股价趴着，而计划在推进。"
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "s": 171.65,
+   "e": 174.13,
+   "spk": "Stan Druckenmiller",
+   "en": "And, no one really believed him.",
+   "zh": "而且，没人真的相信他。",
+   "hl": []
+  },
+  {
+   "i": 14,
+   "s": 174.13,
+   "e": 179.25,
+   "spk": "Stan Druckenmiller",
+   "en": "And again, growth investors didn't want it because they hadn't made the transition yet.",
+   "zh": "再说，成长型投资者不想要它，因为它还没完成转型。",
+   "hl": []
+  },
+  {
+   "i": 15,
+   "s": 179.25,
+   "e": 185.18,
+   "spk": "Stan Druckenmiller",
+   "en": "Value investors didn't want it and were actually selling it because he was doing a growth strategy.",
+   "zh": "价值投资者也不想要，甚至在卖，因为他走的是成长路线。",
+   "hl": []
+  },
+  {
+   "i": 16,
+   "s": 185.18,
+   "e": 189.69,
+   "spk": "Stan Druckenmiller",
+   "en": "So that was about six or seven months ago when the stock was $16.",
+   "zh": "那大概是六七个月前，股价 16 美元的时候。",
+   "hl": []
+  },
+  {
+   "i": 17,
+   "s": 189.69,
+   "e": 193.42,
+   "spk": "Stan Druckenmiller",
+   "en": "And today it's $32 and not much has happened.",
+   "zh": "现在是 32 美元了，其实也没发生多少事。",
+   "hl": []
+  },
+  {
+   "i": 18,
+   "s": 193.42,
+   "e": 199.43,
+   "spk": "Stan Druckenmiller",
+   "en": "Other than he's proved biosimilars, they've come up with a drug that's not a generic.",
+   "zh": "无非是他证明了生物类似药这条路走得通，他们也拿出了一款非仿制的药。",
+   "hl": []
+  },
+  {
+   "i": 19,
+   "s": 199.43,
+   "e": 206.59,
+   "spk": "Stan Druckenmiller",
+   "en": "So it's re-rated from six times earnings to, I guess, 11.5 or 12 times earnings.",
+   "zh": "所以估值从 6 倍市盈率重估到了，我估计，11.5 或 12 倍。",
+   "hl": []
+  },
+  {
+   "i": 20,
+   "s": 206.59,
+   "e": 212.52,
+   "spk": "Stan Druckenmiller",
+   "en": "So, it was a whole different set of circumstances but it encapsulates what we look at.",
+   "zh": "所以那是一套完全不同的情形，但它浓缩了我们看问题的方式。",
+   "hl": []
+  },
+  {
+   "i": 21,
+   "s": 212.52,
+   "e": 216.83,
+   "spk": "Stan Druckenmiller",
+   "en": "If you look at today, you're not going to make any money.",
+   "zh": "如果你只看今天，你赚不到任何钱。",
+   "hl": []
+  },
+  {
+   "i": 22,
+   "s": 216.83,
+   "e": 223.14,
+   "spk": "Stan Druckenmiller",
+   "en": "If you try and look ahead and what might change and how investors might perceive something ahead.",
+   "zh": "你得试着往前看：什么可能改变、投资者以后可能会怎么看待一件事。",
+   "hl": []
+  },
+  {
+   "i": 23,
+   "s": 223.14,
+   "e": 229.42,
+   "spk": "Stan Druckenmiller",
+   "en": "This one happened a little more quicker than I thought, but that would be a recent name.",
+   "zh": "这一笔兑现得比我想的要快一点，但这算是最近的一个例子。",
+   "hl": []
+  },
+  {
+   "i": 24,
+   "s": 230.18,
+   "e": 232.97,
+   "spk": "Iliana Bouzali",
+   "en": "Fascinating and very intriguing.",
+   "zh": "很有意思，也很耐人寻味。",
+   "hl": []
+  },
+  {
+   "i": 25,
+   "s": 232.97,
+   "e": 246.55,
+   "spk": "Iliana Bouzali",
+   "en": "I say it's intriguing because I think many people, maybe people not in the market, but certainly many people, when they think of Stan Druckenmiller, they think of a huge macro investor.",
+   "zh": "我说耐人寻味，是因为很多人——也许不是市场里的人，但肯定很多人——一想到 Stan Druckenmiller，就会想到一位超级宏观投资人。",
+   "hl": []
+  },
+  {
+   "i": 26,
+   "s": 246.71,
+   "e": 262.18,
+   "spk": "Iliana Bouzali",
+   "en": "And I have seen you dabble— more than dabble— really go into areas of the market, especially in equities, that are much more niche, such as healthcare or biotech.",
+   "zh": "而我见过你涉足——不只是涉足——是真正深入市场里一些细分得多的领域，尤其是股票，比如医疗或者生物科技。",
+   "hl": []
+  },
+  {
+   "i": 27,
+   "s": 262.18,
+   "e": 272.63,
+   "spk": "Iliana Bouzali",
+   "en": "And my question is, do you have to be an expert, an analyst, someone that understands the whole pipeline of drugs to get that right?",
+   "zh": "我的问题是：你得是专家、是分析师、是看得懂整条药物管线的人，才能做对吗？",
+   "hl": []
+  },
+  {
+   "i": 28,
+   "s": 274.35,
+   "e": 277.24,
+   "spk": "Stan Druckenmiller",
+   "en": "Thank God the answer is an emphatic no.",
+   "zh": "谢天谢地，答案是斩钉截铁的「不用」。",
+   "hl": []
+  },
+  {
+   "i": 29,
+   "s": 277.24,
+   "e": 289.88,
+   "spk": "Stan Druckenmiller",
+   "en": "But I've got to have an expert at Duquesne who is, and trust his judgment, and then I've got to have a feel for how the market will embrace the change he's describing.",
+   "zh": "但我在 Duquesne 得有一位这样的专家，并且信任他的判断；然后我还得能感觉到，市场会怎样接受他描述的那种变化。",
+   "hl": []
+  },
+  {
+   "i": 30,
+   "s": 289.88,
+   "e": 293.27,
+   "spk": "Stan Druckenmiller",
+   "en": "But we did make a big move into biotech.",
+   "zh": "不过我们确实大举进了生物科技。",
+   "hl": []
+  },
+  {
+   "i": 31,
+   "s": 293.27,
+   "e": 302.93,
+   "spk": "Stan Druckenmiller",
+   "en": "I could sense that there was a potential leadership change just because of the phobia around AI.",
+   "zh": "我能感觉到，光是因为大家对 AI 的恐惧，领涨板块就有可能换人。",
+   "hl": []
+  },
+  {
+   "i": 32,
+   "s": 302.93,
+   "e": 320.03,
+   "spk": "Stan Druckenmiller",
+   "en": "And, I knew because I've been on the board of Memorial Sloan-Kettering for 30 years, that probably the best use case out there of AI is biotech through drug discovery, diagnostics, monitoring everything.",
+   "zh": "而且我在纪念斯隆-凯特琳癌症中心的董事会待了 30 年，所以我知道，AI 最好的应用场景大概就是生物科技：药物发现、诊断、监测，什么都包括。",
+   "hl": []
+  },
+  {
+   "i": 33,
+   "s": 320.27,
+   "e": 326.87,
+   "spk": "Stan Druckenmiller",
+   "en": "So, biotech had been on its butt for like four years.",
+   "zh": "当时生物科技已经趴了大概四年。",
+   "hl": []
+  },
+  {
+   "i": 34,
+   "s": 326.91,
+   "e": 333.03,
+   "spk": "Stan Druckenmiller",
+   "en": "I also grew up with technical analysis and you could see the momentum changing.",
+   "zh": "我也是看技术分析长大的，你能看到动能在转变。",
+   "hl": [
+    {
+     "text": "you could see the momentum changing",
+     "note": "see + 宾语 + -ing：看到动能正在转变，-ing 表示「正在发生的过程」。"
+    }
+   ]
+  },
+  {
+   "i": 35,
+   "s": 333.71,
+   "e": 336.11,
+   "spk": "Stan Druckenmiller",
+   "en": "So, that was the theory behind biotech.",
+   "zh": "这就是我们做生物科技的逻辑。",
+   "hl": []
+  },
+  {
+   "i": 36,
+   "s": 336.11,
+   "e": 346.23,
+   "spk": "Stan Druckenmiller",
+   "en": "But honestly, when the analysts start talking about genetic sequencing and gene editing and proteins it's going right over Stan's head.",
+   "zh": "但老实说，分析师一聊起基因测序、基因编辑、蛋白质，Stan 就完全听不懂了。",
+   "hl": []
+  },
+  {
+   "i": 37,
+   "s": 346.23,
+   "e": 349.3,
+   "spk": "Stan Druckenmiller",
+   "en": "But I get their level of enthusiasm.",
+   "zh": "但我能感受到他们有多兴奋。",
+   "hl": []
+  },
+  {
+   "i": 38,
+   "s": 349.3,
+   "e": 352.11,
+   "spk": "Stan Druckenmiller",
+   "en": "We have a very good biotech team.",
+   "zh": "我们有一支很强的生物科技团队。",
+   "hl": []
+  },
+  {
+   "i": 39,
+   "s": 352.11,
+   "e": 355.49,
+   "spk": "Stan Druckenmiller",
+   "en": "That's really important because I trust them.",
+   "zh": "这一点非常重要，因为我信任他们。",
+   "hl": []
+  },
+  {
+   "i": 40,
+   "s": 355.49,
+   "e": 365.71,
+   "spk": "Stan Druckenmiller",
+   "en": "And when they're really enthusiastic, that's as important to me as the actual facts, because I'm not smart enough to understand a lot of the actual facts.",
+   "zh": "当他们真的很兴奋的时候，这对我来说和实际数据一样重要，因为很多实际数据我根本没聪明到能看懂。",
+   "hl": []
+  },
+  {
+   "i": 41,
+   "s": 366.54,
+   "e": 372.63,
+   "spk": "Iliana Bouzali",
+   "en": "So you filter not just the data, but the people that work for you.",
+   "zh": "所以你不只是筛选数据，也在筛选替你工作的人。",
+   "hl": []
+  },
+  {
+   "i": 42,
+   "s": 373.58,
+   "e": 373.96,
+   "spk": "Stan Druckenmiller",
+   "en": "Yeah.",
+   "zh": "对。",
+   "hl": []
+  },
+  {
+   "i": 43,
+   "s": 373.96,
+   "e": 375.48,
+   "spk": "Stan Druckenmiller",
+   "en": "My advantage is not IQ.",
+   "zh": "我的优势不是智商。",
+   "hl": []
+  },
+  {
+   "i": 44,
+   "s": 375.48,
+   "e": 376.88,
+   "spk": "Stan Druckenmiller",
+   "en": "It's trigger pulling.",
+   "zh": "是敢扣扳机。",
+   "hl": []
+  },
+  {
+   "i": 45,
+   "s": 376.88,
+   "e": 382.23,
+   "spk": "Stan Druckenmiller",
+   "en": "I admit it's some kind of intelligence, but my mother-in-law says I'm an idiot savant.",
+   "zh": "我承认这也算某种聪明，但我丈母娘说我是「白痴天才」。",
+   "hl": []
+  },
+  {
+   "i": 46,
+   "s": 382.23,
+   "e": 384.5,
+   "spk": "Stan Druckenmiller",
+   "en": "I wasn't in the top 10% of my class.",
+   "zh": "我在班上连前 10% 都没进。",
+   "hl": []
+  },
+  {
+   "i": 47,
+   "s": 384.5,
+   "e": 389.51,
+   "spk": "Stan Druckenmiller",
+   "en": "A lot of people think I'm smarter than I am because I'm good at our business.",
+   "zh": "很多人以为我比实际更聪明，因为我在我们这行做得好。",
+   "hl": []
+  },
+  {
+   "i": 48,
+   "s": 389.51,
+   "e": 395.75,
+   "spk": "Stan Druckenmiller",
+   "en": "But I have a very narrow form of intelligence that allows me to love and play this game.",
+   "zh": "但我的聪明很窄，刚好让我热爱、也玩得转这个游戏。",
+   "hl": []
+  },
+  {
+   "i": 49,
+   "s": 400.47,
+   "e": 409.05,
+   "spk": "Iliana Bouzali",
+   "en": "I know many people who would love to get inside your head and understand your mental models.",
+   "zh": "我知道很多人都想钻进你的脑子，弄懂你的思维模型。",
+   "hl": []
+  },
+  {
+   "i": 50,
+   "s": 409.05,
+   "e": 412.91,
+   "spk": "Iliana Bouzali",
+   "en": "You spoke to us about your way of thinking.",
+   "zh": "你跟我们讲过你的思考方式。",
+   "hl": []
+  },
+  {
+   "i": 51,
+   "s": 412.91,
+   "e": 422.81,
+   "spk": "Iliana Bouzali",
+   "en": "And I have a really honest, basic question: How much of it can be taught and how much of it is innate?",
+   "zh": "我有个很老实、很基础的问题：这里面有多少是能教的，多少是天生的？",
+   "hl": []
+  },
+  {
+   "i": 52,
+   "s": 423.98,
+   "e": 426.15,
+   "spk": "Stan Druckenmiller",
+   "en": "Look, I, I was given a gift.",
+   "zh": "这么说吧，我是被赋予了一种天赋。",
+   "hl": []
+  },
+  {
+   "i": 53,
+   "s": 426.19,
+   "e": 433.11,
+   "spk": "Stan Druckenmiller",
+   "en": "I don't know why I was given the gift, but I have this gift and it's for compounding money.",
+   "zh": "我不知道为什么是我，但我有这个天赋，而且是复利赚钱的天赋。",
+   "hl": []
+  },
+  {
+   "i": 54,
+   "s": 433.23,
+   "e": 435.28,
+   "spk": "Stan Druckenmiller",
+   "en": "Certainly part of is innate.",
+   "zh": "当然，有一部分是天生的。",
+   "hl": []
+  },
+  {
+   "i": 55,
+   "s": 435.28,
+   "e": 439.59,
+   "spk": "Stan Druckenmiller",
+   "en": "You either have the skill set for this business or you don't.",
+   "zh": "这一行需要的那套本事，你要么有，要么没有。",
+   "hl": []
+  },
+  {
+   "i": 56,
+   "s": 439.59,
+   "e": 453.19,
+   "spk": "Stan Druckenmiller",
+   "en": "Having said that, I had a great mentor in Pittsburgh when I started out, and I find it very common that great investors have incredible mentors.",
+   "zh": "话虽如此，我刚入行时在匹兹堡遇到了一位很棒的导师，而且我发现，伟大的投资人身边通常都有了不起的导师。",
+   "hl": [
+    {
+     "text": "Having said that,",
+     "note": "完成式分词前置：「话虽如此」。先认可上一句，再转折，口语里极常用。"
+    }
+   ]
+  },
+  {
+   "i": 57,
+   "s": 453.19,
+   "e": 466.95,
+   "spk": "Stan Druckenmiller",
+   "en": "So to me, it's a necessary condition that you have sort of this innate skill set or gift, but it's almost a necessary condition on top of it that you have a mentor.",
+   "zh": "所以在我看来，你得有这种天生的本事或天赋，这是必要条件；但在此之上，有一位导师几乎也是必要条件。",
+   "hl": []
+  },
+  {
+   "i": 58,
+   "s": 466.95,
+   "e": 474.05,
+   "spk": "Stan Druckenmiller",
+   "en": "I'm sure there's some people out there that that's not true of, but for me it was a combination.",
+   "zh": "我相信外面有些人不是这样，但对我来说，两者缺一不可。",
+   "hl": []
+  },
+  {
+   "i": 59,
+   "s": 474.05,
+   "e": 476.79,
+   "spk": "Stan Druckenmiller",
+   "en": "I was very lucky to have two mentors.",
+   "zh": "我很幸运，有过两位导师。",
+   "hl": []
+  },
+  {
+   "i": 60,
+   "s": 476.79,
+   "e": 481.1,
+   "spk": "Stan Druckenmiller",
+   "en": "One, I basically learned all the kind of stuff we're talking about.",
+   "zh": "第一位，我们现在聊的这些东西，基本都是跟他学的。",
+   "hl": []
+  },
+  {
+   "i": 61,
+   "s": 481.1,
+   "e": 481.85,
+   "spk": "Stan Druckenmiller",
+   "en": "And then Soros.",
+   "zh": "然后是索罗斯。",
+   "hl": []
+  },
+  {
+   "i": 62,
+   "s": 481.85,
+   "e": 486.94,
+   "spk": "Stan Druckenmiller",
+   "en": "It's funny, when I went there, I thought I would learn what makes the yen in the market go up and move.",
+   "zh": "说来好笑，我去他那儿的时候，以为能学到是什么让日元、让市场涨跌。",
+   "hl": []
+  },
+  {
+   "i": 63,
+   "s": 486.94,
+   "e": 490.12,
+   "spk": "Stan Druckenmiller",
+   "en": "Immodestly, I learned I knew much more about that than he did.",
+   "zh": "说句不谦虚的，我发现这方面我懂得比他多得多。",
+   "hl": []
+  },
+  {
+   "i": 64,
+   "s": 490.12,
+   "e": 491.81,
+   "spk": "Stan Druckenmiller",
+   "en": "What I learned from him was sizing.",
+   "zh": "我从他那儿学到的是仓位大小。",
+   "hl": []
+  },
+  {
+   "i": 65,
+   "s": 491.81,
+   "e": 497.72,
+   "spk": "Stan Druckenmiller",
+   "en": "It's not whether you're right or wrong, it's how much you make when you're right and how much you lose when you're wrong.",
+   "zh": "关键不在于你对还是错，而在于你对的时候赚多少，错的时候亏多少。",
+   "hl": []
+  },
+  {
+   "i": 66,
+   "s": 497.72,
+   "e": 500.56,
+   "spk": "Stan Druckenmiller",
+   "en": "And that was a, that was an invaluable lesson.",
+   "zh": "那是无比宝贵的一课。",
+   "hl": []
+  },
+  {
+   "i": 67,
+   "s": 500.56,
+   "e": 503.32,
+   "spk": "Stan Druckenmiller",
+   "en": "So, you can have something innate.",
+   "zh": "所以，你可以有天生的东西。",
+   "hl": []
+  },
+  {
+   "i": 68,
+   "s": 503.32,
+   "e": 510.63,
+   "spk": "Stan Druckenmiller",
+   "en": "But if you don't have mentors and people to teach you, you're not going to maximize it as much as you do when you do have them.",
+   "zh": "但如果没有导师、没有人教你，你就没法把它发挥到有人教你时那么大。",
+   "hl": []
+  }
+ ],
+ "shadow": [
+  {
+   "i": 5,
+   "tips": "断句：So TEva was this, / apPARently, / if you didn't KNOW what was going ON, / BORing generic drug company / out of ISrael, / SELLing at SIX times EARNings. 插入语压低声音快读；selling 前停顿。"
+  },
+  {
+   "i": 12,
+   "tips": "断句：So the STOCK sat there / at SIX times earnings, / while you could SEE / this inCREDible management iNItiative / going ON. sat there 连读 sa-there；going on 收尾。"
+  },
+  {
+   "i": 34,
+   "tips": "断句：I ALso grew UP / with TECHnical analysis / and you could SEE / the MOmentum CHANGing. grew up 连读 grew-wup；see 后小停。"
+  },
+  {
+   "i": 56,
+   "tips": "断句：HAVing said THAT, / I had a GREAT MENtor in PITTSburgh / when I started OUT, / and I find it VEry COMmon / that great investors have inCREDible mentors. having said that 一口气、降调。"
+  },
+  {
+   "i": 65,
+   "tips": "断句：It's NOT whether you're RIGHT or WRONG, / it's how MUCH you MAKE when you're RIGHT / and how much you LOSE when you're WRONG. 两个 how much 平行，节奏一致。"
+  }
+ ],
+ "questions": [
+  "Why did Druckenmiller start looking away from AI in the middle of last year?",
+  "Describe Teva before the trade. (Try: \"It was a boring generic drug company, selling at…\")",
+  "Why did neither value investors nor growth investors want the stock?",
+  "Does he need to understand the science to invest in biotech? What does he rely on instead?",
+  "What did he learn from Soros, and why does it matter more than being right?",
+  "Is your trading skill more innate or taught? (Try: \"Having said that, …\")"
+ ],
+ "chunks": [
+  {
+   "en": "it's a good example of ___",
+   "zh": "这很能说明…",
+   "i": 2
+  },
+  {
+   "en": "have some rhyme with ___",
+   "zh": "和…有几分相似",
+   "i": 3
+  },
+  {
+   "en": "take low-hanging fruit",
+   "zh": "先摘低垂的果子、先做容易的",
+   "i": 9
+  },
+  {
+   "en": "If you look at today, you're not going to make any money",
+   "zh": "只看今天，你赚不到钱",
+   "i": 21
+  },
+  {
+   "en": "it's going right over ___'s head",
+   "zh": "…完全听不懂",
+   "i": 36
+  },
+  {
+   "en": "Having said that, ___",
+   "zh": "话虽如此，…",
+   "i": 56
+  },
+  {
+   "en": "It's not whether you're right or wrong, it's how much you make when you're right",
+   "zh": "关键不在对错，而在对的时候赚多少",
+   "i": 65
+  }
+ ],
+ "source": "YouTube 人工字幕"
+}

@@ -1,0 +1,370 @@
+{
+ "id": "d11-druck-ai-jobs",
+ "day": 11,
+ "date": "2026-11-25",
+ "show": "Morgan Stanley Hard Lessons",
+ "guest": "Stan Druckenmiller",
+ "title_zh": "AI 会让人失业吗",
+ "topic": "AI",
+ "youtube": "wp-JMjjl0oU",
+ "start": 0.87,
+ "end": 171.5,
+ "structure": "伴随状语 + 分词前置",
+ "intro_zh": "Hard Lessons 的加更片段。主持人把市场对 AI 的共识概括成「强通缩 + 大规模失业」，Druckenmiller 说笃信这一点的人是傲慢：他用放射科医生的亲身例子说明，技术更强了，医生反而更多。他还提醒——如果悲观派对了，政府印钱发钱，结果反而可能是通胀。",
+ "sents": [
+  {
+   "i": 0,
+   "s": 0.87,
+   "e": 5.24,
+   "spk": "Iliana Bouzali",
+   "en": "We can't get through this interview without having big intellectual conversations about AI.",
+   "zh": "这次访谈，不聊点关于 AI 的大问题是过不去的。",
+   "hl": []
+  },
+  {
+   "i": 1,
+   "s": 13.95,
+   "e": 26.0,
+   "spk": "Iliana Bouzali",
+   "en": "If I could summarize the consensus right now for AI, it is something like that: AI will be very deflationary and it will lead to massive job losses.",
+   "zh": "如果让我概括一下眼下对 AI 的共识，大概是这样：AI 会带来很强的通缩，还会导致大规模失业。",
+   "hl": []
+  },
+  {
+   "i": 2,
+   "s": 26.0,
+   "e": 27.89,
+   "spk": "Iliana Bouzali",
+   "en": "What do you say to that?",
+   "zh": "你怎么看？",
+   "hl": []
+  },
+  {
+   "i": 3,
+   "s": 29.02,
+   "e": 37.62,
+   "spk": "Stan Druckenmiller",
+   "en": "I say anybody who believes that with conviction suffers from arrogance and not an open mind.",
+   "zh": "我会说，任何笃定相信这一点的人，都是傲慢、心态不开放。",
+   "hl": [
+    {
+     "text": "believes that with conviction",
+     "note": "with + 名词做方式状语：with conviction =「笃定地、带着信念地」，挂在动词后面。"
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "s": 37.62,
+   "e": 43.57,
+   "spk": "Stan Druckenmiller",
+   "en": "I don't think any of us know how this movie is going to play out.",
+   "zh": "我觉得我们谁都不知道这出戏会怎么演下去。",
+   "hl": []
+  },
+  {
+   "i": 5,
+   "s": 43.57,
+   "e": 53.82,
+   "spk": "Stan Druckenmiller",
+   "en": "First of all, every technological revolution since was known to man, it's been declared, for jobs it's the end of the world, all the way back to the horse-and-buggy.",
+   "zh": "首先，自有人类以来的每一次技术革命，都有人宣布「工作要完蛋了」，一直可以追溯到马车时代。",
+   "hl": []
+  },
+  {
+   "i": 6,
+   "s": 53.82,
+   "e": 57.65,
+   "spk": "Stan Druckenmiller",
+   "en": "Now, there are brilliant people saying it's going to happen.",
+   "zh": "当然，现在也有很聪明的人说这次真的会发生。",
+   "hl": [
+    {
+     "text": "there are brilliant people saying it's going to happen",
+     "note": "名词 + -ing 后置：people (who are) saying…，「有聪明人在说…」。"
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "s": 57.65,
+   "e": 63.24,
+   "spk": "Stan Druckenmiller",
+   "en": "And I'm open minded to that too, because the speed is like nothing we've ever seen before.",
+   "zh": "我对这一点也持开放态度，因为这次的速度前所未有。",
+   "hl": []
+  },
+  {
+   "i": 8,
+   "s": 63.24,
+   "e": 69.74,
+   "spk": "Stan Druckenmiller",
+   "en": "But you have to acknowledge, when it's happened every other cycle that it's not a given.",
+   "zh": "但你得承认，既然以往每一轮都是这样，那这件事就不是板上钉钉的。",
+   "hl": []
+  },
+  {
+   "i": 9,
+   "s": 69.74,
+   "e": 82.54,
+   "spk": "Stan Druckenmiller",
+   "en": "When I first learned about AI before ChatGPT and one of my family members was a radiologist, I told him that you might not have a job in five or ten years.",
+   "zh": "我最早了解 AI 是在 ChatGPT 之前，我有个家人是放射科医生，我跟他说，你五到十年后可能就没工作了。",
+   "hl": []
+  },
+  {
+   "i": 10,
+   "s": 82.54,
+   "e": 91.49,
+   "spk": "Stan Druckenmiller",
+   "en": "Because, we had started this company that basically looks for pathology and in, in prostate cancer, and the machines could do it as well or better.",
+   "zh": "因为我们当时投了一家公司，基本上就是看前列腺癌的病理切片，机器做得和人一样好，甚至更好。",
+   "hl": []
+  },
+  {
+   "i": 11,
+   "s": 91.49,
+   "e": 92.68,
+   "spk": "Stan Druckenmiller",
+   "en": "So, you know what?",
+   "zh": "结果你猜怎么着？",
+   "hl": []
+  },
+  {
+   "i": 12,
+   "s": 92.68,
+   "e": 94.57,
+   "spk": "Stan Druckenmiller",
+   "en": "That technology is fantastic.",
+   "zh": "那项技术非常棒。",
+   "hl": []
+  },
+  {
+   "i": 13,
+   "s": 94.57,
+   "e": 97.33,
+   "spk": "Stan Druckenmiller",
+   "en": "It works better, even than anybody imagined.",
+   "zh": "效果比任何人想象的都好。",
+   "hl": []
+  },
+  {
+   "i": 14,
+   "s": 97.33,
+   "e": 100.01,
+   "spk": "Stan Druckenmiller",
+   "en": "It works better than humans.",
+   "zh": "比人还好。",
+   "hl": []
+  },
+  {
+   "i": 15,
+   "s": 100.01,
+   "e": 105.57,
+   "spk": "Stan Druckenmiller",
+   "en": "But we have more radiologists now than we had ten years ago.",
+   "zh": "但我们现在的放射科医生比十年前还多。",
+   "hl": []
+  },
+  {
+   "i": 16,
+   "s": 105.57,
+   "e": 105.9,
+   "spk": "Stan Druckenmiller",
+   "en": "Why?",
+   "zh": "为什么？",
+   "hl": []
+  },
+  {
+   "i": 17,
+   "s": 105.9,
+   "e": 114.98,
+   "spk": "Stan Druckenmiller",
+   "en": "Because a radiologist is now spending his time talking to the patient, going through what this means in their life, going through the decisions.",
+   "zh": "因为放射科医生现在把时间花在跟病人交流上，和他们一起理一理这对他们的生活意味着什么，一起做决定。",
+   "hl": [
+    {
+     "text": "spending his time talking to the patient",
+     "note": "spend time + -ing：把时间花在做某事上，-ing 直接跟，不加 to。"
+    },
+    {
+     "text": ", going through what this means in their life, going through the decisions",
+     "note": "两个 going through… 并列做伴随状语，接着补充他「同时在做什么」，一个比一个具体。"
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "s": 114.98,
+   "e": 118.34,
+   "spk": "Stan Druckenmiller",
+   "en": "He has more time to do the real stuff, and they trust the doctor.",
+   "zh": "他有更多时间做真正重要的事，而病人信任医生。",
+   "hl": []
+  },
+  {
+   "i": 19,
+   "s": 118.34,
+   "e": 120.45,
+   "spk": "Stan Druckenmiller",
+   "en": "Nursing, I've read the same thing going on.",
+   "zh": "护理行业，我读到的也是同样的情况。",
+   "hl": [
+    {
+     "text": "I've read the same thing going on",
+     "note": "宾语 + -ing：读到同样的事正在发生。"
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "s": 120.45,
+   "e": 128.05,
+   "spk": "Stan Druckenmiller",
+   "en": "You know, they don't have to do all the monitoring anymore, but they get to spend more time giving comfort and so forth and so on.",
+   "zh": "你知道，她们不用再做那些监测工作了，但能花更多时间去安慰病人，诸如此类。",
+   "hl": [
+    {
+     "text": "spend more time giving comfort",
+     "note": "spend + 时间 + -ing：花更多时间去安慰病人。"
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "s": 128.05,
+   "e": 132.67,
+   "spk": "Stan Druckenmiller",
+   "en": "Now look, it obviously looks disinflationary, but let me ask you this.",
+   "zh": "当然，看上去它显然是通缩的，但我反问你一句。",
+   "hl": []
+  },
+  {
+   "i": 22,
+   "s": 132.67,
+   "e": 137.35,
+   "spk": "Stan Druckenmiller",
+   "en": "When Covid happened, the five-year forward I thought went to 40 basis points.",
+   "zh": "新冠来的时候，五年远期——我记得——跌到了 40 个基点。",
+   "hl": []
+  },
+  {
+   "i": 23,
+   "s": 137.35,
+   "e": 140.38,
+   "spk": "Stan Druckenmiller",
+   "en": "And five years later inflation was 9%.",
+   "zh": "结果五年后，通胀到了 9%。",
+   "hl": []
+  },
+  {
+   "i": 24,
+   "s": 140.38,
+   "e": 145.35,
+   "spk": "Stan Druckenmiller",
+   "en": "So let's say the pessimists are right, on, on AI.",
+   "zh": "那就假设悲观派对 AI 的判断是对的。",
+   "hl": []
+  },
+  {
+   "i": 25,
+   "s": 146.47,
+   "e": 151.51,
+   "spk": "Stan Druckenmiller",
+   "en": "It's possible you get a government response with printing and universal income.",
+   "zh": "政府很可能会出手，印钱、发全民基本收入。",
+   "hl": []
+  },
+  {
+   "i": 26,
+   "s": 151.51,
+   "e": 157.33,
+   "spk": "Stan Druckenmiller",
+   "en": "After all, inflation is caused by money, that you actually get an inflationary outcome.",
+   "zh": "说到底，通胀是由货币引起的，所以你最后反而可能得到一个通胀的结果。",
+   "hl": []
+  },
+  {
+   "i": 27,
+   "s": 157.33,
+   "e": 171.5,
+   "spk": "Stan Druckenmiller",
+   "en": "So, you just have to always be looking at what other people might not be, and then if you're prepared for it mentally, you can adjust quickly enough, um, in your portfolio to it as it unrolls.",
+   "zh": "所以，你得一直去看别人可能没在看的东西；如果你心理上有准备，等事情展开时，你就能足够快地调整组合。",
+   "hl": []
+  }
+ ],
+ "shadow": [
+  {
+   "i": 3,
+   "tips": "断句：I say ANYbody who beLIEVES that / with conVICtion / SUFfers from ARrogance / and NOT an open MIND. with conviction 前后都要停；suffers 重读，主语到这里才结束。"
+  },
+  {
+   "i": 15,
+   "tips": "断句：But we have MORE RADiologists NOW / than we had TEN years AGO. more 和 now 重读，形成反差。"
+  },
+  {
+   "i": 17,
+   "tips": "断句：Because a radiOLogist is NOW / SPENDing his time TALKing to the PAtient, / GOing through what this MEANS in their LIFE, / GOing through the deCIsions. 两个 going through 节奏一样。"
+  },
+  {
+   "i": 20,
+   "tips": "断句：They DON'T have to do all the MONitoring anymore, / but they GET to spend MORE time / GIVing COMfort. get to 读成 get-tə；giving comfort 连读。"
+  },
+  {
+   "i": 21,
+   "tips": "断句：Now LOOK, / it OBviously looks disinflAtionary, / but LET me ask you THIS. but 前停顿；this 重读，引出反问。"
+  }
+ ],
+ "questions": [
+  "What is the consensus view on AI that Bouzali describes?",
+  "Why does Druckenmiller call people who believe it with conviction arrogant?",
+  "Tell the radiologist story. (Try: \"Instead of reading scans, radiologists are now spending their time…\")",
+  "What does nursing have in common with radiology here?",
+  "Why might AI end up inflationary rather than deflationary, in his view?",
+  "How do you think AI will change your own work? (Try: \"I'll spend more time …ing, …\")"
+ ],
+ "chunks": [
+  {
+   "en": "I don't think any of us know how this movie is going to play out",
+   "zh": "我们谁都不知道这出戏会怎么演下去",
+   "i": 4
+  },
+  {
+   "en": "I'm open minded to that too",
+   "zh": "这一点我也持开放态度",
+   "i": 7
+  },
+  {
+   "en": "you have to acknowledge ___",
+   "zh": "你得承认…",
+   "i": 8
+  },
+  {
+   "en": "as well or better",
+   "zh": "一样好甚至更好",
+   "i": 10
+  },
+  {
+   "en": "spending his time talking to ___",
+   "zh": "把时间花在跟…交流上",
+   "i": 17
+  },
+  {
+   "en": "do the real stuff",
+   "zh": "做真正重要的事",
+   "i": 18
+  },
+  {
+   "en": "let me ask you this",
+   "zh": "我反问你一句",
+   "i": 21
+  },
+  {
+   "en": "After all, ___",
+   "zh": "说到底，…",
+   "i": 26
+  }
+ ],
+ "source": "YouTube 人工字幕"
+}

@@ -1,0 +1,614 @@
+{
+ "id": "d09-druck-invest-investigate",
+ "day": 9,
+ "date": "2026-11-23",
+ "show": "TomorrowX Summit",
+ "guest": "Stan Druckenmiller",
+ "title_zh": "先下注，再研究",
+ "topic": "投资",
+ "youtube": "6r3D-CMJkuI",
+ "start": 1001.92,
+ "end": 1314.0,
+ "structure": "伴随状语 + 分词前置",
+ "intro_zh": "还是 TomorrowX 峰会这场对谈的后半段。主持人先复述他九个月前的几句名言（「我的优势不是智商，而是敢扣扳机」），再追问：聪明人还会怎么自己绊自己、伟大的投资人和很好的投资人差在哪、他到底怎么做决定——答案是「先投资，再调查」。最后他给出三个十年预测：核聚变、太空数据中心、癌症变成可控的病。",
+ "sents": [
+  {
+   "i": 0,
+   "s": 1001.92,
+   "e": 1007.68,
+   "spk": "Iliana Bouzali",
+   "en": "So last time, again about nine months ago, you said some pretty cool things.",
+   "zh": "上次，大概九个月前，你说了几句挺精彩的话。",
+   "hl": []
+  },
+  {
+   "i": 1,
+   "s": 1007.68,
+   "e": 1011.2,
+   "spk": "Stan Druckenmiller",
+   "en": "I like that she's quoting that interview, because I've been wrong a lot in my life too.",
+   "zh": "我很高兴她引的是那次采访，因为我这辈子也错过很多次。",
+   "hl": []
+  },
+  {
+   "i": 2,
+   "s": 1011.2,
+   "e": 1012.08,
+   "spk": "Stan Druckenmiller",
+   "en": "That was good timing.",
+   "zh": "那次时机赶得好。",
+   "hl": []
+  },
+  {
+   "i": 3,
+   "s": 1012.08,
+   "e": 1014.72,
+   "spk": "Iliana Bouzali",
+   "en": "Oh yeah, I'm cherry-picking for sure.",
+   "zh": "那当然，我肯定是挑好的说。",
+   "hl": []
+  },
+  {
+   "i": 4,
+   "s": 1014.72,
+   "e": 1020.48,
+   "spk": "Iliana Bouzali",
+   "en": "So you said, \"My edge is not IQ, it's pulling the trigger.\"",
+   "zh": "你说：「我的优势不是智商，而是敢扣扳机。」",
+   "hl": []
+  },
+  {
+   "i": 5,
+   "s": 1020.48,
+   "e": 1023.2,
+   "spk": "Iliana Bouzali",
+   "en": "You said contrarianism is overrated.",
+   "zh": "你说逆向投资被高估了。",
+   "hl": []
+  },
+  {
+   "i": 6,
+   "s": 1023.2,
+   "e": 1028.08,
+   "spk": "Iliana Bouzali",
+   "en": "People sacrifice a lot of P&L just to be different.",
+   "zh": "人们为了显得与众不同，牺牲了大量盈亏。",
+   "hl": []
+  },
+  {
+   "i": 7,
+   "s": 1028.08,
+   "e": 1037.36,
+   "spk": "Iliana Bouzali",
+   "en": "And you talked about how smart people get in their own way, because they don't know when to stop doing research.",
+   "zh": "你还讲到聪明人怎么自己绊自己——因为他们不知道什么时候该停止研究。",
+   "hl": []
+  },
+  {
+   "i": 8,
+   "s": 1037.36,
+   "e": 1040.48,
+   "spk": "Iliana Bouzali",
+   "en": "So why don't we add one more thing to the list?",
+   "zh": "那我们再往这个清单上加一条吧？",
+   "hl": []
+  },
+  {
+   "i": 9,
+   "s": 1040.48,
+   "e": 1046.0,
+   "spk": "Iliana Bouzali",
+   "en": "How do smart people get in their own way?",
+   "zh": "聪明人还会怎么自己绊自己？",
+   "hl": []
+  },
+  {
+   "i": 10,
+   "s": 1046.0,
+   "e": 1057.44,
+   "spk": "Stan Druckenmiller",
+   "en": "I'd say this business requires intellectual humility, intellectual humility that requires an open mind.",
+   "zh": "我会说，这一行需要智识上的谦逊——那种需要开放心态的谦逊。",
+   "hl": []
+  },
+  {
+   "i": 11,
+   "s": 1057.44,
+   "e": 1060.16,
+   "spk": "Stan Druckenmiller",
+   "en": "I'm all for conviction.",
+   "zh": "我完全赞成要有信念。",
+   "hl": []
+  },
+  {
+   "i": 12,
+   "s": 1060.16,
+   "e": 1066.32,
+   "spk": "Stan Druckenmiller",
+   "en": "I've plagiarized Mark Twain and said, \"Put all your eggs in one basket, and then watch the basket very carefully.\"",
+   "zh": "我借用过马克·吐温的话：「把所有鸡蛋放进一个篮子，然后非常仔细地盯着这个篮子。」",
+   "hl": []
+  },
+  {
+   "i": 13,
+   "s": 1066.32,
+   "e": 1067.04,
+   "spk": "Iliana Bouzali",
+   "en": "Yep.",
+   "zh": "对。",
+   "hl": []
+  },
+  {
+   "i": 14,
+   "s": 1067.04,
+   "e": 1080.48,
+   "spk": "Stan Druckenmiller",
+   "en": "So I'm good with making big concentrated bets, but sometimes people with very high IQs forget the second part: watch the basket very carefully.",
+   "zh": "所以我赞成下大的集中仓位，但有时候智商很高的人会忘了后半句：非常仔细地盯着篮子。",
+   "hl": []
+  },
+  {
+   "i": 15,
+   "s": 1080.48,
+   "e": 1085.44,
+   "spk": "Stan Druckenmiller",
+   "en": "They're so in love with the thesis they made that they're not open-minded.",
+   "zh": "他们太爱自己做出来的那套逻辑，以至于听不进别的。",
+   "hl": [
+    {
+     "text": "so in love with the thesis they made that they're not open-minded",
+     "note": "so + 形容词 + that…：太…以至于…。the thesis (that) they made 省略关系代词。"
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "s": 1085.44,
+   "e": 1095.92,
+   "spk": "Stan Druckenmiller",
+   "en": "You can have a great thesis, it can be a great bet, and things just happen, and they just don't seem to adjust as quickly as other people do.",
+   "zh": "你可以有一个很好的逻辑，也可以是一笔很好的下注，但事情就是会发生，而他们就是不像别人那样能很快调整。",
+   "hl": []
+  },
+  {
+   "i": 17,
+   "s": 1095.92,
+   "e": 1102.48,
+   "spk": "Stan Druckenmiller",
+   "en": "So I'd say, I don't know why, but it tends to breed inflexibility.",
+   "zh": "所以我会说——我也不知道为什么——聪明往往会养出僵化。",
+   "hl": []
+  },
+  {
+   "i": 18,
+   "s": 1102.48,
+   "e": 1105.84,
+   "spk": "Stan Druckenmiller",
+   "en": "Not always, but a lot of times.",
+   "zh": "不是总这样，但很多时候是。",
+   "hl": []
+  },
+  {
+   "i": 19,
+   "s": 1105.84,
+   "e": 1112.72,
+   "spk": "Iliana Bouzali",
+   "en": "And adjacent to that, you've met and mentored some incredible investors.",
+   "zh": "跟这个相关的是，你见过、也带过一些了不起的投资人。",
+   "hl": []
+  },
+  {
+   "i": 20,
+   "s": 1112.72,
+   "e": 1120.88,
+   "spk": "Iliana Bouzali",
+   "en": "What separates the very good ones from the great ones?",
+   "zh": "很好的和伟大的，差别在哪儿？",
+   "hl": []
+  },
+  {
+   "i": 21,
+   "s": 1120.88,
+   "e": 1125.6,
+   "spk": "Stan Druckenmiller",
+   "en": "They've got to be unbelievably passionate about our business.",
+   "zh": "他们得对我们这一行有近乎疯狂的热情。",
+   "hl": []
+  },
+  {
+   "i": 22,
+   "s": 1125.6,
+   "e": 1129.68,
+   "spk": "Stan Druckenmiller",
+   "en": "They've got to be intellectually curious.",
+   "zh": "他们得有求知欲。",
+   "hl": []
+  },
+  {
+   "i": 23,
+   "s": 1129.68,
+   "e": 1134.24,
+   "spk": "Stan Druckenmiller",
+   "en": "They have to be competitive to the point of a sickness.",
+   "zh": "他们得好胜到病态的地步。",
+   "hl": []
+  },
+  {
+   "i": 24,
+   "s": 1134.24,
+   "e": 1135.68,
+   "spk": "Iliana Bouzali",
+   "en": "You've got to be sick.",
+   "zh": "得是病态的那种。",
+   "hl": []
+  },
+  {
+   "i": 25,
+   "s": 1135.68,
+   "e": 1141.84,
+   "spk": "Stan Druckenmiller",
+   "en": "Like, so driven to win and so competitive, not wanting to lose.",
+   "zh": "就是一心想赢、好胜心极强，死活不想输。",
+   "hl": [
+    {
+     "text": "not wanting to lose",
+     "note": "现在分词短语做伴随：前面说完 so driven… so competitive，再用 not wanting to… 补一个状态。否定直接把 not 放在 -ing 前面。"
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "s": 1141.84,
+   "e": 1144.48,
+   "spk": "Iliana Bouzali",
+   "en": "It's not about work-life balance.",
+   "zh": "这可谈不上工作和生活平衡。",
+   "hl": []
+  },
+  {
+   "i": 27,
+   "s": 1144.48,
+   "e": 1146.88,
+   "spk": "Stan Druckenmiller",
+   "en": "No work-life balance.",
+   "zh": "没有工作生活平衡。",
+   "hl": []
+  },
+  {
+   "i": 28,
+   "s": 1146.88,
+   "e": 1151.44,
+   "spk": "Stan Druckenmiller",
+   "en": "But, you know, every time you buy something, there's a seller on the other side.",
+   "zh": "可你想想，每次你买进什么，对面都有一个卖家。",
+   "hl": []
+  },
+  {
+   "i": 29,
+   "s": 1151.44,
+   "e": 1156.32,
+   "spk": "Stan Druckenmiller",
+   "en": "If you don't have an incredible work ethic, you're going to lose in our business.",
+   "zh": "如果你不是特别肯下苦功，在我们这行你就会输。",
+   "hl": []
+  },
+  {
+   "i": 30,
+   "s": 1156.32,
+   "e": 1162.16,
+   "spk": "Stan Druckenmiller",
+   "en": "And then the fourth, and maybe the most important, is they're all disciplined.",
+   "zh": "然后第四点，也许是最重要的：他们都很有纪律。",
+   "hl": []
+  },
+  {
+   "i": 31,
+   "s": 1162.16,
+   "e": 1169.52,
+   "spk": "Stan Druckenmiller",
+   "en": "Their disciplines may be very different, maybe different than mine, but whatever their discipline is, they stick to it.",
+   "zh": "他们的纪律可能千差万别，可能和我的也不一样，但不管是什么纪律，他们都会坚持。",
+   "hl": []
+  },
+  {
+   "i": 32,
+   "s": 1169.52,
+   "e": 1177.28,
+   "spk": "Stan Druckenmiller",
+   "en": "And I'd say you put those four things together, that kind of answers your question, in my opinion.",
+   "zh": "我觉得把这四点放在一起，就算回答了你的问题。",
+   "hl": []
+  },
+  {
+   "i": 33,
+   "s": 1177.28,
+   "e": 1191.2,
+   "spk": "Iliana Bouzali",
+   "en": "So if our audience followed you around for a month, which would be weird, what would surprise them most about the way you make decisions?",
+   "zh": "如果我们的听众跟着你一个月——那会有点怪——你做决定的方式最会让他们吃惊的是什么？",
+   "hl": [
+    {
+     "text": ", which would be weird",
+     "note": "which 指代前面整件事（跟着他一个月），上周的结构复习：先把事情说完，再用 which 补一句评价。"
+    }
+   ]
+  },
+  {
+   "i": 34,
+   "s": 1191.2,
+   "e": 1195.68,
+   "spk": "Stan Druckenmiller",
+   "en": "What I call at our firm: invest, then investigate.",
+   "zh": "我们公司管它叫：先投资，再调查。",
+   "hl": []
+  },
+  {
+   "i": 35,
+   "s": 1195.68,
+   "e": 1198.64,
+   "spk": "Stan Druckenmiller",
+   "en": "I'll hear an idea.",
+   "zh": "我会听到一个点子。",
+   "hl": []
+  },
+  {
+   "i": 36,
+   "s": 1198.64,
+   "e": 1201.44,
+   "spk": "Stan Druckenmiller",
+   "en": "I'm a technician, too, so I'll see a chart I like.",
+   "zh": "我也看技术面，所以我会看到一张喜欢的图。",
+   "hl": []
+  },
+  {
+   "i": 37,
+   "s": 1201.44,
+   "e": 1203.04,
+   "spk": "Stan Druckenmiller",
+   "en": "I like the story.",
+   "zh": "我喜欢这个故事。",
+   "hl": []
+  },
+  {
+   "i": 38,
+   "s": 1203.04,
+   "e": 1204.64,
+   "spk": "Stan Druckenmiller",
+   "en": "It makes sense to me.",
+   "zh": "我觉得说得通。",
+   "hl": []
+  },
+  {
+   "i": 39,
+   "s": 1204.64,
+   "e": 1210.0,
+   "spk": "Stan Druckenmiller",
+   "en": "Or the person who's telling me, it's in their wheelhouse, and I can see a certain passion.",
+   "zh": "或者是给我讲这个点子的人——这正好是他的拿手领域，我能看出他有一股热情。",
+   "hl": []
+  },
+  {
+   "i": 40,
+   "s": 1210.0,
+   "e": 1223.6,
+   "spk": "Stan Druckenmiller",
+   "en": "And I'll make not a giant bet, but a big enough bet to really hurt if I'm wrong, with about 15% of the information that a traditional investor would want.",
+   "zh": "然后我就下一笔不算巨大、但错了足够让我疼的仓位，手里的信息只有传统投资人想要的 15% 左右。",
+   "hl": [
+    {
+     "text": "with about 15% of the information that a traditional investor would want",
+     "note": "with + 名词短语做伴随状语：交代「在什么条件下」下注。中文的「手里只有 15% 的信息」，英文挂在句尾。"
+    }
+   ]
+  },
+  {
+   "i": 41,
+   "s": 1223.6,
+   "e": 1233.6,
+   "spk": "Stan Druckenmiller",
+   "en": "And then give it to our research department and delve into it for two or three weeks and decide whether to add to it or get rid of it.",
+   "zh": "然后交给我们的研究部门，花两三周深挖，再决定是加仓还是清掉。",
+   "hl": []
+  },
+  {
+   "i": 42,
+   "s": 1233.6,
+   "e": 1245.52,
+   "spk": "Stan Druckenmiller",
+   "en": "So there's a lot of betting going on, sort of a lot of intuition, with things that I probably have no business buying, but it's worked for me over time.",
+   "zh": "所以这里面有很多下注的成分，也有很多直觉，买的很多东西我大概根本没资格买，但这些年下来对我是管用的。",
+   "hl": [
+    {
+     "text": "there's a lot of betting going on",
+     "note": "there's + 名词 + going on：「这里面有很多下注在进行」，描述状态的高频口语。"
+    }
+   ]
+  },
+  {
+   "i": 43,
+   "s": 1245.52,
+   "e": 1256.4,
+   "spk": "Iliana Bouzali",
+   "en": "So we had some pretty cool conversations bouncing through history and psychology and markets and a lot of wild hypotheticals.",
+   "zh": "我们聊过一些很酷的话题，在历史、心理学和市场之间跳来跳去，还有很多天马行空的假设。",
+   "hl": [
+    {
+     "text": "conversations bouncing through history and psychology and markets",
+     "note": "现在分词后置：conversations (that were) bouncing through…，「在历史、心理学、市场之间跳来跳去的对话」。"
+    }
+   ]
+  },
+  {
+   "i": 44,
+   "s": 1256.4,
+   "e": 1260.56,
+   "spk": "Iliana Bouzali",
+   "en": "I'd like to bring our audience into one of these conversations.",
+   "zh": "我想把听众也拉进这样一次对话。",
+   "hl": []
+  },
+  {
+   "i": 45,
+   "s": 1260.56,
+   "e": 1270.88,
+   "spk": "Iliana Bouzali",
+   "en": "Give me one or two predictions about the next 10 years that sound not that likely, but you would quietly put a 20% chance on.",
+   "zh": "给我一两个关于未来十年的预测：听起来不太可能，但你心里默默给它 20% 的概率。",
+   "hl": []
+  },
+  {
+   "i": 46,
+   "s": 1270.88,
+   "e": 1279.36,
+   "spk": "Stan Druckenmiller",
+   "en": "I think there's a 20% chance we'll either have fusion or it'll be clear we're going to have fusion.",
+   "zh": "我觉得有 20% 的可能，我们要么已经有了核聚变，要么已经能清楚看到核聚变一定会来。",
+   "hl": []
+  },
+  {
+   "i": 47,
+   "s": 1279.36,
+   "e": 1289.52,
+   "spk": "Stan Druckenmiller",
+   "en": "Number two, I'm in Austin, so I'd say it's at least 70%, if not higher: we're going to have data centers in space.",
+   "zh": "第二，我人在奥斯汀，所以我会说至少 70%，甚至更高：我们会有太空数据中心。",
+   "hl": []
+  },
+  {
+   "i": 48,
+   "s": 1289.52,
+   "e": 1295.44,
+   "spk": "Stan Druckenmiller",
+   "en": "Number three, I believe... I've been on the board of Sloan Kettering for 30 years.",
+   "zh": "第三，我认为……我在纪念斯隆-凯特琳癌症中心的董事会待了 30 年。",
+   "hl": []
+  },
+  {
+   "i": 49,
+   "s": 1295.44,
+   "e": 1299.52,
+   "spk": "Stan Druckenmiller",
+   "en": "The first 10 years, we went nowhere.",
+   "zh": "头 10 年，我们毫无进展。",
+   "hl": []
+  },
+  {
+   "i": 50,
+   "s": 1299.52,
+   "e": 1301.68,
+   "spk": "Stan Druckenmiller",
+   "en": "But then we got genetic sequencing.",
+   "zh": "后来有了基因测序。",
+   "hl": []
+  },
+  {
+   "i": 51,
+   "s": 1301.68,
+   "e": 1304.64,
+   "spk": "Stan Druckenmiller",
+   "en": "We figured out it was a personal disease.",
+   "zh": "我们搞明白了，癌症是一种因人而异的病。",
+   "hl": []
+  },
+  {
+   "i": 52,
+   "s": 1304.64,
+   "e": 1308.32,
+   "spk": "Stan Druckenmiller",
+   "en": "Mutations, immunotherapy, and now AI.",
+   "zh": "基因突变、免疫疗法，现在又有了 AI。",
+   "hl": []
+  },
+  {
+   "i": 53,
+   "s": 1308.32,
+   "e": 1309.84,
+   "spk": "Stan Druckenmiller",
+   "en": "I think we're going to beat cancer.",
+   "zh": "我认为我们会战胜癌症。",
+   "hl": []
+  },
+  {
+   "i": 54,
+   "s": 1309.84,
+   "e": 1314.0,
+   "spk": "Stan Druckenmiller",
+   "en": "I think it's going to be a managed disease, and I mean in 10 years, not 20 years.",
+   "zh": "我认为它会变成一种可控的病，我说的是 10 年内，不是 20 年。",
+   "hl": []
+  }
+ ],
+ "shadow": [
+  {
+   "i": 12,
+   "tips": "断句：Put ALL your EGGS / in ONE BASket, / and THEN / WATCH the basket / VEry CAREfully. all your eggs 连读 al-lyour-eggs；then 后面停一下，再强调 watch。"
+  },
+  {
+   "i": 15,
+   "tips": "断句：They're SO in LOVE / with the THEsis they MADE / that they're NOT / OPen-MINDed. so 拉长；thesis they 别断开。"
+  },
+  {
+   "i": 25,
+   "tips": "断句：Like, / so DRIven to WIN / and so comPEtitive, / NOT WANTing to LOSE. not wanting to 连成 not-wan-ning-tə；lose 收尾重读。"
+  },
+  {
+   "i": 40,
+   "tips": "断句：And I'll make NOT a GIANT bet, / but a BIG eNOUGH bet / to REALly HURT / if I'm WRONG, / with about fifTEEN PERcent / of the inforMAtion / a traDItional investor would WANT. with 前面停顿，像补充条件。"
+  },
+  {
+   "i": 42,
+   "tips": "断句：So there's a LOT of BETting going ON, / sort of a lot of intuITion, / with things I probably have NO BUSiness BUYing, / but it's WORKED for me / over TIME. betting going on 一口气；no business 重读。"
+  }
+ ],
+ "questions": [
+  "What did Druckenmiller say last time about his edge and about contrarianism?",
+  "How do smart people get in their own way, according to him? (Try: \"Being so in love with their thesis, they…\")",
+  "What does the Mark Twain line mean, and which half do smart people forget?",
+  "What four traits separate the great investors from the very good ones?",
+  "Describe \"invest, then investigate\" step by step. (Try: \"Seeing a chart he likes, he… / with only about 15% of the information…\")",
+  "Which of his three 10-year predictions do you find most believable, and why?"
+ ],
+ "chunks": [
+  {
+   "en": "My edge is not ___, it's ___",
+   "zh": "我的优势不是…，而是…",
+   "i": 4
+  },
+  {
+   "en": "get in their own way",
+   "zh": "自己绊自己、自己挡自己的路",
+   "i": 7
+  },
+  {
+   "en": "I'm all for ___",
+   "zh": "我完全赞成…",
+   "i": 11
+  },
+  {
+   "en": "put all your eggs in one basket",
+   "zh": "把鸡蛋都放进一个篮子（集中下注）",
+   "i": 12
+  },
+  {
+   "en": "so in love with ___ that ___",
+   "zh": "太迷恋…以至于…",
+   "i": 15
+  },
+  {
+   "en": "to the point of ___",
+   "zh": "到了…的地步",
+   "i": 23
+  },
+  {
+   "en": "a big enough bet to really hurt if I'm wrong",
+   "zh": "错了足够让我疼的一笔仓位",
+   "i": 40
+  },
+  {
+   "en": "have no business ___",
+   "zh": "根本没资格 / 不该…",
+   "i": 42
+  }
+ ],
+ "source": "机器转写（YouTube 自动字幕 + Whisper 对照核对）"
+}

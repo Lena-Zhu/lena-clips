@@ -1,0 +1,1016 @@
+{
+ "id": "d13-druck-word-association",
+ "day": 13,
+ "date": "2026-11-27",
+ "show": "Morgan Stanley Hard Lessons",
+ "guest": "Stan Druckenmiller",
+ "title_zh": "词语联想：一词一判断",
+ "topic": "投资",
+ "youtube": "FJwBpWSSgSg",
+ "start": 0.88,
+ "end": 356.29,
+ "structure": "让步对比",
+ "intro_zh": "Hard Lessons 的加更片段：主持人 Iliana Bouzali 和 Druckenmiller 玩词语联想——她说一个词，他说第一反应。从美国经济、收益率曲线、人形机器人、关税、加密货币，到中美关系、欧元、美元的储备地位和 Bessent / Warsh，很多回答都是「一句定性 + 一个但是」，正好练让步对比。",
+ "sents": [
+  {
+   "i": 0,
+   "s": 0.88,
+   "e": 2.62,
+   "spk": "Iliana Bouzali",
+   "en": "Can we do some word association?",
+   "zh": "我们来玩个词语联想好吗？",
+   "hl": []
+  },
+  {
+   "i": 1,
+   "s": 3.42,
+   "e": 3.68,
+   "spk": "Stan Druckenmiller",
+   "en": "Okay.",
+   "zh": "好。",
+   "hl": []
+  },
+  {
+   "i": 2,
+   "s": 12.95,
+   "e": 19.16,
+   "spk": "Iliana Bouzali",
+   "en": "So the way this works is, I say a word and you say whatever comes to mind.",
+   "zh": "规则是这样：我说一个词，你说出脑子里冒出来的任何东西。",
+   "hl": []
+  },
+  {
+   "i": 3,
+   "s": 21.02,
+   "e": 22.12,
+   "spk": "Stan Druckenmiller",
+   "en": "Oh, boy.",
+   "zh": "哎呀。",
+   "hl": []
+  },
+  {
+   "i": 4,
+   "s": 23.21,
+   "e": 23.82,
+   "spk": "Iliana Bouzali",
+   "en": "Yep.",
+   "zh": "对。",
+   "hl": []
+  },
+  {
+   "i": 5,
+   "s": 23.82,
+   "e": 25.16,
+   "spk": "Iliana Bouzali",
+   "en": "US economy.",
+   "zh": "美国经济。",
+   "hl": []
+  },
+  {
+   "i": 6,
+   "s": 25.85,
+   "e": 26.16,
+   "spk": "Stan Druckenmiller",
+   "en": "Strong.",
+   "zh": "强劲。",
+   "hl": []
+  },
+  {
+   "i": 7,
+   "s": 27.95,
+   "e": 28.57,
+   "spk": "Iliana Bouzali",
+   "en": "Biotech.",
+   "zh": "生物科技。",
+   "hl": []
+  },
+  {
+   "i": 8,
+   "s": 29.61,
+   "e": 30.24,
+   "spk": "Stan Druckenmiller",
+   "en": "Exciting.",
+   "zh": "令人兴奋。",
+   "hl": []
+  },
+  {
+   "i": 9,
+   "s": 30.8,
+   "e": 33.17,
+   "spk": "Iliana Bouzali",
+   "en": "By the way, you can do full sentences, too.",
+   "zh": "顺便说一句，你也可以说完整的句子。",
+   "hl": []
+  },
+  {
+   "i": 10,
+   "s": 33.17,
+   "e": 34.24,
+   "spk": "Iliana Bouzali",
+   "en": "Only if you want to.",
+   "zh": "只要你想的话。",
+   "hl": []
+  },
+  {
+   "i": 11,
+   "s": 35.35,
+   "e": 37.87,
+   "spk": "Stan Druckenmiller",
+   "en": "As you know, I'm somewhat abrupt.",
+   "zh": "你知道的，我这人说话有点冲。",
+   "hl": []
+  },
+  {
+   "i": 12,
+   "s": 38.54,
+   "e": 38.98,
+   "spk": "Iliana Bouzali",
+   "en": "I do.",
+   "zh": "我知道。",
+   "hl": []
+  },
+  {
+   "i": 13,
+   "s": 38.98,
+   "e": 40.24,
+   "spk": "Iliana Bouzali",
+   "en": "Retail investors.",
+   "zh": "散户投资者。",
+   "hl": []
+  },
+  {
+   "i": 14,
+   "s": 41.38,
+   "e": 42.07,
+   "spk": "Stan Druckenmiller",
+   "en": "Formidable.",
+   "zh": "不可小觑。",
+   "hl": []
+  },
+  {
+   "i": 15,
+   "s": 42.59,
+   "e": 43.28,
+   "spk": "Iliana Bouzali",
+   "en": "Yield curve.",
+   "zh": "收益率曲线。",
+   "hl": []
+  },
+  {
+   "i": 16,
+   "s": 44.86,
+   "e": 45.85,
+   "spk": "Stan Druckenmiller",
+   "en": "Overrated.",
+   "zh": "被高估了。",
+   "hl": []
+  },
+  {
+   "i": 17,
+   "s": 46.65,
+   "e": 47.28,
+   "spk": "Iliana Bouzali",
+   "en": "Really?",
+   "zh": "真的吗？",
+   "hl": []
+  },
+  {
+   "i": 18,
+   "s": 47.28,
+   "e": 50.53,
+   "spk": "Iliana Bouzali",
+   "en": "So, we're in with the equity as a macro indicator.",
+   "zh": "这么说，宏观指标要看股市了。",
+   "hl": []
+  },
+  {
+   "i": 19,
+   "s": 50.53,
+   "e": 52.12,
+   "spk": "Iliana Bouzali",
+   "en": "Out with the yield curve.",
+   "zh": "收益率曲线就靠边站了。",
+   "hl": []
+  },
+  {
+   "i": 20,
+   "s": 53.49,
+   "e": 54.0,
+   "spk": "Stan Druckenmiller",
+   "en": "Oh no.",
+   "zh": "噢，不是。",
+   "hl": []
+  },
+  {
+   "i": 21,
+   "s": 54.0,
+   "e": 56.19,
+   "spk": "Stan Druckenmiller",
+   "en": "It's a pretty good indicator.",
+   "zh": "它是个挺好的指标。",
+   "hl": [
+    {
+     "text": "It's a pretty good indicator.",
+     "note": "让步的前半句：先承认它是个好指标，下一句再说「只是我不怎么交易它」。"
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "s": 56.19,
+   "e": 59.11,
+   "spk": "Stan Druckenmiller",
+   "en": "I've never traded the yield curve much.",
+   "zh": "我只是从来没怎么交易过收益率曲线。",
+   "hl": []
+  },
+  {
+   "i": 23,
+   "s": 59.11,
+   "e": 65.1,
+   "spk": "Stan Druckenmiller",
+   "en": "I talked to my peers, I got the curve on, I'm like, look, rates are going to go up or they're going to go down.",
+   "zh": "我跟同行聊，他们做曲线交易，我就想：听着，利率要么涨要么跌。",
+   "hl": []
+  },
+  {
+   "i": 24,
+   "s": 65.1,
+   "e": 68.0,
+   "spk": "Stan Druckenmiller",
+   "en": "When I say overrated, I misunderstood the word.",
+   "zh": "我说「被高估」，是我理解错了这个词。",
+   "hl": []
+  },
+  {
+   "i": 25,
+   "s": 68.0,
+   "e": 70.04,
+   "spk": "Stan Druckenmiller",
+   "en": "No, I didn't misunderstand.",
+   "zh": "不，我没理解错。",
+   "hl": []
+  },
+  {
+   "i": 26,
+   "s": 70.04,
+   "e": 71.94,
+   "spk": "Stan Druckenmiller",
+   "en": "It's what came to my head.",
+   "zh": "那就是我脑子里冒出来的。",
+   "hl": []
+  },
+  {
+   "i": 27,
+   "s": 71.98,
+   "e": 76.27,
+   "spk": "Stan Druckenmiller",
+   "en": "I'm talking about trading the yield curve as opposed to just trading bonds outright.",
+   "zh": "我说的是交易收益率曲线，而不是直接交易债券。",
+   "hl": [
+    {
+     "text": "as opposed to just trading bonds outright",
+     "note": "A as opposed to B：「是 A，而不是 B」，对比两种做法。"
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "s": 76.27,
+   "e": 78.54,
+   "spk": "Stan Druckenmiller",
+   "en": "Very rarely do you win on both sides.",
+   "zh": "两头都赢的情况非常少见。",
+   "hl": [
+    {
+     "text": "Very rarely do you win on both sides",
+     "note": "否定副词前置倒装：Very rarely do you…，强调「很少」。"
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "s": 78.54,
+   "e": 86.16,
+   "spk": "Stan Druckenmiller",
+   "en": "In other words, very rarely do short rates go down and long rates go up, which is what happened last year.",
+   "zh": "换句话说，短端利率下行、长端利率上行，这种情况非常少见——而去年恰恰就是这样。",
+   "hl": []
+  },
+  {
+   "i": 30,
+   "s": 86.16,
+   "e": 88.66,
+   "spk": "Stan Druckenmiller",
+   "en": "But I had the down part correctly.",
+   "zh": "不过下行那一半我判断对了。",
+   "hl": []
+  },
+  {
+   "i": 31,
+   "s": 89.13,
+   "e": 89.66,
+   "spk": "Iliana Bouzali",
+   "en": "Humanoids.",
+   "zh": "人形机器人。",
+   "hl": []
+  },
+  {
+   "i": 32,
+   "s": 90.84,
+   "e": 97.66,
+   "spk": "Stan Druckenmiller",
+   "en": "It's interesting because I asked my young partner, why should humanoids be like humans?",
+   "zh": "这个有意思，因为我问过我的年轻合伙人：人形机器人为什么要做得像人？",
+   "hl": []
+  },
+  {
+   "i": 33,
+   "s": 97.66,
+   "e": 104.62,
+   "spk": "Stan Druckenmiller",
+   "en": "Why would that possibly be the most efficient form of robot?",
+   "zh": "那怎么可能是机器人最高效的形态？",
+   "hl": []
+  },
+  {
+   "i": 34,
+   "s": 104.62,
+   "e": 106.65,
+   "spk": "Stan Druckenmiller",
+   "en": "And I expect him to say it's not.",
+   "zh": "我以为他会说不是。",
+   "hl": []
+  },
+  {
+   "i": 35,
+   "s": 106.65,
+   "e": 111.56,
+   "spk": "Stan Druckenmiller",
+   "en": "He said, well, for example, Stan, your kitchen is designed for a human to work in.",
+   "zh": "他说：Stan，比如你的厨房，就是按人来设计、给人干活的。",
+   "hl": []
+  },
+  {
+   "i": 36,
+   "s": 111.56,
+   "e": 118.23,
+   "spk": "Stan Druckenmiller",
+   "en": "So, if you want a humanoid to work for you and do your tasks in the kitchen, it should be a humanoid.",
+   "zh": "所以如果你想让机器人替你在厨房干活，那它就该是人形的。",
+   "hl": []
+  },
+  {
+   "i": 37,
+   "s": 118.23,
+   "e": 122.42,
+   "spk": "Stan Druckenmiller",
+   "en": "He said, in an Amazon factory, it doesn't have to be a humanoid.",
+   "zh": "他说，在亚马逊的工厂里，就不必是人形的。",
+   "hl": []
+  },
+  {
+   "i": 38,
+   "s": 122.42,
+   "e": 124.86,
+   "spk": "Stan Druckenmiller",
+   "en": "By the way, I just learned this yesterday.",
+   "zh": "顺便说一句，这是我昨天才知道的。",
+   "hl": []
+  },
+  {
+   "i": 39,
+   "s": 124.86,
+   "e": 139.31,
+   "spk": "Stan Druckenmiller",
+   "en": "I've been sitting here, I don't know why I hadn't asked him before, thinking about humanoids and how ridiculous this is making robots humans, when there must be a better way to make a functioning robot.",
+   "zh": "我一直坐在这儿琢磨人形机器人，觉得把机器人做成人有多荒唐，明明一定有更好的办法造出能干活的机器人——也不知道为什么之前没问过他。",
+   "hl": [
+    {
+     "text": ", when there must be a better way to make a functioning robot",
+     "note": "when 的对比用法：「明明…却…」。前面说他觉得荒唐，when 引出「明明有更好的办法」。"
+    }
+   ]
+  },
+  {
+   "i": 40,
+   "s": 139.82,
+   "e": 140.17,
+   "spk": "Iliana Bouzali",
+   "en": "Gold.",
+   "zh": "黄金。",
+   "hl": []
+  },
+  {
+   "i": 41,
+   "s": 141.02,
+   "e": 141.31,
+   "spk": "Stan Druckenmiller",
+   "en": "Gold.",
+   "zh": "黄金。",
+   "hl": []
+  },
+  {
+   "i": 42,
+   "s": 142.99,
+   "e": 143.72,
+   "spk": "Stan Druckenmiller",
+   "en": "Fascinating.",
+   "zh": "很迷人。",
+   "hl": []
+  },
+  {
+   "i": 43,
+   "s": 144.22,
+   "e": 144.67,
+   "spk": "Iliana Bouzali",
+   "en": "Tariffs.",
+   "zh": "关税。",
+   "hl": []
+  },
+  {
+   "i": 44,
+   "s": 146.37,
+   "e": 147.62,
+   "spk": "Stan Druckenmiller",
+   "en": "Not a fan.",
+   "zh": "不太喜欢。",
+   "hl": []
+  },
+  {
+   "i": 45,
+   "s": 147.62,
+   "e": 153.89,
+   "spk": "Stan Druckenmiller",
+   "en": "I'm fine with them up to like 10% because we over-consume in this country.",
+   "zh": "10% 左右以内我觉得没问题，因为我们这个国家消费过度了。",
+   "hl": [
+    {
+     "text": "I'm fine with them up to like 10%",
+     "note": "先让步：I'm fine with X up to…「在…以内我没意见」，后面再说超过了不行。"
+    }
+   ]
+  },
+  {
+   "i": 46,
+   "s": 153.89,
+   "e": 159.66,
+   "spk": "Stan Druckenmiller",
+   "en": "And if you can have a consumption tax that the foreigners bear part of the burden.",
+   "zh": "而如果能有一种消费税，让外国人承担一部分负担。",
+   "hl": []
+  },
+  {
+   "i": 47,
+   "s": 159.66,
+   "e": 161.91,
+   "spk": "Stan Druckenmiller",
+   "en": "I don't have a problem with them.",
+   "zh": "那我不反对。",
+   "hl": []
+  },
+  {
+   "i": 48,
+   "s": 161.91,
+   "e": 171.04,
+   "spk": "Stan Druckenmiller",
+   "en": "If you get into some of the kind of ranges we've got into, I can't stand them, but, you know, I'm a Ronald Reagan old school economist.",
+   "zh": "但要是到了我们之前搞到的那种幅度，我就受不了了——不过你知道，我是里根那一派的老派经济学家。",
+   "hl": [
+    {
+     "text": "I can't stand them, but, you know, I'm a Ronald Reagan old school economist",
+     "note": "转折里再转折：受不了，但我又是里根派，说明立场复杂。"
+    }
+   ]
+  },
+  {
+   "i": 49,
+   "s": 171.04,
+   "e": 173.47,
+   "spk": "Stan Druckenmiller",
+   "en": "But to a point, I think they're fine.",
+   "zh": "但在一定限度内，我觉得关税没问题。",
+   "hl": [
+    {
+     "text": "But to a point, I think they're fine.",
+     "note": "to a point = 在一定程度上。收尾的让步：有限度地认可。"
+    }
+   ]
+  },
+  {
+   "i": 50,
+   "s": 174.1,
+   "e": 174.66,
+   "spk": "Iliana Bouzali",
+   "en": "Crypto?",
+   "zh": "加密货币？",
+   "hl": []
+  },
+  {
+   "i": 51,
+   "s": 175.7,
+   "e": 182.51,
+   "spk": "Stan Druckenmiller",
+   "en": "I said this a long time ago, and I'm going to say it again, it's a solution looking for a problem.",
+   "zh": "我很久以前就说过，现在再说一遍：它是一个在找问题的解决方案。",
+   "hl": []
+  },
+  {
+   "i": 52,
+   "s": 182.51,
+   "e": 185.55,
+   "spk": "Stan Druckenmiller",
+   "en": "I'm very sad that it ever happened.",
+   "zh": "我很遗憾它出现了。",
+   "hl": []
+  },
+  {
+   "i": 53,
+   "s": 185.55,
+   "e": 194.42,
+   "spk": "Stan Druckenmiller",
+   "en": "As a store of value, because it wasn't needed, but it's a brand and these people love it, so it's going to be a store of value.",
+   "zh": "作为价值储存，它本来是不需要的，但它是一个品牌，这些人爱它，所以它会成为价值储存。",
+   "hl": []
+  },
+  {
+   "i": 54,
+   "s": 194.42,
+   "e": 205.67,
+   "spk": "Stan Druckenmiller",
+   "en": "On the other hand, blockchain and the use of stablecoins, if you want to throw crypto into that, tokens—incredibly useful in terms of productivity.",
+   "zh": "另一方面，区块链和稳定币的应用——如果你想把加密货币也算进去的话，还有代币——在提高生产率上极其有用。",
+   "hl": [
+    {
+     "text": "On the other hand,",
+     "note": "On the other hand：另一方面，用来对比前面说的加密货币。"
+    }
+   ]
+  },
+  {
+   "i": 55,
+   "s": 205.67,
+   "e": 213.12,
+   "spk": "Stan Druckenmiller",
+   "en": "I assume our whole payment systems will be stablecoins in 10 or 15 years—efficient, quicker, cheaper.",
+   "zh": "我估计 10 到 15 年后，我们整个支付系统都会是稳定币——高效、更快、更便宜。",
+   "hl": []
+  },
+  {
+   "i": 56,
+   "s": 213.9,
+   "e": 216.33,
+   "spk": "Iliana Bouzali",
+   "en": "China or China-US relations.",
+   "zh": "中国，或者说中美关系。",
+   "hl": []
+  },
+  {
+   "i": 57,
+   "s": 217.47,
+   "e": 222.1,
+   "spk": "Stan Druckenmiller",
+   "en": "Kevin Warsh said something brilliant about eight years ago when Trump took on China.",
+   "zh": "大约八年前特朗普对中国出手的时候，Kevin Warsh 说过一句很精辟的话。",
+   "hl": []
+  },
+  {
+   "i": 58,
+   "s": 222.1,
+   "e": 226.9,
+   "spk": "Stan Druckenmiller",
+   "en": "He said, this is probably the best China and US relations will ever be.",
+   "zh": "他说，现在大概就是中美关系有史以来最好的时候了。",
+   "hl": []
+  },
+  {
+   "i": 59,
+   "s": 226.9,
+   "e": 230.59,
+   "spk": "Stan Druckenmiller",
+   "en": "They're probably only going to get worse from here.",
+   "zh": "往后大概只会越来越糟。",
+   "hl": []
+  },
+  {
+   "i": 60,
+   "s": 230.59,
+   "e": 238.31,
+   "spk": "Stan Druckenmiller",
+   "en": "And it sounded like the craziest statement I had ever heard, and I converted shortly thereafter.",
+   "zh": "我当时觉得这是我听过最疯狂的话，可没过多久我就被说服了。",
+   "hl": []
+  },
+  {
+   "i": 61,
+   "s": 238.31,
+   "e": 245.09,
+   "spk": "Stan Druckenmiller",
+   "en": "And I think that's still the trend— that our relations are in a bear market.",
+   "zh": "我觉得这依然是趋势——两国关系处在熊市里。",
+   "hl": []
+  },
+  {
+   "i": 62,
+   "s": 245.75,
+   "e": 247.31,
+   "spk": "Iliana Bouzali",
+   "en": "Europe and the Euro.",
+   "zh": "欧洲和欧元。",
+   "hl": []
+  },
+  {
+   "i": 63,
+   "s": 248.42,
+   "e": 258.92,
+   "spk": "Stan Druckenmiller",
+   "en": "Euro broke my heart because I lived off the Deutsche Mark for ten years, and when they got rid of the Deutsche Mark, my gravy train was over.",
+   "zh": "欧元让我心碎，因为我靠德国马克吃了十年饭，他们把德国马克废掉之后，我的好日子就到头了。",
+   "hl": []
+  },
+  {
+   "i": 64,
+   "s": 258.92,
+   "e": 262.77,
+   "spk": "Stan Druckenmiller",
+   "en": "I never made returns like I made in the '90s again.",
+   "zh": "我再也没赚到过 90 年代那样的回报。",
+   "hl": []
+  },
+  {
+   "i": 65,
+   "s": 262.77,
+   "e": 275.04,
+   "spk": "Stan Druckenmiller",
+   "en": "Look, I don't know, that place— as an American who likes innovation and who likes action as opposed to being a cultural idiot, which is what I am—I'm not, I'm not big on the Euro.",
+   "zh": "这么说吧，我不知道——那个地方……作为一个喜欢创新、喜欢干实事的美国人，而不是讲究文化的人——我就是个文化白痴——我不太看好欧元。",
+   "hl": []
+  },
+  {
+   "i": 66,
+   "s": 275.04,
+   "e": 280.84,
+   "spk": "Stan Druckenmiller",
+   "en": "By the way, there's companies in Europe we've invested in and we think they're great.",
+   "zh": "顺便说一句，我们在欧洲也投了一些公司，觉得它们很棒。",
+   "hl": []
+  },
+  {
+   "i": 67,
+   "s": 280.84,
+   "e": 283.3,
+   "spk": "Stan Druckenmiller",
+   "en": "So it's not an overriding comment.",
+   "zh": "所以这不是一棍子打死的评价。",
+   "hl": []
+  },
+  {
+   "i": 68,
+   "s": 283.91,
+   "e": 284.91,
+   "spk": "Iliana Bouzali",
+   "en": "Curing cancer.",
+   "zh": "治愈癌症。",
+   "hl": []
+  },
+  {
+   "i": 69,
+   "s": 285.92,
+   "e": 287.2,
+   "spk": "Stan Druckenmiller",
+   "en": "Gonna happen, soon.",
+   "zh": "会实现的，很快。",
+   "hl": []
+  },
+  {
+   "i": 70,
+   "s": 287.72,
+   "e": 289.41,
+   "spk": "Iliana Bouzali",
+   "en": "What's your market in years?",
+   "zh": "「很快」是几年？",
+   "hl": []
+  },
+  {
+   "i": 71,
+   "s": 290.28,
+   "e": 295.5,
+   "spk": "Stan Druckenmiller",
+   "en": "I think in ten years, 95% of cancers will be just a manageable disease.",
+   "zh": "我觉得十年内，95% 的癌症都会变成一种可控的病。",
+   "hl": []
+  },
+  {
+   "i": 72,
+   "s": 296.22,
+   "e": 297.18,
+   "spk": "Iliana Bouzali",
+   "en": "Incredible.",
+   "zh": "太了不起了。",
+   "hl": []
+  },
+  {
+   "i": 73,
+   "s": 297.18,
+   "e": 298.38,
+   "spk": "Iliana Bouzali",
+   "en": "Morgan Stanley.",
+   "zh": "摩根士丹利。",
+   "hl": []
+  },
+  {
+   "i": 74,
+   "s": 299.26,
+   "e": 300.37,
+   "spk": "Stan Druckenmiller",
+   "en": "Quality and trust.",
+   "zh": "品质和信任。",
+   "hl": []
+  },
+  {
+   "i": 75,
+   "s": 300.37,
+   "e": 302.3,
+   "spk": "Stan Druckenmiller",
+   "en": "That's where I go with that firm.",
+   "zh": "一提到这家公司，我想到的就是这个。",
+   "hl": []
+  },
+  {
+   "i": 76,
+   "s": 302.9,
+   "e": 304.5,
+   "spk": "Iliana Bouzali",
+   "en": "Sounds like a good firm.",
+   "zh": "听起来是家好公司。",
+   "hl": []
+  },
+  {
+   "i": 77,
+   "s": 306.23,
+   "e": 308.2,
+   "spk": "Stan Druckenmiller",
+   "en": "It has some problems with it...",
+   "zh": "它也有些问题……",
+   "hl": []
+  },
+  {
+   "i": 78,
+   "s": 308.76,
+   "e": 309.5,
+   "spk": "Iliana Bouzali",
+   "en": "Some people.",
+   "zh": "有些人。",
+   "hl": []
+  },
+  {
+   "i": 79,
+   "s": 310.22,
+   "e": 311.24,
+   "spk": "Stan Druckenmiller",
+   "en": "Just maybe one or...",
+   "zh": "也就一个或……",
+   "hl": []
+  },
+  {
+   "i": 80,
+   "s": 311.67,
+   "e": 311.91,
+   "spk": "Iliana Bouzali",
+   "en": "Two.",
+   "zh": "两个。",
+   "hl": []
+  },
+  {
+   "i": 81,
+   "s": 311.91,
+   "e": 313.36,
+   "spk": "Iliana Bouzali",
+   "en": "The other thousands are great.",
+   "zh": "其他几千人都很棒。",
+   "hl": []
+  },
+  {
+   "i": 82,
+   "s": 313.77,
+   "e": 315.13,
+   "spk": "Iliana Bouzali",
+   "en": "Dollar as a reserve currency.",
+   "zh": "美元作为储备货币。",
+   "hl": []
+  },
+  {
+   "i": 83,
+   "s": 315.82,
+   "e": 318.55,
+   "spk": "Stan Druckenmiller",
+   "en": "It's the cleanest, dirtiest shirt or whatever that thing is.",
+   "zh": "它是一堆脏衬衫里最干净的那件，大概是这么个说法。",
+   "hl": []
+  },
+  {
+   "i": 84,
+   "s": 318.55,
+   "e": 321.92,
+   "spk": "Stan Druckenmiller",
+   "en": "Um, I think it'll be around for a while.",
+   "zh": "我觉得它还会存在很久。",
+   "hl": []
+  },
+  {
+   "i": 85,
+   "s": 321.92,
+   "e": 325.62,
+   "spk": "Stan Druckenmiller",
+   "en": "We're doing everything we can to destroy it.",
+   "zh": "我们正在尽一切努力去毁掉它。",
+   "hl": []
+  },
+  {
+   "i": 86,
+   "s": 325.62,
+   "e": 326.53,
+   "spk": "Stan Druckenmiller",
+   "en": "But I'm 72.",
+   "zh": "但我 72 岁了。",
+   "hl": []
+  },
+  {
+   "i": 87,
+   "s": 326.53,
+   "e": 327.92,
+   "spk": "Stan Druckenmiller",
+   "en": "It'll probably outlive me.",
+   "zh": "它多半会比我活得长。",
+   "hl": []
+  },
+  {
+   "i": 88,
+   "s": 327.92,
+   "e": 332.5,
+   "spk": "Stan Druckenmiller",
+   "en": "I doubt it'll be the reserve currency in 50 years, but I don't have a clue what would be.",
+   "zh": "我不认为 50 年后它还是储备货币，但会是什么，我毫无头绪。",
+   "hl": [
+    {
+     "text": "I doubt it'll be the reserve currency in 50 years, but I don't have a clue what would be",
+     "note": "让步对比：我不认为它 50 年后还是储备货币，但谁会取代它我也不知道。"
+    }
+   ]
+  },
+  {
+   "i": 89,
+   "s": 332.5,
+   "e": 335.14,
+   "spk": "Stan Druckenmiller",
+   "en": "Maybe some crypto thing I hate.",
+   "zh": "也许是某种我讨厌的加密货币吧。",
+   "hl": []
+  },
+  {
+   "i": 90,
+   "s": 335.89,
+   "e": 338.78,
+   "spk": "Iliana Bouzali",
+   "en": "Fed and Treasury working together.",
+   "zh": "美联储和财政部合作。",
+   "hl": []
+  },
+  {
+   "i": 91,
+   "s": 338.78,
+   "e": 340.02,
+   "spk": "Iliana Bouzali",
+   "en": "Can it happen?",
+   "zh": "能实现吗？",
+   "hl": []
+  },
+  {
+   "i": 92,
+   "s": 340.02,
+   "e": 340.35,
+   "spk": "Iliana Bouzali",
+   "en": "How?",
+   "zh": "怎么实现？",
+   "hl": []
+  },
+  {
+   "i": 93,
+   "s": 341.09,
+   "e": 344.27,
+   "spk": "Stan Druckenmiller",
+   "en": "That's what I'm most excited about with, with Bessent and Warsh.",
+   "zh": "这正是我对 Bessent 和 Warsh 最期待的地方。",
+   "hl": []
+  },
+  {
+   "i": 94,
+   "s": 344.27,
+   "e": 345.35,
+   "spk": "Stan Druckenmiller",
+   "en": "I think it can happen.",
+   "zh": "我觉得能实现。",
+   "hl": []
+  },
+  {
+   "i": 95,
+   "s": 345.35,
+   "e": 346.97,
+   "spk": "Stan Druckenmiller",
+   "en": "I think it's necessary.",
+   "zh": "我觉得这是必要的。",
+   "hl": []
+  },
+  {
+   "i": 96,
+   "s": 346.97,
+   "e": 353.86,
+   "spk": "Stan Druckenmiller",
+   "en": "I can't think of two people better placed in terms of skill sets and personalities to make it happen.",
+   "zh": "论能力和性格，我想不出比他们俩更适合把这件事办成的人了。",
+   "hl": []
+  },
+  {
+   "i": 97,
+   "s": 353.86,
+   "e": 356.29,
+   "spk": "Stan Druckenmiller",
+   "en": "So count me optimistic on that one.",
+   "zh": "所以这件事上，算我一个乐观派。",
+   "hl": []
+  }
+ ],
+ "shadow": [
+  {
+   "i": 27,
+   "tips": "断句：I'm TALKing about TRADing the yield curve / as opPOSED to / just trading BONDS OUTright. as opposed to 连读 a-zə-poz-tə。"
+  },
+  {
+   "i": 45,
+   "tips": "断句：I'm FINE with them / up to like TEN percent / because we OVer-conSUME / in this COUNtry. fine with them 读成 fine-with-əm。"
+  },
+  {
+   "i": 49,
+   "tips": "断句：But to a POINT, / I think they're FINE. to a 连读 tu-wə；point 后停顿。"
+  },
+  {
+   "i": 54,
+   "tips": "断句：On the OTHer hand, / BLOCKchain and the use of STABLEcoins, / if you want to throw CRYPto into that, / TOKens, / inCREDibly USEful / in terms of producTIVity. on the other hand 一口气、升调后停。"
+  },
+  {
+   "i": 88,
+   "tips": "断句：I DOUBT it'll be the reserve CURrency / in FIFty years, / but I DON'T have a CLUE / what WOULD be. but 前停顿；clue 重读。"
+  }
+ ],
+ "questions": [
+  "What one-word answers did Druckenmiller give for the US economy, biotech and retail investors?",
+  "Why did he call the yield curve \"overrated\"? (Try: \"Although it's a pretty good indicator, …\")",
+  "What did his young partner say about humanoid robots?",
+  "What is his view on tariffs? Use \"up to\" or \"to a point\".",
+  "How does he contrast crypto as a store of value with stablecoins? (Try: \"While crypto…, stablecoins…\")",
+  "Pick two words from the game and answer them yourself, each with a \"but\". (e.g. \"Gold: I like it, but…\")"
+ ],
+ "chunks": [
+  {
+   "en": "whatever comes to mind",
+   "zh": "脑子里冒出来的任何东西",
+   "i": 2
+  },
+  {
+   "en": "___ as opposed to ___",
+   "zh": "…而不是…",
+   "i": 27
+  },
+  {
+   "en": "Very rarely do you ___",
+   "zh": "很少能…（倒装强调）",
+   "i": 28
+  },
+  {
+   "en": "I'm fine with them up to ___",
+   "zh": "在…以内我没意见",
+   "i": 45
+  },
+  {
+   "en": "to a point",
+   "zh": "在一定程度上",
+   "i": 49
+  },
+  {
+   "en": "a solution looking for a problem",
+   "zh": "一个在找问题的解决方案（没有刚需）",
+   "i": 51
+  },
+  {
+   "en": "I don't have a clue ___",
+   "zh": "我完全不知道…",
+   "i": 88
+  },
+  {
+   "en": "count me optimistic on that one",
+   "zh": "这件事算我一个乐观派",
+   "i": 97
+  }
+ ],
+ "source": "YouTube 人工字幕"
+}
