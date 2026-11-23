@@ -103,7 +103,7 @@
         var key = String(c.day) + '|' + String(c.date || '');
         if (key !== lastKey) {
           lastKey = key;
-          h += '<div class="day-h"><b>' + esc(dayLabel(c) || '片段') + '</b><span>' + esc(c.date || '') + '</span></div>';
+          h += '<div class="day-h"><b>' + esc(dayLabel(c) || '片段') + '</b></div>';
         }
         var dur = (num(c.end) !== null && num(c.start) !== null) ? fmt(c.end - c.start) : '';
         h += '<a class="card" href="#/c/' + encodeURIComponent(c.id) + '">' +
@@ -205,7 +205,7 @@
     var h = '<article class="clip">';
     h += '<header class="clip-head"><a class="back" href="#/">← 全部片段</a>' +
       '<h1>' + esc(clip.title_zh || clip.id || '') + '</h1>' +
-      '<div class="clip-sub">' + [dayLabel(clip), clip.date, clip.show, clip.guest].filter(Boolean).map(esc).join(' · ') +
+      '<div class="clip-sub">' + [dayLabel(clip), clip.show, clip.guest].filter(Boolean).map(esc).join(' · ') +
       ' · ' + fmt(end - start) + '</div>' +
       '<div class="tags">' + tagsHTML(clip) + '</div></header>';
 
